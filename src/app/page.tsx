@@ -1,6 +1,39 @@
+"use client"; // Ensures this component is treated as a Client Component
+
 import Image from "next/image";
+import { useEffect, useState } from "react";
+
+// Define the TypeScript interface for the product
+interface Product {
+  title: string;
+  price: string;
+  link: string;
+  image: string;
+}
 
 export default function Home() {
+  const [products, setProducts] = useState<Product[]>([]);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    const fetchProducts = async () => {
+      try {
+        const response = await fetch('/api/scraped-data');
+        const data: Product[] = await response.json(); // Directly fetch JSON data
+        setProducts(data);
+      } catch (err) {
+        console.error('Error fetching or parsing data:', err);
+        setError('Failed to load products. Please try again later.');
+      }
+    };
+
+    fetchProducts();
+  }, []);
+
+  if (error) {
+    return <p className="text-red-500">{error}</p>;
+  }
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-12">
       <header className="w-full max-w-4xl mb-12 text-center">
@@ -11,44 +44,27 @@ export default function Home() {
       </header>
 
       <section className="grid gap-8 lg:grid-cols-3 w-full max-w-4xl">
-        <a
-          href="/products"
-          className="group block rounded-lg border border-gray-300 p-6 transition-colors hover:border-gray-400 hover:bg-gray-50"
-        >
-          <h2 className="text-2xl font-semibold mb-2">
-            Browse Products
-            <span className="inline-block transition-transform group-hover:translate-x-1 ml-2">-&gt;</span>
-          </h2>
-          <p className="text-gray-500">
-            Explore a wide selection of skateboards, apparel, and accessories on sale.
-          </p>
-        </a>
-
-        <a
-          href="/about"
-          className="group block rounded-lg border border-gray-300 p-6 transition-colors hover:border-gray-400 hover:bg-gray-50"
-        >
-          <h2 className="text-2xl font-semibold mb-2">
-            About Us
-            <span className="inline-block transition-transform group-hover:translate-x-1 ml-2">-&gt;</span>
-          </h2>
-          <p className="text-gray-500">
-            Learn about SkateStock’s mission to support local skate shops while helping you find the best deals.
-          </p>
-        </a>
-
-        <a
-          href="/contact"
-          className="group block rounded-lg border border-gray-300 p-6 transition-colors hover:border-gray-400 hover:bg-gray-50"
-        >
-          <h2 className="text-2xl font-semibold mb-2">
-            Contact Us
-            <span className="inline-block transition-transform group-hover:translate-x-1 ml-2">-&gt;</span>
-          </h2>
-          <p className="text-gray-500">
-            Have questions? Get in touch with us to learn more or get involved.
-          </p>
-        </a>
+        {products.length > 0 ? (
+          products.map((product, index) => (
+            <a
+              key={index}
+              href={product.link}
+              className="group block rounded-lg border border-gray-300 p-6 transition-colors hover:border-gray-400 hover:bg-gray-50"
+            >
+              <Image
+                src={product.image && product.image.startsWith('http') ? product.image : '/path/to/placeholder-image.jpg'}
+                alt={product.title}
+                width={300}
+                height={300}
+                className="mb-4 rounded-lg"
+              />
+              <h2 className="text-2xl font-semibold mb-2">{product.title}</h2>
+              <p className="text-gray-500">{product.price}</p>
+            </a>
+          ))
+        ) : (
+          <p className="text-gray-500">Loading products...</p>
+        )}
       </section>
 
       <footer className="w-full max-w-4xl mt-12 text-center text-gray-400 text-sm">
