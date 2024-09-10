@@ -97,43 +97,51 @@ async function scrapeSeasonsSkateShop() {
       const { data } = await axios.get(url);
       const $ = cheerio.load(data);
 
-      const productElements = $('a.full-unstyled-link');
+      const productElements = $('li.grid__item'); // Adjust selector if necessary
       if (productElements.length === 0) {
         hasMorePages = false;
         break;
       }
 
-      const scriptContent = $('script')
-        .toArray()
-        .map(script => $(script).html())
-        .find(script => script.includes('"product":{"title"'));
+      productElements.each((index, element) => {
+        // Clean the title to remove extra spaces and newlines
+        let title = $(element).find('a.full-unstyled-link').first().text().trim();
+        title = title.replace(/\s+/g, ' '); // Replace multiple spaces/newlines with a single space
 
-      if (scriptContent) {
-        const jsonDataMatch = scriptContent.match(/\{"collection":\{"id".+?\}\}\);/s);
+        const link = `https://seasonsskateshop.com${$(element).find('a.full-unstyled-link').attr('href')}`;
+        const image = $(element).find('img').attr('data-src') || $(element).find('img').attr('src');
 
-        if (jsonDataMatch) {
-          let jsonString = jsonDataMatch[0];
-          jsonString = jsonString.replace(/\);$/, '');
+        // Using the CSS selector to extract the combined price text
+        const priceText = $(element)
+          .find('div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2)')
+          .text()
+          .replace(/\s+/g, ' ') // Replace multiple spaces and newlines with a single space
+          .trim();
 
-          try {
-            const jsonData = JSON.parse(jsonString);
+        let originalPrice = 'No original price found';
+        let salePrice = 'No sale price found';
 
-            jsonData.collection.productVariants.forEach(item => {
-              products.push({
-                title: item.product.title || 'No title found',
-                price: `${item.price.amount} ${item.price.currencyCode}` || 'No price found',
-                link: `https://seasonsskateshop.com${item.product.url}` || 'No link found',
-                image: item.image.src ? `https:${item.image.src}` : 'No image found',
-              });
-            });
-          } catch (parseError) {
-            console.error('Error parsing the JSON data:', parseError);
-            console.log("Cleaned JSON String:\n", jsonString);
+        // Extract the prices from the combined price text
+        const priceMatches = priceText.match(/\$[\d,.]+/g);
+        if (priceMatches && priceMatches.length > 1) {
+          salePrice = priceMatches[0].trim(); // Sale price is the first matched price
+          originalPrice = priceMatches[1].trim(); // Original price is the second matched price
+        } else if (priceMatches && priceMatches.length === 1) {
+          salePrice = priceMatches[0].trim(); // Assign the only matched price to salePrice
+          const originalMatch = priceText.match(/Regular price\s*\$[\d,.]+/);
+          if (originalMatch) {
+            originalPrice = originalMatch[0].replace('Regular price', '').trim();
           }
-        } else {
-          console.error('No valid JSON data found in the script content');
         }
-      }
+
+        products.push({
+          title: title || 'No title found',
+          originalPrice: originalPrice || 'No original price found',
+          salePrice: salePrice || 'No sale price found',
+          link: link || 'No link found',
+          image: image ? `https:${image}` : 'No image found',
+        });
+      });
 
       page++;
     } catch (error) {
@@ -142,7 +150,7 @@ async function scrapeSeasonsSkateShop() {
     }
   }
 
-  const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'scrapedData.json');
+  const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'seasonsScrapedData.json');
   fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
   console.log(`Scraped data from Seasons Skate Shop saved to ${filePath}`);
 }
@@ -157,58 +165,228 @@ async function scrapePremierStore() {
   while (hasMorePages) {
     try {
       const url = `${baseUrl}&page=${page}`;
-      console.log(`Scraping page ${page}: ${url}`);
+      console.log(`Scraping Premier Store - Page ${page}: ${url}`);
       const { data } = await axios.get(url);
       const $ = cheerio.load(data);
 
-      // Select the product elements
-      const productElements = $('.grid__item'); // Adjust the selector based on inspection
-
+      const productElements = $('li.grid__item');
       if (productElements.length === 0) {
-        console.log('No products found on this page.');
         hasMorePages = false;
         break;
       }
 
       // Scrape product details
       productElements.each((index, element) => {
-        const title = $(element).find('.grid-product__title').text().trim();
+        const brand = $(element).find('div:nth-child(2) > a:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2)').text().trim();
+        const productName = $(element).find('div:nth-child(2) > a:nth-child(1) > div:nth-child(3) > div:nth-child(1) > span:nth-child(3)').text().trim();
 
-        // Extract and clean up the sale price
-        const priceElement = $(element).find('.price__sale .price-item');
-        let price = priceElement.text().trim();
-        price = price.replace(/\s+/g, ' '); // Replace multiple spaces and newlines with a single space
+        // Extract and clean up prices
+        let salePrice = $(element).find('.price__sale .price-item').text().trim();
+        let originalPrice = $(element).find('.price__regular .price-item').text().trim();
+
+        salePrice = salePrice.replace(/\s+/g, ' '); // Clean up spacing
+        originalPrice = originalPrice.replace(/\s+/g, ' '); // Clean up spacing
+
+        // If salePrice contains both the sale and original price (e.g., "$48.00 was $60.00")
+        if (salePrice.includes('was')) {
+          const prices = salePrice.split('was');
+          salePrice = prices[0].trim(); // Sale price is before "was"
+          originalPrice = prices[1].trim(); // Original price is after "was"
+        }
+
+        // If no sale price found, set the original price as the sale price
+        if (!salePrice) {
+          salePrice = originalPrice;
+          originalPrice = 'No original price found'; // Adjust this as needed
+        }
 
         const link = `https://thepremierstore.com${$(element).find('a').attr('href')}`;
         const image = $(element).find('img').attr('data-src') || $(element).find('img').attr('src');
 
         products.push({
-          title: title || 'No title found',
-          price: price || 'No price found',
+          title: `${brand} ${productName}` || 'No title found',
+          originalPrice: originalPrice || 'No original price found',
+          salePrice: salePrice || 'No sale price found',
           link: link || 'No link found',
           image: image ? `https:${image}` : 'No image found',
         });
       });
 
-      // Check if there are more pages to scrape
-      hasMorePages = $('.pagination__next').length > 0;
       page++;
     } catch (error) {
-      console.error('Error fetching the data:', error);
+      console.error('Error fetching the data from Premier Store:', error);
       hasMorePages = false;
     }
   }
 
-  // Save the scraped data to a JSON file
   const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'premierScrapedData.json');
   fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
-  console.log(`Scraped data saved to ${filePath}`);
+  console.log(`Scraped data from Premier Store saved to ${filePath}`);
 }
+
+// Function to scrape Labor Skate Shop
+async function scrapeLaborSkateShop() {
+  const baseUrl = 'https://laborskateshop.com/collections/sale';
+  let page = 1;
+  let products = [];
+  let hasMorePages = true;
+
+  while (hasMorePages) {
+    try {
+      const url = `${baseUrl}?page=${page}`;
+      console.log(`Scraping Labor Skate Shop - Page ${page}: ${url}`);
+      const { data } = await axios.get(url);
+      const $ = cheerio.load(data);
+
+      // Use a more general attribute selector for product elements
+      const productElements = $('[id^="CardLink-template--"]'); // Generalized selector
+      if (productElements.length === 0) {
+        hasMorePages = false;
+        break;
+      }
+
+      productElements.each((index, element) => {
+        // Use a general selector for the title
+        let title = $(element).text().trim();
+        title = title.replace(/\s+/g, ' '); // Clean title from extra spaces/newlines
+
+        const link = `https://laborskateshop.com${$(element).attr('href')}`;
+       
+      // Extract the image URL
+const imageElement = $(element).closest('li.grid__item').find('img');
+let imageSrc = imageElement.attr('data-src') || imageElement.attr('src');
+
+// Clean up image URL to ensure no double https:
+if (imageSrc && imageSrc.startsWith('//')) {
+  imageSrc = `${imageSrc.trim()}`; // Prepend https: if starting with //
+} else if (imageSrc) {
+  imageSrc = imageSrc.trim(); // Just trim if already starts with https or has correct URL
+} else {
+  imageSrc = 'No image found'; // Default case when no image is found
+}
+
+const image = imageSrc;
+
+
+        // Use the given CSS selector to extract the price text
+        const priceText = $(element)
+        .closest('li.grid__item') // Navigate up to the parent grid item
+        .find('div:nth-child(6) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)')
+        .text()
+        .trim()
+        .replace(/\s+/g, ' '); // Clean price text
+
+        let originalPrice = 'No original price found';
+        let salePrice = 'No sale price found';
+
+        // Extract prices from the cleaned-up price text
+        const priceMatches = priceText.match(/\$[\d,.]+/g);
+        if (priceMatches && priceMatches.length > 1) {
+          // Sort prices to make sure the higher one is the original price and the lower one is the sale price
+          const prices = priceMatches.map(price => parseFloat(price.replace('$', '')));
+          if (prices[0] > prices[1]) {
+            originalPrice = `$${prices[0]}`;
+            salePrice = `$${prices[1]}`;
+          } else {
+            originalPrice = `$${prices[1]}`;
+            salePrice = `$${prices[0]}`;
+          }
+        } else if (priceMatches && priceMatches.length === 1) {
+          salePrice = priceMatches[0]; // Only sale price found
+        }
+
+        products.push({
+          title: title || 'No title found',
+          originalPrice: originalPrice || 'No original price found',
+          salePrice: salePrice || 'No sale price found',
+          link: link || 'No link found',
+          image: image ? `https:${image}` : 'No image found',
+        });
+      });
+
+      page++;
+    } catch (error) {
+      console.error('Error fetching the data from Labor Skate Shop:', error);
+      hasMorePages = false;
+    }
+  }
+
+  const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'laborScrapedData.json');
+  fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
+  console.log(`Scraped data from Labor Skate Shop saved to ${filePath}`);
+}
+
+// Function to scrape NJ Skate Shop
+async function scrapeNJSkateShop() {
+  const baseUrl = 'https://njskateshop.com/collections/sale';
+  let page = 1;
+  let products = [];
+  let hasMorePages = true;
+
+  while (hasMorePages) {
+    try {
+      const url = `${baseUrl}?page=${page}`;
+      console.log(`Scraping NJ Skate Shop - Page ${page}: ${url}`);
+      const { data } = await axios.get(url);
+      const $ = cheerio.load(data);
+
+      // Extract the script content that contains 'meta'
+      const scriptContent = $('script').toArray().map(script => $(script).html()).find(script => script.includes('var meta ='));
+      
+      if (scriptContent) {
+        // Use regex to extract the JSON part of the meta variable
+        const metaMatch = scriptContent.match(/var meta = (\{.+?\});/s);
+        
+        if (metaMatch && metaMatch[1]) {
+          const metaJson = JSON.parse(metaMatch[1]);
+
+          // Loop through the products array
+          metaJson.products.forEach((product) => {
+            const productName = product.variants[0].name; // Extract the full product name
+            const vendor = product.vendor; // Extract the brand name
+          
+            // Modify the title to avoid duplication by checking if the vendor already appears in the product name
+            const title = productName.includes(vendor) ? productName : `${vendor} - ${productName}`;
+          
+            // Extract the original price and calculate the sale price (50% off)
+            const originalPrice = product.variants[0].price ? `$${(product.variants[0].price / 100).toFixed(2)}` : 'No original price found';
+            const salePrice = product.variants[0].price ? `$${(product.variants[0].price / 200).toFixed(2)}` : 'No sale price found';
+          
+            const productData = {
+              title: title || 'No title found',
+              originalPrice: originalPrice,
+              salePrice: salePrice,
+              link: `https://njskateshop.com/products/${product.id}` || 'No link found',
+              image: `https://njskateshop.com/cdn/shop/files/${product.id}_L_{width}x.jpg` || 'No image found'
+            };
+          
+            products.push(productData);
+          });
+          
+          
+        }
+      }
+
+      page++;
+      hasMorePages = false; // If scraping a single page
+    } catch (error) {
+      console.error('Error fetching the data from NJ Skate Shop:', error);
+      hasMorePages = false;
+    }
+  }
+
+  const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'njScrapedData.json');
+  fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
+  console.log(`Scraped data from NJ Skate Shop saved to ${filePath}`);
+}
+
 
 // Run the scrapers sequentially
 async function runScrapers() {
   await scrapeSeasonsSkateShop();
   await scrapePremierStore();
+  await scrapeLaborSkateShop(); // Add this line to include Labor Skate Shop
+  await scrapeNJSkateShop();
 }
 
 runScrapers();

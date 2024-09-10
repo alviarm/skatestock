@@ -15,22 +15,6 @@ const nextConfig = {
     return config;
   },
 
-  // Specify custom import aliases (if using a custom import alias)
-  // Uncomment and modify the following lines if needed
-  // experimental: {
-  //   modularizeImports: {
-  //     '@components': {
-  //       transform: '@components/{{member}}',
-  //     },
-  //   },
-  // },
-
-  // Internationalization settings (optional)
-  // i18n: {
-  //   locales: ['en', 'fr'],
-  //   defaultLocale: 'en',
-  // },
-
   // Enable TypeScript strict mode (if using TypeScript)
   typescript: {
     ignoreBuildErrors: false,
@@ -45,6 +29,24 @@ const nextConfig = {
         port: '',
         pathname: '/cdn/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'thepremierstore.com',
+        port: '',
+        pathname: '/cdn/shop/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'laborskateshop.com',
+        port: '',
+        pathname: '/cdn/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'njskateshop.com', // Add NJ Skateshop here
+        port: '',
+        pathname: '/cdn/**', // Ensure this covers NJ Skateshop image paths
+      }
     ],
   },
 
