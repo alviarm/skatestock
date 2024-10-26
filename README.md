@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+SkateStock - A Skateboarding Sale Aggregator
 
-## Getting Started
+Overview
 
-First, run the development server:
+SkateStock is a web application that aggregates sale section links from independent skate shops, promoting support for local businesses and non-chain stores. Built with skateboarding enthusiasts in mind, SkateStock centralizes sale offerings in one easy-to-use platform, helping users discover the best deals on skateboarding gear.
 
-```bash
+Features
+
+Aggregated Sales: Collects sale section items from multiple independent skate shops to provide a comprehensive view of available discounts.
+
+Support Local Businesses: Promotes skater-owned, non-chain stores, encouraging support for local businesses.
+
+Web Scraping Integration: Implements web scraping techniques to gather data, ensuring real-time updates for deals.
+
+Intuitive UI/UX: Designed for user-friendliness and streamlined navigation, making it easy for skateboarding enthusiasts to find what they need.
+
+Efficient Data Processing: Focused on delivering smooth performance and quick loading times to improve user engagement.
+
+Tech Stack
+
+Frontend: Next.js, React, Tailwind CSS for responsive and modern UI/UX.
+
+Backend: Node.js, Express for server-side operations.
+
+Web Scraping: Axios and Cheerio for data collection from independent skate shop websites.
+
+Deployment: Deployed using Vercel for a smooth, cost-effective hosting solution.
+
+Installation
+
+To set up SkateStock locally:
+
+Clone the repository:
+
+git clone https://github.com/alviarm/skatestock.git
+
+Navigate to the project directory:
+
+cd skatestock
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit http://localhost:3000 to view the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Running the Scrapers
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To scrape data from skate shops:
 
-## Learn More
+Navigate to the scraper file:
 
-To learn more about Next.js, take a look at the following resources:
+cd src
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run the scraper script:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+node scraper.js
 
-## Deploy on Vercel
+This will gather the latest sale data and update the platform accordingly.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Deployment
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The project is deployed using Vercel, which supports seamless integration with GitHub. Any changes pushed to the main branch automatically update the live site.
+
+Contributing
+
+We welcome contributions to improve SkateStock!
+
+Fork the repository
+
+Create a new branch: git checkout -b feature-branch
+
+Commit your changes: git commit -m 'Add new feature'
+
+Push the branch: git push origin feature-branch
+
+Open a Pull Request
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+
+Thanks to the skateboarding community for inspiring this project.
+
+Credit to all independent skate shops featured in SkateStock for their dedication to skateboarding culture.
+
+Contact
+
+For questions, suggestions, or collaboration opportunities, feel free to reach out:
+
+GitHub: alviarm
+
+Email: matthewalviar@gmail.com alviarm@oregonstate.edu
