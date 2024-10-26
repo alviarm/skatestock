@@ -81,7 +81,7 @@ export default function Home() {
       <header className="w-full max-w-4xl mb-12 text-center">
         <h1 className="text-5xl font-bold mb-4">Welcome to SkateStock</h1>
         <p className="text-lg text-gray-600">
-          Discover the best deals on skateboarding gear from over 120 skater-owned shops.
+          Discover the best deals on skateboarding gear from various skater-owned shops.
         </p>
 
         {/* Filter and Sorting */}
