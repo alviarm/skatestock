@@ -2,32 +2,90 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Define color palette and typography */
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --background-rgb: 255, 255, 255; /* White background */
+  --accent-rgb: 255, 87, 34; /* Accent color inspired by subway lines */
+  --font-stack: Helvetica, Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --background-rgb: 0, 0, 0;
   }
 }
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-color: rgb(var(--background-rgb)); /* Set solid white background */
+  font-family: var(--font-stack);
+  line-height: 1.6; 
+  -webkit-font-smoothing: antialiased; /* Improve font appearance */
+  text-rendering: optimizeLegibility;
 }
 
+/* Typography inspired by subway clarity */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-stack);
+  font-weight: 700; /* Bold headings similar to NYC signage */
+}
+
+p {
+  font-family: var(--font-stack);
+  margin-bottom: 1rem; /* Space out paragraphs for readability */
+}
+
+/* Link styling similar to subway informational highlights */
+a {
+  color: rgb(var(--accent-rgb));
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: rgb(0, 0, 0);
+  background-color: rgb(var(--accent-rgb));
+  color: white; /* Inspired by subway signs with contrasting text */
+}
+
+/* Buttons to resemble bold call to action */
+.button-primary {
+  background-color: rgb(var(--accent-rgb));
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.button-primary:hover {
+  background-color: rgb(200, 70, 30); /* Slightly darker shade on hover */
+}
+
+/* Utility class for balanced text wrapping */
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+
+  .subway-label {
+    background-color: rgb(var(--accent-rgb));
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    display: inline-block;
+    text-align: center;
+    min-width: 40px;
+  }
+
+
+  .spacing-clean {
+    padding: 1.5rem;
+    margin: 1.5rem;
   }
 }

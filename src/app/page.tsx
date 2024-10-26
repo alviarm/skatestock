@@ -80,7 +80,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-center p-12">
       <header className="w-full max-w-4xl mb-12 text-center">
         <h1 className="text-5xl font-bold mb-4">Welcome to SkateStock</h1>
-        <p className="text-lg text-gray-600">
+        <p className="text-lg text-gray-600 text-white">
           Discover the best deals on skateboarding gear from various skater-owned shops.
         </p>
 
@@ -92,7 +92,7 @@ export default function Home() {
             <button onClick={() => setCategory("accessories")} className={`px-4 py-2 ml-2 ${category === "accessories" ? "bg-gray-800 text-white" : "bg-gray-200"}`}>Accessories</button>
           </div> */}
           <div>
-            <select onChange={handleSort} className="p-2 border rounded">
+            <select onChange={handleSort} className="p-2 border rounded text-black">
               <option value="default">Sort by</option>
               <option value="lowToHigh">Price: Low to High</option>
               <option value="highToLow">Price: High to Low</option>
@@ -101,7 +101,7 @@ export default function Home() {
           </div>
           <div>
             <label htmlFor="productsPerPage" className="mr-2">View:</label>
-            <select id="productsPerPage" onChange={handleProductsPerPageChange} className="p-2 border rounded">
+            <select id="productsPerPage" onChange={handleProductsPerPageChange} className="p-2 border rounded text-black">
               <option value="9">9 Products</option>
               <option value="18">18 Products</option>
               <option value="27">27 Products</option>
