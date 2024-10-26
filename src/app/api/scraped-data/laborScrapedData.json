@@ -1,5 +1,33 @@
 [
   {
+    "title": "Nike SB Dunk Low Pro - Sesame/Metallic Silver-Pear-Fir",
+    "originalPrice": "$125",
+    "salePrice": "$69",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-sesame-metallic-silver-pear-fir",
+    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1109.jpg?v=1724609801&width=533"
+  },
+  {
+    "title": "Nike SB Dunk Low Pro OLY (PS) - Electric Phantom/Black-Black-Monarch",
+    "originalPrice": "$90",
+    "salePrice": "$52",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-oly-ps-electric-phantom-black-black-monarch",
+    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5358.jpg?v=1722980396&width=533"
+  },
+  {
+    "title": "Nike SB Dunk Low Pro OLY (TD) - Electric Phantom/Black-Black-Monarch",
+    "originalPrice": "$75",
+    "salePrice": "$42",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-oly-td-phantom-black-black-monarch",
+    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5357.heic?v=1722980368&width=533"
+  },
+  {
+    "title": "Nike SB Dunk Low Pro - Electric Phantom/Black-Black-Monarch",
+    "originalPrice": "$125",
+    "salePrice": "$64",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-phantom-black-black-monarch",
+    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5356.jpg?v=1722980275&width=533"
+  },
+  {
     "title": "Quartersnacks Rat Ratz Script T-Shirt - Yellow",
     "originalPrice": "$35",
     "salePrice": "$22",
@@ -7,46 +35,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_0007.jpg?v=1720207990&width=533"
   },
   {
-    "title": "Quartersnacks 70s Logo T-Shirt - Royal Blue",
-    "originalPrice": "$35",
-    "salePrice": "$22",
-    "link": "https://laborskateshop.com/products/quartersnacks-70s-logo-t-shirt-royal-blue",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_9998.jpg?v=1720206699&width=533"
-  },
-  {
     "title": "Nike SB Zoom Blazer Mid - Anthracite/Dark Smoke Grey",
     "originalPrice": "$110",
-    "salePrice": "$62",
+    "salePrice": "$55",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-anthracite-dark-smoke-grey",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_6992_3e6714b3-7dbd-4ca6-89ff-99850b9d49e1.jpg?v=1717273599&width=533"
-  },
-  {
-    "title": "Hopps H-Wing T-Shirt - Ash",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/hopps-h-wing-t-shirt-ash",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_8178.jpg?v=1717092407&width=533"
-  },
-  {
-    "title": "Sci-Fi Fantasy Crab T-Shirt - White",
-    "originalPrice": "$39",
-    "salePrice": "$23",
-    "link": "https://laborskateshop.com/products/sci-fi-fantasy-crab-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_7369.jpg?v=1715366536&width=533"
-  },
-  {
-    "title": "Pass~Port Stem Logo Workers Check S/S Shirt - Brown",
-    "originalPrice": "$84",
-    "salePrice": "$52",
-    "link": "https://laborskateshop.com/products/pass-port-stem-logo-workers-check-s-s-shirt-brown",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_7270.jpg?v=1715103919&width=533"
-  },
-  {
-    "title": "Alltimers Hades Baby T-Shirt - Black/Green",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/alltimers-hades-baby-t-shirt-black-green",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_7009.jpg?v=1714682288&width=533"
   },
   {
     "title": "Vans Drill Chore Loose Carpenter Cord Shorts - Incense",
@@ -61,13 +54,6 @@
     "salePrice": "$62",
     "link": "https://laborskateshop.com/products/nike-sb-react-leo-malachite-malachite-black-white",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_5589.jpg?v=1712333562&width=533"
-  },
-  {
-    "title": "Nike SB Zoom Blazer Low Pro GT - University Blue/Coastal Bleu",
-    "originalPrice": "$80",
-    "salePrice": "$58",
-    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-low-pro-gt-university-blue-coastal-bleu",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5592.jpg?v=1712333388&width=533"
   },
   {
     "title": "Nike SB Vertebrae - Summit White/Cosmic Clay",
@@ -91,60 +77,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_5211.jpg?v=1711644863&width=533"
   },
   {
-    "title": "Fucking Awesome Stamp Logo Zip Hoodie - Black",
-    "originalPrice": "$105",
-    "salePrice": "$65",
-    "link": "https://laborskateshop.com/products/fucking-awesome-stamp-logo-zip-hoodie-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5210_e1417125-01ba-41f6-aa18-6390c299b3f7.jpg?v=1711644787&width=533"
-  },
-  {
-    "title": "Nike SB City of Love L/S T-Shirt - Earth",
-    "originalPrice": "$50",
-    "salePrice": "$26",
-    "link": "https://laborskateshop.com/products/nike-sb-city-of-love-l-s-t-shirt-earth",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4914.jpg?v=1711632829&width=533"
-  },
-  {
-    "title": "Last Resort VM001 Lo Suede - Full Coffee Bean Dip",
-    "originalPrice": "$100",
-    "salePrice": "$60",
-    "link": "https://laborskateshop.com/products/last-resort-vm001-lo-suede-full-coffee-bean-dip",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4879.jpg?v=1711041379&width=533"
-  },
-  {
     "title": "Adidas Busenitz Vintage - Crystal White/Black",
     "originalPrice": "$85",
     "salePrice": "$64",
     "link": "https://laborskateshop.com/products/adidas-busenitz-vintage-crystal-white-black",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_4579_5ba9e303-6cd9-471d-9aae-cf65f72e225d.jpg?v=1710772162&width=533"
-  },
-  {
-    "title": "Nike SB x Rayssa Leal T-Shirt (Kids) - Black",
-    "originalPrice": "$32",
-    "salePrice": "$22",
-    "link": "https://laborskateshop.com/products/nike-sb-x-rayssa-leal-t-shirt-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/ray.jpg?v=1709919549&width=533"
-  },
-  {
-    "title": "Nike SB x Rayssa Leal T-Shirt (Kids) - White",
-    "originalPrice": "$32",
-    "salePrice": "$22",
-    "link": "https://laborskateshop.com/products/nike-sb-x-rayssa-leal-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4254_1445c7a9-03c2-447f-9f13-ef1be4674618.jpg?v=1709919457&width=533"
-  },
-  {
-    "title": "Stussy Sherpa Reversible Jacket - Purple",
-    "originalPrice": "$200",
-    "salePrice": "$109",
-    "link": "https://laborskateshop.com/products/stussy-sherpa-reversible-jacket-purple",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4210_0856cd27-4cc6-4a48-948a-d91a5ddbe4da.jpg?v=1709848782&width=533"
-  },
-  {
-    "title": "Stussy Sonoma Plaid L/S Button Up Shirt - Pink",
-    "originalPrice": "$145",
-    "salePrice": "$98",
-    "link": "https://laborskateshop.com/products/stussy-sonoma-plaid-l-s-button-up-shirt-pink",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4197_18d13e5d-5791-4ee5-afbb-26bc3ee6759d.jpg?v=1709849058&width=533"
   },
   {
     "title": "Stussy Sherpa Shadow Plaid Zip - Berry",
@@ -161,20 +98,6 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_4214_136d5d3a-b016-4f36-ab5b-f5d1468becc4.jpg?v=1709849202&width=533"
   },
   {
-    "title": "Vans Safe Low Short Sleeve T-Shirt - White",
-    "originalPrice": "$45",
-    "salePrice": "$26",
-    "link": "https://laborskateshop.com/products/vans-safe-low-short-sleeve-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3250_9c230c49-cc59-4338-91db-4493f220bb50.jpg?v=1709745135&width=533"
-  },
-  {
-    "title": "Converse One Star Pro x Quartersnacks - Dark Clove/White",
-    "originalPrice": "$80",
-    "salePrice": "$54",
-    "link": "https://laborskateshop.com/products/converse-one-star-pro-x-quartersnacks-dark-clove-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/consquartersnacksbrownIMG_9267.jpg?v=1709322837&width=533"
-  },
-  {
     "title": "Vans Lopside Snapback - Coffee",
     "originalPrice": "$28",
     "salePrice": "$18",
@@ -182,39 +105,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_3925_ef1dc340-c0ce-45c9-b305-508ca4ab4f01.jpg?v=1709319576&width=533"
   },
   {
-    "title": "Cash Only Nylon Applique Logo Pullover Hoodie - Ash",
-    "originalPrice": "$100",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/cash-only-nylon-applique-logo-pullover-hoodie-ash",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3896_eea4044c-ff64-4783-8080-444d24961c0d.jpg?v=1709233896&width=533"
-  },
-  {
-    "title": "Magenta OG Denim Pants Stitch - Distressed Black",
-    "originalPrice": "$145",
-    "salePrice": "$109",
-    "link": "https://laborskateshop.com/products/magenta-og-denim-pants-stitch-distressed-black-denim",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3833.jpg?v=1709147912&width=533"
-  },
-  {
-    "title": "Magenta OG Denim Pants Stitch - Blue",
-    "originalPrice": "$130",
-    "salePrice": "$99",
-    "link": "https://laborskateshop.com/products/magenta-og-denim-pants-stitch-blue-denim",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3838_f37014a9-7665-4118-957c-556b8f4fafa7.jpg?v=1709148034&width=533"
-  },
-  {
     "title": "Nike SB Zoom Blazer Mid PRM - Legend Dark Brown/Fir-Obsidian",
     "originalPrice": "$100",
     "salePrice": "$60",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-prm-legend-dark-brown-fir-obsidian",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_3297_2c0c44b7-4456-4d86-ab61-8723e6abcee1.jpg?v=1708103962&width=533"
-  },
-  {
-    "title": "Butter Goods Felt Applique Pullover Hoodie - Black",
-    "originalPrice": "$100",
-    "salePrice": "$55",
-    "link": "https://laborskateshop.com/products/butter-goods-felt-applique-pullover-hoodie-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3265_6a921071-a4a9-4747-a839-9c6130ff4909.jpg?v=1708020955&width=533"
   },
   {
     "title": "Nike SB Vertebrae - Summit White/Persian Violet",
@@ -259,13 +154,6 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_1570.jpg?v=1705080496&width=533"
   },
   {
-    "title": "Nike SB React Leo - Light Chocolate/Black-White",
-    "originalPrice": "$95",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/nike-sb-react-leo-light-chocolate-black-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1706.jpg?v=1705003923&width=533"
-  },
-  {
     "title": "Nike SB Zoom Blazer Mid - Fir/White",
     "originalPrice": "$90",
     "salePrice": "$65",
@@ -273,32 +161,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_1686_e99133f2-e587-4065-8fad-6614de9c807c.jpg?v=1704916542&width=533"
   },
   {
-    "title": "GX1000 Mind Over Matter Hoodie - Heather Grey",
-    "originalPrice": "$80",
-    "salePrice": "$45",
-    "link": "https://laborskateshop.com/products/gx1000-mind-over-matter-hoodie-heather-grey",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1681_cef4f090-4c06-4d95-97ab-9ca15231832f.jpg?v=1704917409&width=533"
-  },
-  {
-    "title": "Nike SB City of Love L/S T-Shirt - Coconut Milk",
-    "originalPrice": "$50",
-    "salePrice": "$27",
-    "link": "https://laborskateshop.com/products/nike-sb-city-of-love-l-s-t-shirt-coconut-milk",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1661_8d8bf880-5217-4a2a-bfaf-4b19acc56c11.jpg?v=1704908202&width=533"
-  },
-  {
     "title": "Nike SB Zoom Blazer Low GT - Court Blue/Light Orewood",
     "originalPrice": "$85",
     "salePrice": "$62",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-gt-court-blue-light-orewood",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_1179_ec431339-b588-4402-aaff-2553704fc69d.jpg?v=1703609858&width=533"
-  },
-  {
-    "title": "Converse Fastbreak Pro Mid - White/Vaporous Gray",
-    "originalPrice": "$80",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/converse-fastbreak-pro-mid-white-vaporous-gray",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0906_f0be8067-5720-4e88-9481-a966d1ef5774.jpg?v=1703013627&width=533"
   },
   {
     "title": "Converse CTAS Pro Hi - Hi Oops Pink",
@@ -322,20 +189,6 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_0736.jpg?v=1702578787&width=533"
   },
   {
-    "title": "Civilist Wool Bomber Jacket - Black",
-    "originalPrice": "$250",
-    "salePrice": "$135",
-    "link": "https://laborskateshop.com/products/civilist-wool-bomber-jacket-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0715.jpg?v=1702575297&width=533"
-  },
-  {
-    "title": "Alltimers Dreamland Hoodie - Heather Grey",
-    "originalPrice": "$100",
-    "salePrice": "$50",
-    "link": "https://laborskateshop.com/products/alltimers-dreamland-hoodie-heather-grey",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0642.jpg?v=1702418610&width=533"
-  },
-  {
     "title": "Pass~Port Drain Beanie - Rust",
     "originalPrice": "$32",
     "salePrice": "$22",
@@ -357,20 +210,6 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_0262.jpg?v=1701364255&width=533"
   },
   {
-    "title": "Converse AS-1 Pro - Shifting Sand/Warm Sand",
-    "originalPrice": "$80",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/converse-as-1-pro-shifting-sand-warm-sand",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4628_64871fc0-aa7a-4520-bb20-d25bfcb9fb7b.jpg?v=1700586511&width=533"
-  },
-  {
-    "title": "Stussy Stripe Sherpa Shirt - Indigo",
-    "originalPrice": "$160",
-    "salePrice": "$77",
-    "link": "https://laborskateshop.com/products/stussy-stripe-sherpa-shirt-indigo",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4219_6e41d1cc-043e-497a-b4df-9aff11d9e40b.jpg?v=1699565478&width=533"
-  },
-  {
     "title": "Converse Fastbreak Pro Mid - White/Light Blue",
     "originalPrice": "$80",
     "salePrice": "$59",
@@ -390,13 +229,6 @@
     "salePrice": "$51",
     "link": "https://laborskateshop.com/products/nike-sb-leo-react-black-black-orange",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_3976_4c4934c8-e44a-4379-afa9-835c188c992c.jpg?v=1699019898&width=533"
-  },
-  {
-    "title": "Limosine Bug Hoodie - Black",
-    "originalPrice": "$90",
-    "salePrice": "$50",
-    "link": "https://laborskateshop.com/products/limosine-bug-hoodie-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3246_eac413c3-b597-4d4f-87b1-b320c51cb391.jpg?v=1697668867&width=533"
   },
   {
     "title": "Nike SB Zoom Pogo Plus - Summit White/University Blue",
@@ -427,39 +259,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_2819.jpg?v=1696878185&width=533"
   },
   {
-    "title": "Vans Half Zip Polar Tech Fleece - Charcoal/Maroon",
-    "originalPrice": "$90",
-    "salePrice": "$54",
-    "link": "https://laborskateshop.com/products/vans-half-zip-polar-tech-fleece-charcoal-maroon",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2825_29474fd4-19d6-41e9-a106-d6860cd5ada8.jpg?v=1696878229&width=533"
-  },
-  {
     "title": "Nike SB Double Knee Pants - Black",
     "originalPrice": "$110",
     "salePrice": "$57",
     "link": "https://laborskateshop.com/products/nike-sb-double-knee-pants-black",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_24472.jpg?v=1696266135&width=533"
-  },
-  {
-    "title": "Hopps Diamond Plate T-Shirt - Black",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/hopps-diamond-plate-t-shirt-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2311_6d01c4d1-b101-46a1-aac5-81c0fd57db2d.jpg?v=1695928651&width=533"
-  },
-  {
-    "title": "Hopps Red Diamond Plate T-Shirt - White",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/hopps-red-diamond-plate-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2313_0b0d46d9-4c20-41b8-ab0d-f07633812cc2.jpg?v=1695928666&width=533"
-  },
-  {
-    "title": "Last Resort CM001 Lo - Navy-White",
-    "originalPrice": "$95",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/last-resort-cm001-lo-navy-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1947.jpg?v=1695320266&width=533"
   },
   {
     "title": "Last Resort CM001 Lo - Black/White",
@@ -476,20 +280,6 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_1842.jpg?v=1695145356&width=533"
   },
   {
-    "title": "Skate Jawn Bubble Jawn T-Shirt - Olive",
-    "originalPrice": "$32",
-    "salePrice": "$19",
-    "link": "https://laborskateshop.com/products/skate-jawn-bubble-jawn-t-shirt-olive",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1847_651ba597-cceb-4934-9f3e-002c1c940bce.jpg?v=1695145463&width=533"
-  },
-  {
-    "title": "Skate Jawn Bubble Jawn T-Shirt - Natural",
-    "originalPrice": "$32",
-    "salePrice": "$19",
-    "link": "https://laborskateshop.com/products/skate-jawn-bubble-jawn-t-shirt-natural",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1845.jpg?v=1695145476&width=533"
-  },
-  {
     "title": "Nike SB React Leo - White/Black",
     "originalPrice": "$95",
     "salePrice": "$59",
@@ -502,20 +292,6 @@
     "salePrice": "$59",
     "link": "https://laborskateshop.com/products/nike-sb-react-leo-cacao-wow",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_1441_6ab280ba-7ee5-4362-bfd8-d3280776d562.jpg?v=1694635264&width=533"
-  },
-  {
-    "title": "Pass~Port Workers Micro Cord Shirt - Caramel",
-    "originalPrice": "$90",
-    "salePrice": "$48",
-    "link": "https://laborskateshop.com/products/pass-port-workers-micro-cord-shirt-caramel",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0550.jpg?v=1693318106&width=533"
-  },
-  {
-    "title": "Sci-Fi Fantasy Ski Boot T-Shirt - Natural",
-    "originalPrice": "$39",
-    "salePrice": "$22",
-    "link": "https://laborskateshop.com/products/sci-fi-fantasy-ski-boot-t-shirt-natural",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0035.jpg?v=1692381801&width=533"
   },
   {
     "title": "Sex Hippies Seersucker Short Sleeve T-Shirt - Golden Brown Plaid",
@@ -532,53 +308,11 @@
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_8919.jpg?v=1690990443&width=533"
   },
   {
-    "title": "Vans Skate Old Skool - Nick Michel (Brown/White)",
-    "originalPrice": "$80",
-    "salePrice": "$49",
-    "link": "https://laborskateshop.com/products/vans-skate-old-skool-nick-michel-brown-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_8848.jpg?v=1690916443&width=533"
-  },
-  {
-    "title": "Nike SB Blazer Mid Prm - University Red/Midnight Navy",
-    "originalPrice": "$100",
-    "salePrice": "$46",
-    "link": "https://laborskateshop.com/products/nike-sb-blazer-mid-prm-university-red-midnight-navy",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_7606.jpg?v=1689352799&width=533"
-  },
-  {
-    "title": "Snack Heavyweight T-Shirt - White",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/snack-heavyweight-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_7453_3a81af57-1009-414c-a681-d0310c344d02.jpg?v=1689260820&width=533"
-  },
-  {
-    "title": "New Balance NM 808 - White/Brown",
-    "originalPrice": "$110",
-    "salePrice": "$65",
-    "link": "https://laborskateshop.com/products/new-balance-nm-808-white-brown",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5053_44708cf9-e806-49c9-9bfc-7d9c52148dcc.jpg?v=1684951646&width=533"
-  },
-  {
     "title": "Nike SB El Chino Shorts - Hemp",
     "originalPrice": "$80",
     "salePrice": "$42",
     "link": "https://laborskateshop.com/products/nike-sb-el-chino-shorts-hemp",
     "image": "https://laborskateshop.com/cdn/shop/files/IMG_6219.jpg?v=1683222677&width=533"
-  },
-  {
-    "title": "Nike SB Blazer Mid MS QS - Blackened Blue/Wolf Grey",
-    "originalPrice": "$110",
-    "salePrice": "$52",
-    "link": "https://laborskateshop.com/products/nike-sb-blazer-mid-ms-qs-blackened-blue-wolf-grey",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_3859.jpg?v=1681911754&width=533"
-  },
-  {
-    "title": "Grand Script Hoodie - Black",
-    "originalPrice": "$118",
-    "salePrice": "$69",
-    "link": "https://laborskateshop.com/products/grand-script-hoodie-black",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_6138.jpg?v=1680276706&width=533"
   },
   {
     "title": "Nike SB Zoom Blazer Mid ISO - White/Pro Green-White",
@@ -593,41 +327,6 @@
     "salePrice": "$44",
     "link": "https://laborskateshop.com/products/nike-sb-blazer-low-qs-x-doyenne-coconut-milk-rattan",
     "image": "https://laborskateshop.com/cdn/shop/products/IMG_2355.jpg?v=1677597457&width=533"
-  },
-  {
-    "title": "New Balance NM440HJR - White/Yellow",
-    "originalPrice": "$85",
-    "salePrice": "$60",
-    "link": "https://laborskateshop.com/products/new-balance-nm440hjr-white-yellow",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_2030.jpg?v=1676920002&width=533"
-  },
-  {
-    "title": "Fucking Awesome Dill Puffer Jacket - Jade",
-    "originalPrice": "$115",
-    "salePrice": "$75",
-    "link": "https://laborskateshop.com/products/fucking-awesome-dill-puffer-jacket-jade",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_9690Large_75e9f12f-91f5-4eee-bf00-4e5abfe497d8.jpg?v=1670958859&width=533"
-  },
-  {
-    "title": "Hopps Blaze Sweatpants - Black",
-    "originalPrice": "$68",
-    "salePrice": "$30",
-    "link": "https://laborskateshop.com/products/hopps-blaze-sweatpants-black",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_8792Large.jpg?v=1668544727&width=533"
-  },
-  {
-    "title": "Skate Jawn Chronic T-Shirt - White",
-    "originalPrice": "$32",
-    "salePrice": "$16",
-    "link": "https://laborskateshop.com/products/skate-jawn-chronic-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_8514Large.jpg?v=1667844163&width=533"
-  },
-  {
-    "title": "Nike SB Cargo Pants - Olive",
-    "originalPrice": "$100",
-    "salePrice": "$60",
-    "link": "https://laborskateshop.com/products/nike-sb-cargo-pants-olive",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_8390Large.jpg?v=1667504741&width=533"
   },
   {
     "title": "Nike SB Skate Anorak - Black",

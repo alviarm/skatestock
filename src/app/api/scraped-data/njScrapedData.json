@@ -1,226 +1,975 @@
 [
   {
-    "title": "Bronze - Mesh Cargo Shorts - S / Creme",
-    "originalPrice": "$80.00",
-    "salePrice": "$40.00",
-    "link": "https://njskateshop.com/products/7703423189026",
-    "image": "https://njskateshop.com/cdn/shop/files/7703423189026_L_{width}x.jpg"
-  },
-  {
-    "title": "Nike SB - 2024 Olympics USA Basketball Jersey - M",
-    "originalPrice": "$150.00",
-    "salePrice": "$75.00",
-    "link": "https://njskateshop.com/products/7687883161634",
-    "image": "https://njskateshop.com/cdn/shop/files/7687883161634_L_{width}x.jpg"
-  },
-  {
-    "title": "Nike SB - React Leo (Dark Russet/Dark Russet-White) - 9",
-    "originalPrice": "$95.00",
-    "salePrice": "$47.50",
-    "link": "https://njskateshop.com/products/7669334409250",
-    "image": "https://njskateshop.com/cdn/shop/files/7669334409250_L_{width}x.jpg"
-  },
-  {
-    "title": "There Skateboards - There - James Pitonyak Pretty - 8.38",
+    "title": "Girl - Rowan Davis One Off",
     "originalPrice": "$69.95",
     "salePrice": "$34.98",
-    "link": "https://njskateshop.com/products/7604177600546",
-    "image": "https://njskateshop.com/cdn/shop/files/7604177600546_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/girl-rowan-davis-one-off",
+    "image": "https://njskateshop.com/cdn/shop/files/images_b022ac77-58b6-4b15-ad87-b664de883e76_500x.jpg?v=1721932128"
   },
   {
-    "title": "Nike SB - Air Max Ishod (Pink Foam/White/Light Photo Blue/Black) - 8",
-    "originalPrice": "$110.00",
-    "salePrice": "$55.00",
-    "link": "https://njskateshop.com/products/7592186511394",
-    "image": "https://njskateshop.com/cdn/shop/files/7592186511394_L_{width}x.jpg"
+    "title": "Chocolate - Trahan Portrait",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/chocolate-trahan-portrait",
+    "image": "https://njskateshop.com/cdn/shop/files/trahan-portrait-deck_500x.webp?v=1721931915"
   },
   {
-    "title": "Parra - Beached in White Swim Shorts - M / Multi",
-    "originalPrice": "$105.00",
-    "salePrice": "$52.50",
-    "link": "https://njskateshop.com/products/7576232230946",
-    "image": "https://njskateshop.com/cdn/shop/files/7576232230946_L_{width}x.jpg"
+    "title": "Nike SB - Malor (White/Summit White/Gum Light Brown/Black)",
+    "originalPrice": "$75.00",
+    "salePrice": "$37.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-malor-white-summit-white-gum-light-brown-black",
+    "image": "https://njskateshop.com/cdn/shop/files/NIKE_SB_MALOR_500x.webp?v=1721929866"
   },
   {
-    "title": "New Balance Numeric - 480FXT (Brown/Pink) - 6.5",
-    "originalPrice": "$130.00",
-    "salePrice": "$65.00",
-    "link": "https://njskateshop.com/products/7572308623394",
-    "image": "https://njskateshop.com/cdn/shop/files/7572308623394_L_{width}x.jpg"
-  },
-  {
-    "title": "Paterson - Love Short - M",
-    "originalPrice": "$49.00",
-    "salePrice": "$24.50",
-    "link": "https://njskateshop.com/products/7552161447970",
-    "image": "https://njskateshop.com/cdn/shop/files/7552161447970_L_{width}x.jpg"
-  },
-  {
-    "title": "Paterson - Palm Springs Court Short - M",
-    "originalPrice": "$49.00",
-    "salePrice": "$24.50",
-    "link": "https://njskateshop.com/products/7552146112546",
-    "image": "https://njskateshop.com/cdn/shop/files/7552146112546_L_{width}x.jpg"
-  },
-  {
-    "title": "Paterson - South Beach Court Short - S",
-    "originalPrice": "$49.00",
-    "salePrice": "$24.50",
-    "link": "https://njskateshop.com/products/7552130351138",
-    "image": "https://njskateshop.com/cdn/shop/files/7552130351138_L_{width}x.jpg"
-  },
-  {
-    "title": "Alltimers - John Martin Tee - M / Black",
-    "originalPrice": "$32.00",
-    "salePrice": "$16.00",
-    "link": "https://njskateshop.com/products/7551891963938",
-    "image": "https://njskateshop.com/cdn/shop/files/7551891963938_L_{width}x.jpg"
-  },
-  {
-    "title": "Sex Hippies - Shorts (Purple) - M",
-    "originalPrice": "$88.00",
-    "salePrice": "$44.00",
-    "link": "https://njskateshop.com/products/7498535206946",
-    "image": "https://njskateshop.com/cdn/shop/files/7498535206946_L_{width}x.jpg"
-  },
-  {
-    "title": "Nike SB - Basketball Shorts - XS / Saturn Gold/Bronzine",
-    "originalPrice": "$65.00",
-    "salePrice": "$32.50",
-    "link": "https://njskateshop.com/products/7456559988770",
-    "image": "https://njskateshop.com/cdn/shop/files/7456559988770_L_{width}x.jpg"
-  },
-  {
-    "title": "Nike SB - Air Max Ishod (Star Blue/Black-White) - 8",
-    "originalPrice": "$110.00",
-    "salePrice": "$55.00",
-    "link": "https://njskateshop.com/products/7435664719906",
-    "image": "https://njskateshop.com/cdn/shop/files/7435664719906_L_{width}x.jpg"
-  },
-  {
-    "title": "Nike SB - React Leo (Phantom/Summit White) - 8",
+    "title": "Nike SB - Janoski OG+ ISO (White/White-White)",
     "originalPrice": "$95.00",
     "salePrice": "$47.50",
-    "link": "https://njskateshop.com/products/7423377735714",
-    "image": "https://njskateshop.com/cdn/shop/files/7423377735714_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-janoski-og-iso-white-white-white-copy",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-07-17at4.42.01PM_500x.png?v=1721249107"
   },
   {
-    "title": "New Balance Numeric - 306TWC (Sea Salt/Blue) - 9",
-    "originalPrice": "$90.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/7418789068834",
-    "image": "https://njskateshop.com/cdn/shop/files/7418789068834_L_{width}x.jpg"
+    "title": "Nike SB - 2024 Olympics Dri-Fit Bowler Button Up (Barely Green/Black)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-2024-olympics-dri-fit-button-up-teal-black",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-07-17at1.29.40PM_500x.png?v=1721237578"
   },
   {
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White) - 9",
-    "originalPrice": "$90.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/7418748076066",
-    "image": "https://njskateshop.com/cdn/shop/files/7418748076066_L_{width}x.jpg"
+    "title": "Nike SB - 2024 Olympics Longsleeve Jersey",
+    "originalPrice": "$55.00",
+    "salePrice": "$27.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-2024-olympic-longsleeve-jersey",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-07-17at1.19.51PM_500x.png?v=1721236907"
   },
   {
-    "title": "New Balance Numeric - 1010RD (Rust Orange/Cream) - 8",
-    "originalPrice": "$110.00",
-    "salePrice": "$55.00",
-    "link": "https://njskateshop.com/products/7418719731746",
-    "image": "https://njskateshop.com/cdn/shop/files/7418719731746_L_{width}x.jpg"
+    "title": "Nike SB - Janoski OG+ \"Olympics\" (Phantom/Chlorine Blue-Black)",
+    "originalPrice": "$105.00",
+    "salePrice": "$52.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-janoski-og-olympics-phantom-chlorine-blue-black",
+    "image": "https://njskateshop.com/cdn/shop/files/ipad_nike-sb-zoom-janoski-og-safari-olympics_500x.png?v=1719426121"
   },
   {
-    "title": "Nike SB - City of Love Longsleeve (Earth) - S",
-    "originalPrice": "$50.00",
-    "salePrice": "$25.00",
-    "link": "https://njskateshop.com/products/7411540394018",
-    "image": "https://njskateshop.com/cdn/shop/files/7411540394018_L_{width}x.jpg"
+    "title": "Nike SB - Blazer Mid \"Olympics\" (Phantom/Black-Monarch)",
+    "originalPrice": "$100.00",
+    "salePrice": "$50.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-mid-olympics-phantom-black-monarch",
+    "image": "https://njskateshop.com/cdn/shop/files/Feature-Product-Image-2024-01-26T104805.928_500x.webp?v=1721765041"
   },
   {
-    "title": "Bronze - Love and Hardware Tee - S / Black",
+    "title": "Nike SB - Janoski OG+ (Pacific Moss/Black)",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-janoski-og-pacific-moss-black",
+    "image": "https://njskateshop.com/cdn/shop/files/IMG_0555_2000x_8cb13b89-a835-4404-a84b-c3cd3c9d8d8d_500x.webp?v=1719424503"
+  },
+  {
+    "title": "Bronze - Reversible Bucket Hat",
+    "originalPrice": "$48.00",
+    "salePrice": "$24.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-old-e-bucket-hat-copy",
+    "image": "https://njskateshop.com/cdn/shop/files/00019719948A7E4B_L_500x.jpg?v=1719009407"
+  },
+  {
+    "title": "Bronze - Mr.Blunt Tee",
     "originalPrice": "$34.00",
     "salePrice": "$17.00",
-    "link": "https://njskateshop.com/products/7399770292258",
-    "image": "https://njskateshop.com/cdn/shop/files/7399770292258_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/bronze-torture-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/0001972034619102_L_500x.jpg?v=1719009004"
   },
   {
-    "title": "Bronze 56K - Denim Pants - Small / Light Wash",
-    "originalPrice": "$129.95",
-    "salePrice": "$64.97",
-    "link": "https://njskateshop.com/products/7399746600994",
-    "image": "https://njskateshop.com/cdn/shop/files/7399746600994_L_{width}x.jpg"
+    "title": "Bronze - B Logo Tee",
+    "originalPrice": "$36.00",
+    "salePrice": "$18.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-b-logo-tee-1",
+    "image": "https://njskateshop.com/cdn/shop/files/00019720353A977F_L_500x.jpg?v=1719008611"
   },
   {
-    "title": "Nike SB - Air Max Ishod (White/Navy-Summit-Black) - 8",
+    "title": "Bronze - Mesh Cargo Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-mesh-cargo-shorts",
+    "image": "https://njskateshop.com/cdn/shop/files/00019719790AE9F2_L_500x.jpg?v=1719008334"
+  },
+  {
+    "title": "Bronze - Bike Jersey",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-bike-jersey",
+    "image": "https://njskateshop.com/cdn/shop/files/00019719773E1339_L_500x.jpg?v=1719007471"
+  },
+  {
+    "title": "Bronze 56K - Karpenter Pant",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-56k-karpenter-pant-1",
+    "image": "https://njskateshop.com/cdn/shop/files/0001971989290CC5_L_500x.jpg?v=1719005323"
+  },
+  {
+    "title": "Nike SB - 2024 Olympics USA Basketball Jersey",
+    "originalPrice": "$150.00",
+    "salePrice": "$75.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-team-usa-olympic-jersey",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-07-17at1.17.21PM_500x.png?v=1721236742"
+  },
+  {
+    "title": "Nike SB - Kearny Nylon Cargo Pant (Vintage Green)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-nylon-cargo-pant-green",
+    "image": "https://njskateshop.com/cdn/shop/files/IMG_9064_f57c680b-fd71-4d5a-afb3-ef74c254f0ba_500x.jpg?v=1718221903"
+  },
+  {
+    "title": "Nike SB - React Leo (Dark Russet/Dark Russet-White)",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-react-leo-dark-russet-dark-russet-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-06-05at3.31.29PM_500x.png?v=1717615959"
+  },
+  {
+    "title": "Vans - Ave 2.0 (Bench Green)",
+    "originalPrice": "$120.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/collections/sale/products/vans-ave-2-0-bench-green",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-06-03at3.49.28PM_500x.png?v=1717444235"
+  },
+  {
+    "title": "Parra - Distorted Water Shorts",
+    "originalPrice": "$105.00",
+    "salePrice": "$52.50",
+    "link": "https://njskateshop.com/collections/sale/products/parra-distorted-water-shorts",
+    "image": "https://njskateshop.com/cdn/shop/files/51435-01_500x.jpg?v=1716315643"
+  },
+  {
+    "title": "Sci Fi Fantasy - Eternity Tee",
+    "originalPrice": "$39.00",
+    "salePrice": "$19.50",
+    "link": "https://njskateshop.com/collections/sale/products/sci-fi-fantasy-eternity",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-05-20at5.37.53PM_500x.png?v=1716241121"
+  },
+  {
+    "title": "There - James Pitonyak Pretty",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/there-james-pitonyak-pretty",
+    "image": "https://njskateshop.com/cdn/shop/files/1DTHEPITPRET830_500x.jpg?v=1715783312"
+  },
+  {
+    "title": "Nike SB - Air Max Ishod (Pink Foam/White/Light Photo Blue/Black)",
     "originalPrice": "$110.00",
     "salePrice": "$55.00",
-    "link": "https://njskateshop.com/products/7390841012258",
-    "image": "https://njskateshop.com/cdn/shop/files/7390841012258_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-air-max-ishod-pink-foam-white-light-photo-blue-black",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-05-09at1.12.59PM_500x.png?v=1715274950"
   },
   {
-    "title": "Vans - Safe Low (White) - 8",
-    "originalPrice": "$100.00",
-    "salePrice": "$50.00",
-    "link": "https://njskateshop.com/products/7376772399138",
-    "image": "https://njskateshop.com/cdn/shop/files/7376772399138_L_{width}x.jpg"
+    "title": "Metal - Jersey Chino Pants",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/metal-jersey-pants",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-05-03at1.17.26PM_500x.png?v=1714756805"
   },
   {
-    "title": "Clown x City of God - LIMITED EDITION Triptych (3 Decks) - 8.25",
-    "originalPrice": "$300.00",
-    "salePrice": "$150.00",
-    "link": "https://njskateshop.com/products/7367826145314",
-    "image": "https://njskateshop.com/cdn/shop/files/7367826145314_L_{width}x.jpg"
+    "title": "Parra - Beached in White Swim Shorts",
+    "originalPrice": "$105.00",
+    "salePrice": "$52.50",
+    "link": "https://njskateshop.com/collections/sale/products/parra-beached-in-white-swim-shorts",
+    "image": "https://njskateshop.com/cdn/shop/files/51335-01_500x.jpg?v=1714676699"
   },
   {
-    "title": "Converse CONS x Quartersnacks - Tee (Black) - M",
+    "title": "Paterson - Love Short",
+    "originalPrice": "$49.00",
+    "salePrice": "$24.50",
+    "link": "https://njskateshop.com/collections/sale/products/paterson-love-short",
+    "image": "https://njskateshop.com/cdn/shop/files/loveshort_49_500x.jpg?v=1713969576"
+  },
+  {
+    "title": "Paterson - Palm Springs Court Short",
+    "originalPrice": "$49.00",
+    "salePrice": "$24.50",
+    "link": "https://njskateshop.com/collections/sale/products/paterson-palm-springs-court-short",
+    "image": "https://njskateshop.com/cdn/shop/files/palmspringscourt_49_500x.jpg?v=1713969525"
+  },
+  {
+    "title": "Paterson - South Beach Court Short",
+    "originalPrice": "$49.00",
+    "salePrice": "$24.50",
+    "link": "https://njskateshop.com/collections/sale/products/paterson-south-beach-court-short",
+    "image": "https://njskateshop.com/cdn/shop/files/southbeachcourtshort_49_500x.jpg?v=1713969464"
+  },
+  {
+    "title": "Alltimers - John Martin Tee",
+    "originalPrice": "$32.00",
+    "salePrice": "$16.00",
+    "link": "https://njskateshop.com/collections/sale/products/alltimers-john-martin-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/johnmartin2_500x.jpg?v=1713968542"
+  },
+  {
+    "title": "Sex Hippies - Shorts (Purple)",
+    "originalPrice": "$88.00",
+    "salePrice": "$44.00",
+    "link": "https://njskateshop.com/collections/sale/products/sex-hippies-shorts-purple",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-04-22at3.57.54PM_500x.png?v=1713815921"
+  },
+  {
+    "title": "Nike SB - Blazer Mid (University Red/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-mid-university-red-white-1",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-04-11at3.52.48PM_500x.png?v=1713381104"
+  },
+  {
+    "title": "Nike SB - Basketball Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$32.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-basketball-shorts",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-04-08at2.30.45PM_500x.png?v=1712601425"
+  },
+  {
+    "title": "Nike SB - Air Max Ishod (Star Blue/Black-White)",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-air-max-ishod-star-blue-black-white",
+    "image": "https://njskateshop.com/cdn/shop/files/Nike-SB-Air-Max-Ishod-Star-Blue-FB2393-400-2_500x.jpg?v=1712171951"
+  },
+  {
+    "title": "Nike SB - React Leo (Phantom/Summit White)",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-react-leo-phantom-summit-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-29at3.33.38PM_500x.png?v=1711740950"
+  },
+  {
+    "title": "New Balance Numeric - 306TWC (Sea Salt/Blue)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-306twc-sea-salt-blue",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-26at4.34.16PM_500x.png?v=1711485333"
+  },
+  {
+    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-306blj-black-black-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-26at4.12.07PM_500x.png?v=1711484604"
+  },
+  {
+    "title": "New Balance Numeric - 1010RD (Rust Orange/Cream)",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-1010rd-rust-orange-cream",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-26at4.02.43PM_500x.png?v=1711483800"
+  },
+  {
+    "title": "Nike SB - City of Love Longsleeve (Earth)",
     "originalPrice": "$50.00",
     "salePrice": "$25.00",
-    "link": "https://njskateshop.com/products/7358669848610",
-    "image": "https://njskateshop.com/cdn/shop/files/7358669848610_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-city-of-love-longsleeve-earth",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-22at2.19.18PM_500x.png?v=1711131658"
   },
   {
-    "title": "New Balance Numeric - 480TRA (Brown/Red) - 8",
+    "title": "Bronze - Love and Hardware Tee",
+    "originalPrice": "$34.00",
+    "salePrice": "$17.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-love-and-hardware-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/000185288888D3E1_L_500x.jpg?v=1710506554"
+  },
+  {
+    "title": "Bronze 56K - Karpenter Pant",
+    "originalPrice": "$99.95",
+    "salePrice": "$49.98",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-56k-karpenter-pant",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-20at2.01.22PM_1_500x.png?v=1710957903"
+  },
+  {
+    "title": "Bronze 56K - Denim Pants",
+    "originalPrice": "$129.95",
+    "salePrice": "$64.97",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-56k-denim-pants",
+    "image": "https://njskateshop.com/cdn/shop/files/00018513648E131B_L_500x.jpg?v=1710956294"
+  },
+  {
+    "title": "Nike SB - Air Max Ishod (White/Navy-Summit-Black)",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-air-max-ishod",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-11at3.20.01PM_500x.png?v=1710185010"
+  },
+  {
+    "title": "Vans - Safe Low (White)",
     "originalPrice": "$100.00",
     "salePrice": "$50.00",
-    "link": "https://njskateshop.com/products/7355176943650",
-    "image": "https://njskateshop.com/cdn/shop/files/7355176943650_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/copy-of-vans-safe-lowwhite",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-04at12.43.00PM_500x.png?v=1709574569"
   },
   {
-    "title": "Converse CONS - Fastbreak Pro (Black/Blue/Egret) - 8",
-    "originalPrice": "$85.00",
-    "salePrice": "$42.50",
-    "link": "https://njskateshop.com/products/7349064663074",
-    "image": "https://njskateshop.com/cdn/shop/files/7349064663074_L_{width}x.jpg"
+    "title": "Clown x City of God - LIMITED EDITION Triptych (3 Decks)",
+    "originalPrice": "$300.00",
+    "salePrice": "$150.00",
+    "link": "https://njskateshop.com/collections/sale/products/clown-x-city-of-god-limited-edition-triptych-3-decks",
+    "image": "https://njskateshop.com/cdn/shop/files/tryptic_500x.png?v=1709228434"
   },
   {
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black) - 7",
-    "originalPrice": "$85.00",
-    "salePrice": "$42.50",
-    "link": "https://njskateshop.com/products/7322518716450",
-    "image": "https://njskateshop.com/cdn/shop/files/7322518716450_L_{width}x.jpg"
+    "title": "Chocolate - Perez Caballeros",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/chocolate-perez-caballeros",
+    "image": "https://njskateshop.com/cdn/shop/files/perez-caballeros-deck_1024x1024_15f32f97-cf02-4568-a6a0-fd2dcd104d06_500x.png?v=1708984241"
   },
   {
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE) - 6",
+    "title": "Girl - Geering Colonialism",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/girl-geering-colonialism",
+    "image": "https://njskateshop.com/cdn/shop/files/geering-colonialism-deck_1024x1024_a9735512-c79e-4b9b-b7e4-169d46571eb3_500x.png?v=1708983993"
+  },
+  {
+    "title": "Girl - Bennett Ripened",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/girl-bennett-ripened",
+    "image": "https://njskateshop.com/cdn/shop/files/bennett-ripened-deck_1024x1024_92b4e7ef-e8d7-4635-88d0-974a48df03aa_500x.png?v=1708983734"
+  },
+  {
+    "title": "Girl - Gass Tangram",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/girl-gass-tangram",
+    "image": "https://njskateshop.com/cdn/shop/files/gass-tangram-deck_1024x1024_6aa18314-0620-47e7-a8c0-f0521bffa9cb_500x.png?v=1708983523"
+  },
+  {
+    "title": "Converse CONS x Quartersnacks - Tee (Black)",
+    "originalPrice": "$50.00",
+    "salePrice": "$25.00",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-x-quartersnacks-embroidered-tee-black",
+    "image": "https://njskateshop.com/cdn/shop/files/constee_500x.jpg?v=1709257628"
+  },
+  {
+    "title": "New Balance Numeric - 480TRA (Brown/Red)",
     "originalPrice": "$100.00",
     "salePrice": "$50.00",
-    "link": "https://njskateshop.com/products/7318174826530",
-    "image": "https://njskateshop.com/cdn/shop/files/7318174826530_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-480tra-brown-red",
+    "image": "https://njskateshop.com/cdn/shop/files/NM480TRA_203_500x.jpg?v=1709066437"
   },
   {
-    "title": "Adidas - ADV Henry Jones (Carbon/Cloud White) - 9",
+    "title": "Converse CONS - Fastbreak Pro (Black/Blue/Egret)",
     "originalPrice": "$85.00",
     "salePrice": "$42.50",
-    "link": "https://njskateshop.com/products/7317161082914",
-    "image": "https://njskateshop.com/cdn/shop/files/7317161082914_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-fastbreak-pro-skateshop-day-black-blue-egret",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-02-15at3.37.10PM_500x.png?v=1708029494"
   },
   {
-    "title": "Adidas - Tyshawn Low (BROWN/FTWR WHITE/GOLD MET) - 9",
+    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
     "originalPrice": "$85.00",
     "salePrice": "$42.50",
-    "link": "https://njskateshop.com/products/7317115011106",
-    "image": "https://njskateshop.com/cdn/shop/files/7317115011106_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-01-19at1.36.31PM_500x.png?v=1705689762"
   },
   {
-    "title": "Nike SB - Blazer Low GT (Cool Grey/Black) - 8",
+    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
+    "originalPrice": "$100.00",
+    "salePrice": "$50.00",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
+    "image": "https://njskateshop.com/cdn/shop/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA_500x.png?v=1713380655"
+  },
+  {
+    "title": "Adidas - ADV Henry Jones (Carbon/Cloud White)",
     "originalPrice": "$85.00",
     "salePrice": "$42.50",
-    "link": "https://njskateshop.com/products/7311940419618",
-    "image": "https://njskateshop.com/cdn/shop/files/7311940419618_L_{width}x.jpg"
+    "link": "https://njskateshop.com/collections/sale/products/adidas-adv-henry-jones-carbon-cloud-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-01-16at1.41.57PM_500x.png?v=1705430872"
+  },
+  {
+    "title": "Adidas - Tyshawn Low (BROWN/FTWR WHITE/GOLD MET)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-tyshawn-low-brown-ftwr-white-gold-met",
+    "image": "https://njskateshop.com/cdn/shop/files/IE3126_500x.jpg?v=1705428226"
+  },
+  {
+    "title": "Nike SB - City of Love Longsleeve Tee (Coconut Milk)",
+    "originalPrice": "$50.00",
+    "salePrice": "$25.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-city-of-love-longsleeve-tee-coconut-milk",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-03-22at2.22.49PM_500x.png?v=1711131794"
+  },
+  {
+    "title": "Vans - Skate Half Cab '92 VCU (Dark Brown/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/vans-skate-half-cab-92-vcu-dark-brown-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-01-03at3.40.56PM_500x.png?v=1704314529"
+  },
+  {
+    "title": "Nike SB - Air Max Ishod (White/Varsity Red-Summit White)",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-air-max-ishod-white-varsity-red-summit-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2024-01-18at4.22.01PM_500x.png?v=1705613063"
+  },
+  {
+    "title": "Nike SB -  Blazer Low Pro GT (Court Blue/LT Orewood Brn)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-low-pro-gt-court-blue-lt-orewood-brn",
+    "image": "https://njskateshop.com/cdn/shop/files/Nike-SB-Blazer-Low-GT-Court-Blue-2_500x.png?v=1703620040"
+  },
+  {
+    "title": "Fucking Awesome - Holy War Tee",
+    "originalPrice": "$40.00",
+    "salePrice": "$20.00",
+    "link": "https://njskateshop.com/collections/sale/products/fucking-awesome-holy-war-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/2023_FA_Holiday_GraphicDetail_Tees_HolyWar_Maroon_Front_500x.png?v=1703094707"
+  },
+  {
+    "title": "Fucking Awesome - Moon Birth Tee (Camo)",
+    "originalPrice": "$40.00",
+    "salePrice": "$20.00",
+    "link": "https://njskateshop.com/collections/sale/products/fucking-awesome-moon-birth-tee-camo",
+    "image": "https://njskateshop.com/cdn/shop/files/2023_FA_Holiday_GraphicDetail_Tees_MoonBirth_Camo_Front_500x.png?v=1703094754"
+  },
+  {
+    "title": "Adidas - Nora (Footwear White/Navy/Cloud White)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-nora-footwear-white-navy-cloud-white",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-12-19at3.22.51PM_500x.png?v=1703017584"
+  },
+  {
+    "title": "NJ - Steve's Jersey Barrier Tee",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/nj-steves-jersey-barrier-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/IMG_4611_500x.png?v=1702837331"
+  },
+  {
+    "title": "Bronze - Apple Beanie",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-apple-beanie",
+    "image": "https://njskateshop.com/cdn/shop/files/00017417552CD333_L_500x.jpg?v=1702669613"
+  },
+  {
+    "title": "Bronze - Camo Fleece Jacket",
+    "originalPrice": "$150.00",
+    "salePrice": "$75.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-camo-fleece-jacket",
+    "image": "https://njskateshop.com/cdn/shop/files/00017417518C3324_L_500x.jpg?v=1702664707"
+  },
+  {
+    "title": "Classic Griptape - Premium Chain Beanie",
+    "originalPrice": "$40.00",
+    "salePrice": "$20.00",
+    "link": "https://njskateshop.com/collections/sale/products/classic-griptape-premium-chain-beanie",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-12-11at1.34.52PM_500x.png?v=1702319897"
+  },
+  {
+    "title": "UMA Landsleds - Roman Pabich Streams",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/uma-landsleds-roman-pabich-streams",
+    "image": "https://njskateshop.com/cdn/shop/files/UDPSRPC-838_p459_l_p459_z650_500x.jpg?v=1701792744"
+  },
+  {
+    "title": "Dime - Wave Corduroy Hoodie",
+    "originalPrice": "$124.00",
+    "salePrice": "$62.00",
+    "link": "https://njskateshop.com/collections/sale/products/dime-wave-corduroy-hoodie",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-11-28at3.41.45PM_500x.png?v=1701204254"
+  },
+  {
+    "title": "Dime - Polar Fleece Sherpa Zip",
+    "originalPrice": "$142.00",
+    "salePrice": "$71.00",
+    "link": "https://njskateshop.com/collections/sale/products/dime-polar-fleece-sherpa-zip",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-11-28at3.13.31PM_500x.png?v=1701202559"
+  },
+  {
+    "title": "Adidas x POP Trading - Hat (Navy/White)",
+    "originalPrice": "$50.00",
+    "salePrice": "$25.00",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-x-p-o-p-trading-hat-navy",
+    "image": "https://njskateshop.com/cdn/shop/files/IU2220_SL_Cap_1_500x.jpg?v=1701375877"
+  },
+  {
+    "title": "Sex Hippies - 2 Tone Fleece Beanie",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/sex-hippies-2-tone-fleece-beanie",
+    "image": "https://njskateshop.com/cdn/shop/files/231112_SH_SH_FW23_FleeceBeanie_Green_500x.webp?v=1713817416"
+  },
+  {
+    "title": "Vans - Skate Half Cab (Gold)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/vans-skate-half-cab-gold",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-11-29at11.54.20AM_500x.png?v=1701276951"
+  },
+  {
+    "title": "Vans - Skate MC 96 (Navy/White)",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://njskateshop.com/collections/sale/products/vans-skate-mc-96-vcu-navy-white",
+    "image": "https://njskateshop.com/cdn/shop/files/rd_vans-skate-mc-96-vcu-navy-white_500x.jpg?v=1700588088"
+  },
+  {
+    "title": "Alltimers x Bronze - PB & J Tee",
+    "originalPrice": "$32.00",
+    "salePrice": "$16.00",
+    "link": "https://njskateshop.com/collections/sale/products/alltimers-x-bronze-pb-j-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/000176138955C105_L_500x.jpg?v=1700245864"
+  },
+  {
+    "title": "Adidas - Busenitz Vulc II (Core Black/Cloud White/Gum)",
+    "originalPrice": "$75.00",
+    "salePrice": "$37.50",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-busenitz-vulc-ii-core-black-cloud-white-gum",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-11-16at1.57.00PM_500x.png?v=1700161132"
+  },
+  {
+    "title": "Sci-Fi Fantasy - Pom Pom Beanie",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/sci-fi-fantasy-pom-pom-beanie",
+    "image": "https://njskateshop.com/cdn/shop/files/black-pom-beanie-1_500x.png?v=1699463900"
+  },
+  {
+    "title": "Parra - Trees in Wind Vest",
+    "originalPrice": "$210.00",
+    "salePrice": "$105.00",
+    "link": "https://njskateshop.com/collections/sale/products/parra-trees-in-wind-vest",
+    "image": "https://njskateshop.com/cdn/shop/files/50436-01_500x.png?v=1698439548"
+  },
+  {
+    "title": "New Balance Numeric - 600OGS (White/Green)",
+    "originalPrice": "$94.95",
+    "salePrice": "$47.48",
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-600ogs-tom-knox-white-green",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-10-24at1.20.21PM_500x.png?v=1698168050"
+  },
+  {
+    "title": "Vans - Skate Half Cab Pig Suede (Olive/Black)",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/vans-skate-half-cab-pig-suede-olive-black",
+    "image": "https://njskateshop.com/cdn/shop/files/VN0A5FCD_BIQ_HERO_1_500x.png?v=1697663995"
+  },
+  {
+    "title": "Unity - Logo Hoodie",
+    "originalPrice": "$71.00",
+    "salePrice": "$35.50",
+    "link": "https://njskateshop.com/collections/sale/products/unity-logo-hoodie",
+    "image": "https://njskateshop.com/cdn/shop/files/801-UN-CP-PH-LOGOEMB-BLK-FRONT_500x.png?v=1697652008"
+  },
+  {
+    "title": "Asics - Gel Flexkee Slip On (Black/Tourmaline)",
+    "originalPrice": "$120.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/collections/sale/products/asics-gel-flexkee-slip-on-black-birch",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-10-10at3.37.52PM_500x.png?v=1696966705"
+  },
+  {
+    "title": "Noah - Lightweight Zip Up Sweatshirt",
+    "originalPrice": "$175.00",
+    "salePrice": "$87.50",
+    "link": "https://njskateshop.com/collections/sale/products/noah-lightweight-zip-up-sweatshirt",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-10-05at4.53.33PM_500x.png?v=1696539947"
+  },
+  {
+    "title": "GX1000 - Meltdown Tee",
+    "originalPrice": "$36.00",
+    "salePrice": "$18.00",
+    "link": "https://njskateshop.com/collections/sale/products/gx1000-meltdown-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-10-05at4.00.13PM_500x.png?v=1696959173"
+  },
+  {
+    "title": "Chimney LTD - OG Fold Beanie F/W '23",
+    "originalPrice": "$25.00",
+    "salePrice": "$12.50",
+    "link": "https://njskateshop.com/collections/sale/products/chimney-ltd-og-fold-beanie-f-w-23",
+    "image": "https://njskateshop.com/cdn/shop/files/IMG_0265_500x.jpg?v=1696447028"
+  },
+  {
+    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
+    "originalPrice": "$74.95",
+    "salePrice": "$37.48",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
+    "image": "https://njskateshop.com/cdn/shop/files/17316_88646_500x.jpg?v=1695761218"
+  },
+  {
+    "title": "Parra - Trees in the Wind Puffer",
+    "originalPrice": "$275.00",
+    "salePrice": "$137.50",
+    "link": "https://njskateshop.com/collections/sale/products/parra-trees-in-the-wind-puffer",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-21at2.51.45PM_500x.png?v=1695324802"
+  },
+  {
+    "title": "Parra - Colored Landscape Jacket",
+    "originalPrice": "$190.00",
+    "salePrice": "$95.00",
+    "link": "https://njskateshop.com/collections/sale/products/parra-colored-landscape-jacket",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-21at2.06.24PM_500x.png?v=1695321387"
+  },
+  {
+    "title": "Nike SB - Blazer Mid (Anthracite/Black-Anthracite)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-mid-anthracite-black-anthracite",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-19at12.42.09PM_500x.png?v=1695141937"
+  },
+  {
+    "title": "Converse Cons - AS 1 Pro Ox (White/Navy/Gum)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-as-1-pro-ox-white-navy-gum",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-05at3.44.50PM_1_500x.png?v=1693943673"
+  },
+  {
+    "title": "Noah x ADWYSD - Wave tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$25.00",
+    "link": "https://njskateshop.com/collections/sale/products/noah-x-adwysd-wave-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-05at12.28.34PM_500x.png?v=1693931442"
+  },
+  {
+    "title": "Nike SB - React Leo (White/Black)",
+    "originalPrice": "$95.00",
+    "salePrice": "$47.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-react-leo-white-black",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-01at1.07.45PM_500x.png?v=1693588560"
+  },
+  {
+    "title": "Nike SB - Tanglin Short-Sleeved Woven Button Up",
+    "originalPrice": "$115.00",
+    "salePrice": "$57.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-tanglin-short-sleeved-woven-button-up",
+    "image": "https://njskateshop.com/cdn/shop/files/sb-tanglin-short-sleeve-woven-skate-button-up-l9RBnG_500x.jpg?v=1693249188"
+  },
+  {
+    "title": "POP Trading Co - Oracle Jacket",
+    "originalPrice": "$250.00",
+    "salePrice": "$125.00",
+    "link": "https://njskateshop.com/collections/sale/products/pop-trading-co-oracle-jacket-drizzle",
+    "image": "https://njskateshop.com/cdn/shop/files/ScreenShot2023-09-28at2.32.26PM_500x.png?v=1695926023"
+  },
+  {
+    "title": "Sci Fi Fantasy - Fantasy World L/S Tee (Natural)",
+    "originalPrice": "$46.00",
+    "salePrice": "$23.00",
+    "link": "https://njskateshop.com/collections/sale/products/sci-fi-fantasy-fantasy-world-l-s-tee-natural",
+    "image": "https://njskateshop.com/cdn/shop/files/Fantasy_World_Long_Sleeve_Natural1_500x.png?v=1692116031"
+  },
+  {
+    "title": "Dime - Team Split Hoodie",
+    "originalPrice": "$124.00",
+    "salePrice": "$62.00",
+    "link": "https://njskateshop.com/collections/sale/products/dime-team-split-hoodie",
+    "image": "https://njskateshop.com/cdn/shop/files/download_1_c590bdd5-9345-497a-b4c7-37f84b080777_500x.png?v=1691598769"
+  },
+  {
+    "title": "Dime - Friends Corduroy Pullover",
+    "originalPrice": "$122.00",
+    "salePrice": "$61.00",
+    "link": "https://njskateshop.com/collections/sale/products/dime-friends-corduroy-pullover",
+    "image": "https://njskateshop.com/cdn/shop/files/download_3_3a35aa2f-a74a-4e19-a1a5-a9b53a1775de_500x.png?v=1691597824"
+  },
+  {
+    "title": "New Balance Numeric - 1010BC (Black/Gum)",
+    "originalPrice": "$109.95",
+    "salePrice": "$54.98",
+    "link": "https://njskateshop.com/collections/sale/products/new-balance-numeric-tiago-lemos-1010",
+    "image": "https://njskateshop.com/cdn/shop/files/download_795122df-79cd-4f4e-a0e3-d936b108d854_500x.png?v=1712781690"
+  },
+  {
+    "title": "Sex Hippies - Flat Brimmed Hat",
+    "originalPrice": "$48.00",
+    "salePrice": "$24.00",
+    "link": "https://njskateshop.com/collections/sale/products/sex-hippies-flat-brimmed-hat",
+    "image": "https://njskateshop.com/cdn/shop/files/download_bd183a7d-63d3-47f4-a5b8-d1ad69a5b46d_500x.png?v=1691511651"
+  },
+  {
+    "title": "Nike SB - Blazer Mid ISO (White/Court Purple-White)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-mid-iso-white-court-purple-white",
+    "image": "https://njskateshop.com/cdn/shop/files/download_309ed13a-a3e0-4237-a7dc-4ea1242dbb80_500x.png?v=1691006699"
+  },
+  {
+    "title": "Parra - Fast Food Logo Striped Tee (Burned Yellow)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/parra-fast-food-logo-striped-tee-burned-yellow",
+    "image": "https://njskateshop.com/cdn/shop/files/50110-01_500x.jpg?v=1690814442"
+  },
+  {
+    "title": "Thank You  - Medieval Daewon",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/thank-you-medieval-daewon",
+    "image": "https://njskateshop.com/cdn/shop/files/download_44286329-dbc1-4d16-b8c1-fee38f4bf5a3_500x.png?v=1690472466"
+  },
+  {
+    "title": "Vans - Skate Half Cab (Brown/Gum)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/vans-skate-half-cab-brown-gum",
+    "image": "https://njskateshop.com/cdn/shop/files/download_3_7f2f2ad8-5f9e-4c27-8ff5-6f2dcfe17553_500x.png?v=1688149991"
+  },
+  {
+    "title": "GX1000 - Panda Sex Rayon Shirt",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/gx1000-panda-sex-rayon-shirt",
+    "image": "https://njskateshop.com/cdn/shop/files/download_3_0e303a95-3d80-491f-aab8-05d6cf43f9fe_500x.png?v=1687803408"
+  },
+  {
+    "title": "Adidas - Copa Premiere (Core Black/Footwear White/Gum)",
+    "originalPrice": "$79.95",
+    "salePrice": "$39.98",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-copa-premiere-core-black-footwear-white-gum",
+    "image": "https://njskateshop.com/cdn/shop/files/Adidas-Copa-Premiere-Core-Black-Footwear-White-Gum_600x600_486e1d6e-1b38-4faf-91c1-e259c7be7dd3_500x.jpg?v=1687799044"
+  },
+  {
+    "title": "Nike SB -  Pogo Plus (Black/White-Black-White)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-pogo-plus-black-white-black-white",
+    "image": "https://njskateshop.com/cdn/shop/files/download_2896d615-29e2-448c-82a5-74990f878c80_500x.png?v=1691783822"
+  },
+  {
+    "title": "Bronze - Faces Zip Polo",
+    "originalPrice": "$100.00",
+    "salePrice": "$50.00",
+    "link": "https://njskateshop.com/collections/sale/products/bronze-faces-zip-polo",
+    "image": "https://njskateshop.com/cdn/shop/files/download_f057a383-5e1e-409f-b130-670e457aab45_500x.png?v=1686338486"
+  },
+  {
+    "title": "NJ x Damage - 20th Anniversary '03 Jersey (Black/Green)",
+    "originalPrice": "$65.00",
+    "salePrice": "$32.50",
+    "link": "https://njskateshop.com/collections/sale/products/nj-x-damage-20th-anniversary-03-jersey-black-green",
+    "image": "https://njskateshop.com/cdn/shop/files/NJJERSEY1_500x.png?v=1686167602"
+  },
+  {
+    "title": "NJ - Rainbow Logo Pocket Tee",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/nj-rainbow-logo-pocket-tee",
+    "image": "https://njskateshop.com/cdn/shop/files/download_6_500x.png?v=1685128541"
+  },
+  {
+    "title": "NJ - Street Logo Zip Hoodie (Fall ‘23)",
+    "originalPrice": "$65.00",
+    "salePrice": "$32.50",
+    "link": "https://njskateshop.com/collections/sale/products/nj-street-zip-hood-fall-23",
+    "image": "https://njskateshop.com/cdn/shop/files/download_3_5895187e-0950-4cd8-ae1b-c46e415b74c3_500x.png?v=1684859234"
+  },
+  {
+    "title": "Converse CONS - AS 1 Pro (Egret/Dark Burgundy/Gum)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-as-1-pro-ox-egret-dark-burgundy-gum",
+    "image": "https://njskateshop.com/cdn/shop/files/download_2_8919ac1d-4214-48ee-87b7-eb1e471a108c_500x.png?v=1684254327"
+  },
+  {
+    "title": "Super7 - Powell Peralta ReAction Figures Wave 1",
+    "originalPrice": "$20.00",
+    "salePrice": "$10.00",
+    "link": "https://njskateshop.com/collections/sale/products/powell-peralta-reaction-figures-wave-1",
+    "image": "https://njskateshop.com/cdn/shop/products/RE-Powell_W1b_4up_Group_Card_Graphic_1200_500x.jpg?v=1679588070"
+  },
+  {
+    "title": "Grand Collection - Cotton Short",
+    "originalPrice": "$88.00",
+    "salePrice": "$44.00",
+    "link": "https://njskateshop.com/collections/sale/products/grand-collection-cotton-short",
+    "image": "https://njskateshop.com/cdn/shop/products/SHORT_07_500x.jpg?v=1679695806"
+  },
+  {
+    "title": "NJ x There x Real - 'Friendship' Deck",
+    "originalPrice": "$64.95",
+    "salePrice": "$32.48",
+    "link": "https://njskateshop.com/collections/sale/products/nj-real-x-there-friendship-deck",
+    "image": "https://njskateshop.com/cdn/shop/products/image0-removebg-preview_fb664c98-c652-4602-910d-5ea91c55f1cb_500x.png?v=1679498513"
+  },
+  {
+    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
+    "originalPrice": "$75.00",
+    "salePrice": "$37.50",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-one-star-pro-ox",
+    "image": "https://njskateshop.com/cdn/shop/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9_500x.png?v=1676481093"
+  },
+  {
+    "title": "Converse CONS - Pro Leather Vulcanized Suede (Obsidian/Egret)",
+    "originalPrice": "$75.00",
+    "salePrice": "$37.50",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-pro-leather-vulcanized-suede-obsidian-egret",
+    "image": "https://njskateshop.com/cdn/shop/products/download_7806c44b-8026-4e65-82de-7e123c983a55_500x.png?v=1673986894"
+  },
+  {
+    "title": "Converse CONS - Fastbreak Pro Mid (White/ Team Red/ White)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-fastbreak-pro-mid-white-team-red-white",
+    "image": "https://njskateshop.com/cdn/shop/products/download_1415bb08-d96d-4380-b6a8-c2be2974bf3b_500x.png?v=1673985963"
+  },
+  {
+    "title": "Nike SB - Blazer Mid (Wolf Grey/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-mid-wolf-grey-white",
+    "image": "https://njskateshop.com/cdn/shop/products/download_49190131-b464-465a-a5c6-7e7a9d4e760d_500x.png?v=1673984511"
+  },
+  {
+    "title": "Super7 - Powell Peralta ReAction Figures",
+    "originalPrice": "$20.00",
+    "salePrice": "$10.00",
+    "link": "https://njskateshop.com/collections/sale/products/powell-peralta-reaction-figures",
+    "image": "https://njskateshop.com/cdn/shop/products/RE-Powell_W1A_Steve_Caballero_Card_Graphic_2048_500x.jpg?v=1673546037"
+  },
+  {
+    "title": "Chimney LTD - Short Stack Beanie",
+    "originalPrice": "$25.00",
+    "salePrice": "$12.50",
+    "link": "https://njskateshop.com/collections/sale/products/chimney-ltd-short-stack-beanie",
+    "image": "https://njskateshop.com/cdn/shop/products/image9_500x.jpg?v=1668105368"
+  },
+  {
+    "title": "Chimney LTD - OG Fold Beanie",
+    "originalPrice": "$25.00",
+    "salePrice": "$12.50",
+    "link": "https://njskateshop.com/collections/sale/products/chimney-ltd-og-fold-beanie",
+    "image": "https://njskateshop.com/cdn/shop/products/image3_57641a3e-7808-4436-8650-a3639062f75a_500x.jpg?v=1668105174"
+  },
+  {
+    "title": "Classic Griptape - Butter Shades Button Up",
+    "originalPrice": "$100.00",
+    "salePrice": "$50.00",
+    "link": "https://njskateshop.com/collections/sale/products/classic-griptape-butter-shades-button-up",
+    "image": "https://njskateshop.com/cdn/shop/products/download_1_a8149b4c-4436-402d-8208-b0ef192c442a_500x.png?v=1666818852"
+  },
+  {
+    "title": "Vans - Art Crew Socks",
+    "originalPrice": "$10.00",
+    "salePrice": "$5.00",
+    "link": "https://njskateshop.com/collections/sale/products/vans-socks-grey-red",
+    "image": "https://njskateshop.com/cdn/shop/products/VN0A45GNRKZ-HERO_1400x_17d53c52-7190-4b02-9d3b-6bc668c126db_500x.png?v=1662051283"
+  },
+  {
+    "title": "There - James Pitonyak \"Ways\"",
+    "originalPrice": "$69.95",
+    "salePrice": "$34.98",
+    "link": "https://njskateshop.com/collections/sale/products/there-james-pitonyak-ways-deck",
+    "image": "https://njskateshop.com/cdn/shop/products/rd_there-james-ways-deck_500x.jpg?v=1658759991"
+  },
+  {
+    "title": "Metal - Ancient Logo Tee",
+    "originalPrice": "$30.00",
+    "salePrice": "$15.00",
+    "link": "https://njskateshop.com/collections/sale/products/metal-ancient-logo-tee",
+    "image": "https://njskateshop.com/cdn/shop/products/acninet_500x.png?v=1658165369"
+  },
+  {
+    "title": "Frog - Swim Trunks",
+    "originalPrice": "$65.00",
+    "salePrice": "$32.50",
+    "link": "https://njskateshop.com/collections/sale/products/frog-swim-trunks-1",
+    "image": "https://njskateshop.com/cdn/shop/products/download_1_12117b71-a752-4c90-9a60-e3ca2d3c17a4_500x.png?v=1657561601"
+  },
+  {
+    "title": "Grand Collection - Nylon Short (Peach)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/grand-collection-nylon-short-peach",
+    "image": "https://njskateshop.com/cdn/shop/products/image0-removebg-preview-2_0eed4998-47bc-4671-b1e5-b034e62b4176_500x.png?v=1657318670"
+  },
+  {
+    "title": "OJ - Martinez Its Us Elite Hardline",
+    "originalPrice": "$41.95",
+    "salePrice": "$20.98",
+    "link": "https://njskateshop.com/collections/sale/products/oj-martinez-its-us-elite-hardline-101a",
+    "image": "https://njskateshop.com/cdn/shop/products/22222875-56mm-martinez-its-us-elite-hardline-101a-oj-wheels-1_500x.jpg?v=1654194451"
+  },
+  {
+    "title": "OJ - Team Line Original Mini Combo 101a",
+    "originalPrice": "$41.95",
+    "salePrice": "$20.98",
+    "link": "https://njskateshop.com/collections/sale/products/oj-team-line-original-mini-combo-101a-1",
+    "image": "https://njskateshop.com/cdn/shop/products/22222826-56mm-team-line-original-mini-combo-101a-oj-wheels-1_500x.jpg?v=1654194384"
+  },
+  {
+    "title": "Adidas - Tyshawn (Core Black/Collegiate Green/Cloud White)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/adidas-tyshawn-core-black-collegiate-green-cloud-white",
+    "image": "https://njskateshop.com/cdn/shop/products/download_1_3a482c33-97e2-44bb-aa3c-ac1afe012b86_500x.png?v=1653070613"
+  },
+  {
+    "title": "Hopps - Tag Beanie",
+    "originalPrice": "$20.00",
+    "salePrice": "$10.00",
+    "link": "https://njskateshop.com/collections/sale/products/hopps-tag-beanie",
+    "image": "https://njskateshop.com/cdn/shop/products/image1-removebg-preview_249fcbb2-e9be-4a52-9c54-3a7f7f72cf43_500x.png?v=1640122513"
+  },
+  {
+    "title": "Satori - Talking Trees Canna Cruisers",
+    "originalPrice": "$44.95",
+    "salePrice": "$22.48",
+    "link": "https://njskateshop.com/collections/sale/products/satori-54mm-talking-trees-canna-cruisers-78a-made-with-hemp-oil",
+    "image": "https://njskateshop.com/cdn/shop/products/newwheels-5_550x825_cf5a1eae-d0ec-4c2c-a9c8-992915f87482_500x.jpg?v=1637883136"
+  },
+  {
+    "title": "Satori - 57mm Mike Manzoori Lens Cruiser 78a",
+    "originalPrice": "$46.95",
+    "salePrice": "$23.48",
+    "link": "https://njskateshop.com/collections/sale/products/satori-57mm-mike-manzoori-lens-cruiser-78a",
+    "image": "https://njskateshop.com/cdn/shop/products/Cruiser_Manzoori_550x825_27ec4424-a920-4355-8251-8d5c3d520d2b_500x.jpg?v=1637882988"
+  },
+  {
+    "title": "Nike SB - Blazer Low GT (White/Fir Green)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-low-gt-1",
+    "image": "https://njskateshop.com/cdn/shop/products/dsadsaads_1200x1200_93ec65aa-68cf-44db-a726-ee2338b0d2c3_500x.jpg?v=1635375185"
+  },
+  {
+    "title": "Hopps - Bighopps Water Bottle (Red)",
+    "originalPrice": "$16.00",
+    "salePrice": "$8.00",
+    "link": "https://njskateshop.com/collections/sale/products/hopps-bighopps-water-bottle-red",
+    "image": "https://njskateshop.com/cdn/shop/products/water_500x.jpg?v=1631547609"
+  },
+  {
+    "title": "Nike SB - Blazer Low Pro GT (Black/White-Black)",
+    "originalPrice": "$80.00",
+    "salePrice": "$40.00",
+    "link": "https://njskateshop.com/collections/sale/products/nike-sb-blazer-low-pro-gt-black-white-black",
+    "image": "https://njskateshop.com/cdn/shop/products/DC7695-002-PHSRH000_JPG_HEI_875_WID_875_600x_b01a307b-c91c-4ccd-96e7-59ef8d35bccc_500x.jpg?v=1611602415"
+  },
+  {
+    "title": "Ghetto child - Unity | Turner 52mm",
+    "originalPrice": "$39.95",
+    "salePrice": "$19.98",
+    "link": "https://njskateshop.com/collections/sale/products/ghetto-child-unity-turner-52mm",
+    "image": "https://njskateshop.com/cdn/shop/products/ScreenShot2020-12-05at13.55.18_500x.png?v=1607194717"
+  },
+  {
+    "title": "Converse CONS - Louie Lopez Pro (Black/Black/White)",
+    "originalPrice": "$75.00",
+    "salePrice": "$37.50",
+    "link": "https://njskateshop.com/collections/sale/products/converse-cons-louie-lopez-pro",
+    "image": "https://njskateshop.com/cdn/shop/products/ScreenShot2020-11-04at3.58.39PM_500x.png?v=1604524353"
+  },
+  {
+    "title": "OJ - From Concentrate Hardline 101a",
+    "originalPrice": "$41.95",
+    "salePrice": "$20.98",
+    "link": "https://njskateshop.com/collections/sale/products/oj-from-concentrate-hardline-101a",
+    "image": "https://njskateshop.com/cdn/shop/products/52_87b22124-c262-4502-8fcc-97e185a22758_500x.jpg?v=1631045097"
+  },
+  {
+    "title": "Nike SB - Blazer Mid (Black/White/White)",
+    "originalPrice": "$85.00",
+    "salePrice": "$42.50",
+    "link": "https://njskateshop.com/collections/sale/products/nike-blazer-mid-black-white",
+    "image": "https://njskateshop.com/cdn/shop/products/804206_01_500x.jpg?v=1575489974"
   }
 ]

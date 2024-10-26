@@ -195,7 +195,7 @@ async function scrapePremierStore() {
         }
 
         // If no sale price found, set the original price as the sale price
-        if (!salePrice) {
+        if (!salePrice) {x
           salePrice = originalPrice;
           originalPrice = 'No original price found'; // Adjust this as needed
         }
@@ -316,7 +316,7 @@ const image = imageSrc;
   console.log(`Scraped data from Labor Skate Shop saved to ${filePath}`);
 }
 
-// Function to scrape NJ Skate Shop
+// Function to scrape NJ Skate Shop with pagination
 async function scrapeNJSkateShop() {
   const baseUrl = 'https://njskateshop.com/collections/sale';
   let page = 1;
@@ -330,55 +330,67 @@ async function scrapeNJSkateShop() {
       const { data } = await axios.get(url);
       const $ = cheerio.load(data);
 
-      // Extract the script content that contains 'meta'
-      const scriptContent = $('script').toArray().map(script => $(script).html()).find(script => script.includes('var meta ='));
-      
-      if (scriptContent) {
-        // Use regex to extract the JSON part of the meta variable
-        const metaMatch = scriptContent.match(/var meta = (\{.+?\});/s);
-        
-        if (metaMatch && metaMatch[1]) {
-          const metaJson = JSON.parse(metaMatch[1]);
+      // Select the product grid items
+      const productElements = $('div.medium--one-quarter');
 
-          // Loop through the products array
-          metaJson.products.forEach((product) => {
-            const productName = product.variants[0].name; // Extract the full product name
-            const vendor = product.vendor; // Extract the brand name
-          
-            // Modify the title to avoid duplication by checking if the vendor already appears in the product name
-            const title = productName.includes(vendor) ? productName : `${vendor} - ${productName}`;
-          
-            // Extract the original price and calculate the sale price (50% off)
-            const originalPrice = product.variants[0].price ? `$${(product.variants[0].price / 100).toFixed(2)}` : 'No original price found';
-            const salePrice = product.variants[0].price ? `$${(product.variants[0].price / 200).toFixed(2)}` : 'No sale price found';
-          
-            const productData = {
-              title: title || 'No title found',
-              originalPrice: originalPrice,
-              salePrice: salePrice,
-              link: `https://njskateshop.com/products/${product.id}` || 'No link found',
-              image: `https://njskateshop.com/cdn/shop/files/${product.id}_L_{width}x.jpg` || 'No image found'
-            };
-          
-            products.push(productData);
-          });
-          
-          
-        }
+      if (productElements.length === 0) {
+        hasMorePages = false;
+        break;
       }
 
-      page++;
-      hasMorePages = false; // If scraping a single page
+      productElements.each((index, element) => {
+        // Extract the product title
+        const titleElement = $(element).find('a:nth-child(1) > p:nth-child(2)');
+        const title = titleElement.text().trim() || 'No title found';
+
+        // Extract the product URL
+        const linkElement = $(element).find('a:nth-child(1)');
+        const link = linkElement.attr('href') ? `https://njskateshop.com${linkElement.attr('href')}` : 'No link found';
+
+        // Extract image source
+        const imageElement = $(element).find('img');
+        const imageSrc = imageElement.attr('data-src') || imageElement.attr('src');
+        const image = imageSrc ? `https:${imageSrc.replace('{width}', '500').trim()}` : 'No image found';
+
+        // Extract original price using the provided CSS selector for price
+        const priceElement = $(element).find('div:nth-child(3) > span:nth-child(1) > small:nth-child(2)');
+        const originalPrice = priceElement.text().trim() || 'No original price found';
+
+        // Calculate sale price (50% off)
+        const salePrice = originalPrice !== 'No original price found'
+          ? `$${(parseFloat(originalPrice.replace('$', '').replace(',', '')) / 2).toFixed(2)}`
+          : 'No sale price found';
+
+        // Push the extracted product data
+        products.push({
+          title,
+          originalPrice,
+          salePrice,
+          link,
+          image
+        });
+      });
+
+      // Check if there are more pages by looking at the presence of products
+      const nextPageButton = $('a.pagination__next').length > 0 || productElements.length > 0;
+
+      if (!nextPageButton) {
+        hasMorePages = false;
+      } else {
+        page++; // Increment page for the next iteration
+      }
     } catch (error) {
       console.error('Error fetching the data from NJ Skate Shop:', error);
       hasMorePages = false;
     }
   }
 
+  // Save the scraped data
   const filePath = path.join(process.cwd(), 'src', 'app', 'api', 'scraped-data', 'njScrapedData.json');
   fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf-8');
   console.log(`Scraped data from NJ Skate Shop saved to ${filePath}`);
 }
+
 
 
 // Run the scrapers sequentially
