@@ -86,11 +86,11 @@ export default function Home() {
 
         {/* Filter and Sorting */}
         <div className="flex justify-between items-center mt-6">
-          <div>
+          {/* <div>
             <button onClick={() => setCategory("shoes")} className={`px-4 py-2 ${category === "shoes" ? "bg-gray-800 text-white" : "bg-gray-200"}`}>Shoes</button>
             <button onClick={() => setCategory("apparel")} className={`px-4 py-2 ml-2 ${category === "apparel" ? "bg-gray-800 text-white" : "bg-gray-200"}`}>Apparel</button>
             <button onClick={() => setCategory("accessories")} className={`px-4 py-2 ml-2 ${category === "accessories" ? "bg-gray-800 text-white" : "bg-gray-200"}`}>Accessories</button>
-          </div>
+          </div> */}
           <div>
             <select onChange={handleSort} className="p-2 border rounded">
               <option value="default">Sort by</option>
