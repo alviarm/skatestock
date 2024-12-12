@@ -18,7 +18,7 @@
   {
     "productId": 8588361531650,
     "title": "Seasons Gloves Tee- Ash",
-    "salePrice": "From $5.00 USD",
+    "salePrice": "$5.00 USD",
     "link": "https://seasonsskateshop.com/products/seasons-gloves-tee-ash",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Gloves-Tee-Ash-FRONT.jpg?v=1723742994&width=533",
     "productType": "T-Shirts"
@@ -32,20 +32,36 @@
     "productType": "Sweatshirts"
   },
   {
-    "productId": 8825304940802,
-    "title": "Seasons Skinny Albany Pullover Hood- Black",
-    "salePrice": "$39.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-skinny-albany-pullover-hood-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Albany-Pullover-Hood-Black-FRONT.jpg?v=1729178489&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8809306456322,
+    "title": "Seasons Skyline Tee- Athletic Heather",
+    "salePrice": "$24.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-skyline-tee-athletic-heather-copy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skyline-Tee-Athletic-Heather-FRONT.jpg?v=1727559694&width=533",
+    "productType": "T-Shirts"
   },
   {
-    "productId": 8825310413058,
-    "title": "Seasons Skinny Albany Pullover Hood- Gunmetal",
-    "salePrice": "$39.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-skinny-albany-pullover-hood-gunmetal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Albany-Pullover-Hood-Gunmetal-FRONT.jpg?v=1729178424&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8837675417858,
+    "title": "Seasons Logo Puke Long Sleeve Tee- Orange",
+    "salePrice": "$28.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-logo-puke-long-sleeve-tee-orange",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Logo-Puke-Long-Sleeve-Tee-Orange-FRONT.jpg?v=1730468789&width=533",
+    "productType": "T-Shirts"
+  },
+  {
+    "productId": 8809307144450,
+    "title": "Seasons Bukowski Tee- Sand",
+    "salePrice": "$24.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-bukowski-tee-sand-copy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Bukowski-Tee-Sand-FRONT.jpg?v=1727559676&width=533",
+    "productType": "T-Shirts"
+  },
+  {
+    "productId": 8809305243906,
+    "title": "Seasons Skyline Tee- Sage",
+    "salePrice": "$24.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-skyline-tee-sage-copy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skyline-Tee-Sage-FRONT.jpg?v=1727559717&width=533",
+    "productType": "T-Shirts"
   },
   {
     "productId": 8740065509634,
@@ -64,6 +80,14 @@
     "productType": "T-Shirts"
   },
   {
+    "productId": 8825304940802,
+    "title": "Seasons Skinny Albany Pullover Hood- Black",
+    "salePrice": "$39.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-skinny-albany-pullover-hood-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Albany-Pullover-Hood-Black-FRONT.jpg?v=1729178489&width=533",
+    "productType": "Sweatshirts"
+  },
+  {
     "productId": 8823501357314,
     "title": "Hemstitch Mill SEASONS Albany Tulips Hat- Navy/Cream",
     "salePrice": "$22.00 USD",
@@ -78,6 +102,14 @@
     "link": "https://seasonsskateshop.com/products/seasons-stain-font-hooded-jacket-black-copy",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stain-Font-Hooded-Jacket-Black-FRONT.jpg?v=1727559362&width=533",
     "productType": "Jackets"
+  },
+  {
+    "productId": 8825310413058,
+    "title": "Seasons Skinny Albany Pullover Hood- Gunmetal",
+    "salePrice": "$39.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-skinny-albany-pullover-hood-gunmetal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Albany-Pullover-Hood-Gunmetal-FRONT.jpg?v=1729178424&width=533",
+    "productType": "Sweatshirts"
   },
   {
     "productId": 8810240016642,
@@ -96,28 +128,20 @@
     "productType": "Shoes"
   },
   {
+    "productId": 8837675843842,
+    "title": "Seasons Sun Logo Pocket Tee- Navy",
+    "salePrice": "$24.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-sun-logo-pocket-tee-navy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Sun-Logo-Pocket-Tee-Navy-FRONT.jpg?v=1730468745&width=533",
+    "productType": "T-Shirts"
+  },
+  {
     "productId": 8825296027906,
     "title": "Seasons Stain Font Work Vest- Saddle",
     "salePrice": "$55.00 USD",
     "link": "https://seasonsskateshop.com/products/seasons-stain-font-work-vest-saddle",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stain-Font-Work-Vest-Saddle-FRONT.jpg?v=1729178551&width=533",
     "productType": "Jackets"
-  },
-  {
-    "productId": 8855679992066,
-    "title": "Chocolate FTS x Seasons Albany Hoodie- Royal",
-    "salePrice": "$52.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-hoodie-royal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hoodie-Royal-FRONT.jpg?v=1732202718&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8535876731138,
-    "title": "Nike SB Club Hat",
-    "salePrice": "$16.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-club-hat",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Club-Hat-BLACK-FRONT.jpg?v=1723151374&width=533",
-    "productType": "Hats"
   },
   {
     "productId": 8809309470978,
@@ -136,20 +160,28 @@
     "productType": "T-Shirts"
   },
   {
+    "productId": 8535876731138,
+    "title": "Nike SB Club Hat",
+    "salePrice": "$16.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-club-hat",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Club-Hat-BLACK-FRONT.jpg?v=1723151374&width=533",
+    "productType": "Hats"
+  },
+  {
+    "productId": 8855679992066,
+    "title": "Chocolate FTS x Seasons Albany Hoodie- Royal",
+    "salePrice": "$52.00 USD",
+    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-hoodie-royal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hoodie-Royal-FRONT.jpg?v=1732202718&width=533",
+    "productType": "T-Shirts"
+  },
+  {
     "productId": 8644765712642,
     "title": "Adidas Tyshawn II- Chrystal White/Core Black/Charcoal Solid Grey",
     "salePrice": "$50.00 USD",
     "link": "https://seasonsskateshop.com/products/adidas-tyshawn-ii-shoe-white-black",
     "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-TYSHAWN-II-SHOE-WHITE-BLACK-FRONT.jpg?v=1721935122&width=533",
     "productType": "Shoes"
-  },
-  {
-    "productId": 8855677600002,
-    "title": "Chocolate FTS x Seasons Albany Tee- Royal",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-tee-royal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Tee-Royal-FRONT.jpg?v=1732202801&width=533",
-    "productType": "T-Shirts"
   },
   {
     "productId": 8583112261890,
@@ -256,12 +288,12 @@
     "productType": "T-Shirts"
   },
   {
-    "productId": 8698953466114,
-    "title": "Asics Japan Pro- Cloud Grey/Classic Red",
-    "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-japan-pro-cloud-grey-classic-red",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ASICS-JAPAN-PRO-CLOUD-GREY-CLASSIC-RED-FRONT.jpg?v=1722019169&width=533",
-    "productType": "Shoes"
+    "productId": 8855677600002,
+    "title": "Chocolate FTS x Seasons Albany Tee- Royal",
+    "salePrice": "$30.00 USD",
+    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-tee-royal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Tee-Royal-FRONT.jpg?v=1732202801&width=533",
+    "productType": "T-Shirts"
   },
   {
     "productId": 8698954580226,
@@ -376,20 +408,28 @@
     "productType": "T-Shirts"
   },
   {
+    "productId": 8788161167618,
+    "title": "Adidas Gazelle ADV- Ectrin/Focoli/Gum",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-gazelle-adv",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Gazelle-ADV-Ectrin-Focoli-Gum.jpg?v=1725015513&width=533",
+    "productType": "Shoes"
+  },
+  {
+    "productId": 8698953466114,
+    "title": "Asics Japan Pro- Cloud Grey/Classic Red",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/asics-japan-pro-cloud-grey-classic-red",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/ASICS-JAPAN-PRO-CLOUD-GREY-CLASSIC-RED-FRONT.jpg?v=1722019169&width=533",
+    "productType": "Shoes"
+  },
+  {
     "productId": 8680288682242,
     "title": "Nike SB Zoom Blazer Mid- Burgandy Crush/Summit White",
     "salePrice": "$60.00 USD",
     "link": "https://seasonsskateshop.com/products/nike-sb-zoom-blazer-mid-burgandy-crush-summit-white",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Zoom-Blazer-Mid-Burgandy-Crush-Summit-White-FRONT.jpg?v=1723216714&width=533",
     "productType": "Shoes"
-  },
-  {
-    "productId": 8819829965058,
-    "title": "Carpet C Star Boxers 3 Pack- Black",
-    "salePrice": "$24.00 USD",
-    "link": "https://seasonsskateshop.com/products/carpet-c-star-boxers-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Carpet-C-Star-Boxers-3-Pack-Black-FRONT.jpg?v=1728568847&width=533",
-    "productType": "Misc."
   },
   {
     "productId": 8308996964610,
@@ -512,54 +552,6 @@
     "productType": "Pants"
   },
   {
-    "productId": 8439367663874,
-    "title": "StrangeLove StrangeHouse Tee- Navy",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/strangelove-strangehouse-tee-navy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/StrangeLove-StrangeHouse-Tee-Navy-FRONT.jpg?v=1723826769&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8629906014466,
-    "title": "Strangelove Pie Guy Tee- Black",
-    "salePrice": "$18.00 USD",
-    "link": "https://seasonsskateshop.com/products/strangelove-pie-guy-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Strangelove-Pie-Guy-Tee-Black-FRONT.jpg?v=1723826701&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8626253168898,
-    "title": "Skate Jawn Blueprint Tee- Green",
-    "salePrice": "$19.00 USD",
-    "link": "https://seasonsskateshop.com/products/skate-jawn-blueprint-tee-green",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Skate-Jawn-Blueprint-Tee-Green-FRONT.jpg?v=1723821486&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8794846527746,
-    "title": "SEXHIPPIES Flame Circle Tee- Tan",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-flame-circle-tee-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Flame-Circle-Tee-Tan-FRONT.jpg?v=1726093863&width=533",
-    "productType": "Shirts"
-  },
-  {
-    "productId": 8794849378562,
-    "title": "SEXHIPPIES Bully OG Logo L/S Tee- Forest",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-bully-og-logo-l-s-tee-forest",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Bully-OG-Logo-Longsleeve-Tee-Forest-FRONT.jpg?v=1726093773&width=533",
-    "productType": "Shirts"
-  },
-  {
-    "productId": 8794847871234,
-    "title": "SEXHIPPIES Bully OG Logo L/S Tee- White",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-bully-og-logo-l-s-tee-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Bully-OG-Logo-Longsleeve-Tee-White-FRONT.jpg?v=1726093839&width=533",
-    "productType": "Shirts"
-  },
-  {
     "productId": 8797357408514,
     "title": "Skate Jawn Sewer Cap Pattern Beanie- Black",
     "salePrice": "$25.00 USD",
@@ -582,6 +574,14 @@
     "link": "https://seasonsskateshop.com/products/adidas-busenitz-2",
     "image": "https://seasonsskateshop.com/cdn/shop/files/84C1AF50-F182-4768-A60D-D45B89D5519D.jpg?v=1722027075&width=533",
     "productType": "Shoes"
+  },
+  {
+    "productId": 8819829965058,
+    "title": "Carpet C Star Boxers 3 Pack- Black",
+    "salePrice": "$24.00 USD",
+    "link": "https://seasonsskateshop.com/products/carpet-c-star-boxers-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Carpet-C-Star-Boxers-3-Pack-Black-FRONT.jpg?v=1728568847&width=533",
+    "productType": "Misc."
   },
   {
     "productId": 8798024597762,
@@ -646,46 +646,6 @@
     "link": "https://seasonsskateshop.com/products/poets-iroc-pullover-hood-black",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Poets-IROC-Pullover-Hood-Black-FRONT.jpg?v=1723217905&width=533",
     "productType": "Sweatshirts"
-  },
-  {
-    "productId": 8797356458242,
-    "title": "Skate Jawn Markers Tee- Brown",
-    "salePrice": "$19.00 USD",
-    "link": "https://seasonsskateshop.com/products/skate-jawn-markers-tee-brown",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Skate-Jawn-Markers-Tee-Brown-FRONT.jpg?v=1726093088&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8797356654850,
-    "title": "Skate Jawn Markers Tee- Highlighter",
-    "salePrice": "$19.00 USD",
-    "link": "https://seasonsskateshop.com/products/skate-jawn-markers-tee-highlighter",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Skate-Jawn-Markers-Tee-Highlighter-FRONT.jpg?v=1726093067&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8626266013954,
-    "title": "Skate Jawn Wave Tee- Brown",
-    "salePrice": "$19.00 USD",
-    "link": "https://seasonsskateshop.com/products/skate-jawn-wave-tee-brown",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Skate-Jawn-Wave-Tee-Brown-FRONT.jpg?v=1723821713&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8492096979202,
-    "title": "SEXHIPPIES Spray OG Tee- Black",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-spray-og-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Spray-OG-Tee-Black-FRONT.jpg?v=1723820953&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8794844659970,
-    "title": "SEXHIPPIES Flame Circle Tee- Black",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-flame-circle-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Flame-Circle-Tee-Black-FRONT.jpg?v=1726093914&width=533",
-    "productType": "Shirts"
   },
   {
     "productId": 8837584486658,
@@ -774,6 +734,14 @@
     "link": "https://seasonsskateshop.com/products/gx1000-sail-boat-hat-blue",
     "image": "https://seasonsskateshop.com/cdn/shop/files/GX1000-Sail-Boat-Hat-Blue-FRONT.jpg?v=1724428791&width=533",
     "productType": "Hats"
+  },
+  {
+    "productId": 8380343124226,
+    "title": "Baker Brand Logo Tee- Red Wash",
+    "salePrice": "$20.00 USD",
+    "link": "https://seasonsskateshop.com/products/baker-brand-logo-tee-red-wash",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/BAKER-BRAND-LOGO-TEE-RED-WASH-FRONT.jpg?v=1722021524&width=533",
+    "productType": "T-Shirts"
   },
   {
     "productId": 8707381756162,

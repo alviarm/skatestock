@@ -1,99 +1,123 @@
 SkateStock - A Skateboarding Sale Aggregator
-
 Overview
 
 SkateStock is a web application that aggregates sale section links from independent skate shops, promoting support for local businesses and non-chain stores. Built with skateboarding enthusiasts in mind, SkateStock centralizes sale offerings in one easy-to-use platform, helping users discover the best deals on skateboarding gear.
-
 Features
 
-Aggregated Sales: Collects sale section items from multiple independent skate shops to provide a comprehensive view of available discounts.
+    Aggregated Sales: Collects sale section items from multiple independent skate shops to provide a comprehensive view of available discounts.
 
-Support Local Businesses: Promotes skater-owned, non-chain stores, encouraging support for local businesses.
+    Support Local Businesses: Promotes skater-owned, non-chain stores, encouraging support for local businesses.
 
-Web Scraping Integration: Implements web scraping techniques to gather data, ensuring real-time updates for deals.
+    Web Scraping Integration: Implements web scraping techniques to gather data, ensuring real-time updates for deals.
 
-Intuitive UI/UX: Designed for user-friendliness and streamlined navigation, making it easy for skateboarding enthusiasts to find what they need.
+    Intuitive UI/UX: Designed for user-friendliness and streamlined navigation, making it easy for skateboarding enthusiasts to find what they need.
 
-Efficient Data Processing: Focused on delivering smooth performance and quick loading times to improve user engagement.
+    Efficient Data Processing: Focused on delivering smooth performance and quick loading times to improve user engagement.
+
+    Product Filtering and Sorting: Users can filter products by type (e.g., skateboards, shoes, accessories) and sort by price, discount, or popularity.
 
 Tech Stack
 
-Frontend: Next.js, React, Tailwind CSS for responsive and modern UI/UX.
+    Frontend: Next.js, React, Tailwind CSS for responsive and modern UI/UX.
 
-Backend: Node.js, Express for server-side operations.
+    Backend: Node.js, Express for server-side operations.
 
-Web Scraping: Axios and Cheerio for data collection from independent skate shop websites.
+    Web Scraping: Axios and Cheerio for data collection from independent skate shop websites.
 
-Deployment: Deployed using Vercel for a smooth, cost-effective hosting solution.
+    Deployment: Deployed using Vercel for a smooth, cost-effective hosting solution.
 
 Installation
 
 To set up SkateStock locally:
 
-Clone the repository:
+    Clone the repository:
+    bash
+    Copy
 
-git clone https://github.com/alviarm/skatestock.git
+    git clone https://github.com/alviarm/skatestock.git
 
-Navigate to the project directory:
+    Navigate to the project directory:
+    bash
+    Copy
 
-cd skatestock
+    cd skatestock
 
-Install dependencies:
+    Install dependencies:
+    bash
+    Copy
 
-npm install
+    npm install
 
-Run the development server:
+    Run the development server:
+    bash
+    Copy
 
-npm run dev
+    npm run dev
 
-Open your browser and visit http://localhost:3000 to view the app.
+    Open your browser and visit http://localhost:3000 to view the app.
 
 Running the Scrapers
 
 To scrape data from skate shops:
 
-Navigate to the scraper file:
+    Navigate to the scraper file:
+    bash
+    Copy
 
-cd src
+    cd src
 
-Run the scraper script:
+    Run the scraper script:
+    bash
+    Copy
 
-node scraper.js
+    node scraper.js
 
-This will gather the latest sale data and update the platform accordingly.
+    This will gather the latest sale data and update the platform accordingly.
 
 Deployment
 
 The project is deployed using Vercel, which supports seamless integration with GitHub. Any changes pushed to the main branch automatically update the live site.
 
+You can access the live version of SkateStock here: https://skatestock.vercel.app/
 Contributing
 
 We welcome contributions to improve SkateStock!
 
-Fork the repository
+    Fork the repository.
 
-Create a new branch: git checkout -b feature-branch
+    Create a new branch:
+    bash
+    Copy
 
-Commit your changes: git commit -m 'Add new feature'
+    git checkout -b feature-branch
 
-Push the branch: git push origin feature-branch
+    Commit your changes:
+    bash
+    Copy
 
-Open a Pull Request
+    git commit -m 'Add new feature'
+
+    Push the branch:
+    bash
+    Copy
+
+    git push origin feature-branch
+
+    Open a Pull Request.
 
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgments
 
-Thanks to the skateboarding community for inspiring this project.
+    Thanks to the skateboarding community for inspiring this project.
 
-Credit to all independent skate shops featured in SkateStock for their dedication to skateboarding culture.
+    Credit to all independent skate shops featured in SkateStock for their dedication to skateboarding culture.
 
 Contact
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-GitHub: alviarm
+    GitHub: alviarm
 
-Email: matthewalviar@gmail.com alviarm@oregonstate.edu
+    Email: matthewalviar@gmail.com, alviarm@oregonstate.edu

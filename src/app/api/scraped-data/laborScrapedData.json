@@ -1,352 +1,767 @@
 [
   {
-    "title": "Nike SB Dunk Low Pro - Sesame/Metallic Silver-Pear-Fir",
-    "originalPrice": "$125",
-    "salePrice": "$69",
-    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-sesame-metallic-silver-pear-fir",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1109.jpg?v=1724609801&width=533"
+    "productId": 7486473961574,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Blazer Mid QS - Rough Green/Amarillo-Rough Green",
+    "originalPrice": "$110.00",
+    "salePrice": "$109.99",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-qs-rough-green-amarillo-rough-green",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_7234.jpg?v=1731942109"
   },
   {
-    "title": "Nike SB Dunk Low Pro OLY (PS) - Electric Phantom/Black-Black-Monarch",
-    "originalPrice": "$90",
-    "salePrice": "$52",
-    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-oly-ps-electric-phantom-black-black-monarch",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5358.jpg?v=1722980396&width=533"
+    "productId": 7486402297958,
+    "productType": "Footwear",
+    "title": "Nike SB Dunk High x Antihero - White/White-Black",
+    "originalPrice": "$145.00",
+    "salePrice": "$144.99",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-high-x-antihero",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_7156.jpg?v=1731771435"
   },
   {
-    "title": "Nike SB Dunk Low Pro OLY (TD) - Electric Phantom/Black-Black-Monarch",
-    "originalPrice": "$75",
-    "salePrice": "$42",
-    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-oly-td-phantom-black-black-monarch",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5357.heic?v=1722980368&width=533"
+    "productId": 7457303199846,
+    "productType": "Footwear",
+    "title": "Nike SB Blazer Low GT PRM - Summit White/Game Royal",
+    "originalPrice": "$90.00",
+    "salePrice": "$89.99",
+    "link": "https://laborskateshop.com/products/nike-sb-blazer-low-gt-prm-summit-white-game-royal",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6739.jpg?v=1730210666"
   },
   {
+    "productId": 7433197486182,
+    "productType": "Footwear",
+    "title": "New Balance NM 1010 Tiago - Brown/Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$69.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-1010-tiago-brown-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2938_f2c0389a-fd89-48da-a76c-9debf247c6c8.jpg?v=1727290048"
+  },
+  {
+    "productId": 7429378441318,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - Oil Green/Oil Green/Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$78.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-oil-green-oil-green-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2753_97b1b481-fadc-4b96-a244-42cd2c331b64.jpg?v=1726860554"
+  },
+  {
+    "productId": 7425548812390,
+    "productType": "Footwear",
+    "title": "New Balance NM 440 Trail v2 Low - Blue/ Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$68.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-440-trail-v2-low-blue-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2640.jpg?v=1726597697"
+  },
+  {
+    "productId": 7425548025958,
+    "productType": "Footwear",
+    "title": "New Balance NM 440 v2 Hi - Brown/Black",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-440-v2-hi-brown-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2643.jpg?v=1726597222"
+  },
+  {
+    "productId": 7400288157798,
+    "productType": "Footwear",
+    "title": "Adidas Puig Samba - Black/White/Gum",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-puig-samba-black-white-gum",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1649.jpg?v=1724351877"
+  },
+  {
+    "productId": 7400286290022,
+    "productType": "Footwear",
+    "title": "Adidas Puig Samba - White/Black/Gum",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-puig-samba-white-black-gum",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1646.jpg?v=1724351621"
+  },
+  {
+    "productId": 7400282062950,
+    "productType": "Footwear",
+    "title": "Adidas Gazelle ADV - Ecrtin/Focol",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-gazelle-adv-ecrtin-focol",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1643.jpg?v=1724351272"
+  },
+  {
+    "productId": 7400270561382,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II - White/Navy/Black",
+    "originalPrice": "$100.00",
+    "salePrice": "$68.00",
+    "link": "https://laborskateshop.com/products/adidas-tyshawn-ii-white-navy-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1641.jpg?v=1724350698"
+  },
+  {
+    "productId": 7400264892518,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz - White/Shaoli",
+    "originalPrice": "$85.00",
+    "salePrice": "$59.00",
+    "link": "https://laborskateshop.com/products/adidas-busenitz-white-shaoli",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1652.jpg?v=1724350372"
+  },
+  {
+    "productId": 7400259485798,
+    "productType": "Footwear",
+    "title": "Adidas Superstar ADV - Black/Zeromt/Spark",
+    "originalPrice": "$100.00",
+    "salePrice": "$55.00",
+    "link": "https://laborskateshop.com/products/adidas-superstar-adv-black-zeromt-spark-1",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1634.jpg?v=1724350057"
+  },
+  {
+    "productId": 7382993862758,
+    "productType": "Footwear",
     "title": "Nike SB Dunk Low Pro - Electric Phantom/Black-Black-Monarch",
-    "originalPrice": "$125",
-    "salePrice": "$64",
+    "originalPrice": "$125.00",
+    "salePrice": "$64.00",
     "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-phantom-black-black-monarch",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5356.jpg?v=1722980275&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5356.jpg?v=1722980275"
   },
   {
+    "productId": 7377287446630,
+    "productType": "Footwear",
+    "title": "New Balance 480 - White/Black",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-480-white-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0873_0d9b76d5-9467-4f16-9428-f6791fc50df9.jpg?v=1722361455"
+  },
+  {
+    "productId": 7371414732902,
+    "productType": "Footwear",
+    "title": "Nike SB Malor - Platinum Tint/Fir/Wof Grey",
+    "originalPrice": "$75.00",
+    "salePrice": "$45.00",
+    "link": "https://laborskateshop.com/products/nike-sb-malor-platinum-tint-fir-wof-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0665.jpg?v=1721837910"
+  },
+  {
+    "productId": 7369854746726,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Janoski+ Slip - Summit White/Hyper Royal",
+    "originalPrice": "$85.00",
+    "salePrice": "$44.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-janoski-summit-white-hyper-royal",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0634_c46c5dae-c7df-4034-8bbb-17e8405dfcc0.jpg?v=1721752830"
+  },
+  {
+    "productId": 7364259446886,
+    "productType": "Footwear",
+    "title": "Adidas Superstar ADV - Grey/Black/White",
+    "originalPrice": "$100.00",
+    "salePrice": "$55.00",
+    "link": "https://laborskateshop.com/products/adidas-superstar-adv-grey-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0407.jpg?v=1721241824"
+  },
+  {
+    "productId": 7361707049062,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Blazer Low Pro GT ISO - White/White-White",
+    "originalPrice": "$85.00",
+    "salePrice": "$55.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-low-pro-gt-iso-white-white-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0330.jpg?v=1721069808"
+  },
+  {
+    "productId": 7351009575014,
+    "productType": "T-Shirts",
     "title": "Quartersnacks Rat Ratz Script T-Shirt - Yellow",
-    "originalPrice": "$35",
-    "salePrice": "$22",
+    "originalPrice": "$35.00",
+    "salePrice": "$22.00",
     "link": "https://laborskateshop.com/products/quartersnacks-rat-ratz-script-t-shirt-yellow",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0007.jpg?v=1720207990&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0007.jpg?v=1720207990"
   },
   {
-    "title": "Nike SB Zoom Blazer Mid - Anthracite/Dark Smoke Grey",
-    "originalPrice": "$110",
-    "salePrice": "$55",
-    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-anthracite-dark-smoke-grey",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_6992_3e6714b3-7dbd-4ca6-89ff-99850b9d49e1.jpg?v=1717273599&width=533"
+    "productId": 7343244705894,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Blazer Mid - Phantom/Black-Monarch",
+    "originalPrice": "$95.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-phantom-black-monarch",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9879.jpg?v=1719938448"
   },
   {
+    "productId": 7334054002790,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Janoski OG+ - Pacific Moss/Black",
+    "originalPrice": "$95.00",
+    "salePrice": "$55.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-janoski-og-pacific-moss-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9712_7f29dbbb-ba16-434c-a803-8889fae706a9.jpg?v=1719516520"
+  },
+  {
+    "productId": 7332871372902,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II - Black/Black/Green",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/adidas-tyshawn-ii-black-black-green",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9666.jpg?v=1719424026"
+  },
+  {
+    "productId": 7330903654502,
+    "productType": "Footwear",
+    "title": "New Balance Tom Knox NM 600 - Red/White",
+    "originalPrice": "$95.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/new-balance-tom-knox-nm-600-red-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9631.jpg?v=1719333601"
+  },
+  {
+    "productId": 7330898837606,
+    "productType": "Footwear",
+    "title": "New Balance Tom Knox NM 600 - Black/White",
+    "originalPrice": "$95.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-tom-knox-nm-600-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9634.jpg?v=1719333289"
+  },
+  {
+    "productId": 7303654244454,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Blazer Mid - Burgundy White/Summit White",
+    "originalPrice": "$90.00",
+    "salePrice": "$58.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-burgundy-white-summit-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_8546.jpg?v=1717692752"
+  },
+  {
+    "productId": 7287945298022,
+    "productType": "Footwear",
+    "title": "New Balance 480 High - White/Grey",
+    "originalPrice": "$110.00",
+    "salePrice": "$69.00",
+    "link": "https://laborskateshop.com/products/new-balance-480-high-white-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_8195.jpg?v=1717008596"
+  },
+  {
+    "productId": 7241117859942,
+    "productType": "Footwear",
+    "title": "Nike SB Vertebrae TE - Coconut Milk/Jade Ice-Sesame",
+    "originalPrice": "$85.00",
+    "salePrice": "$45.00",
+    "link": "https://laborskateshop.com/products/nike-sb-vertebrae-te-coconut-milk-jade-ice-sesame",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_7355.jpg?v=1715362596"
+  },
+  {
+    "productId": 7236593221734,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - Pink Foam/Black-White",
+    "originalPrice": "$110.00",
+    "salePrice": "$66.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-pink-foam-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0168.heic?v=1715186809"
+  },
+  {
+    "productId": 7147972493414,
+    "productType": "Footwear",
+    "title": "Asics Gel NBD - Black/Graphite Grey",
+    "originalPrice": "No original price found",
+    "salePrice": "$110.00",
+    "link": "https://laborskateshop.com/products/asics-gel-nbd-black-graphite-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6207_0506b199-428f-44d4-8a56-94474d06ecbc.jpg?v=1713297078"
+  },
+  {
+    "productId": 7147968364646,
+    "productType": "Footwear",
+    "title": "Asics Gel Vickka - Cream/White",
+    "originalPrice": "No original price found",
+    "salePrice": "$90.00",
+    "link": "https://laborskateshop.com/products/asics-gel-vickka-cream-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6204_672b4ee4-1f80-463e-8ef2-1cf741c64c74.jpg?v=1713296696"
+  },
+  {
+    "productId": 7147966267494,
+    "productType": "Footwear",
+    "title": "Asics Gel Flexkee 2.0 - Cream/White",
+    "originalPrice": "$135.00",
+    "salePrice": "$79.00",
+    "link": "https://laborskateshop.com/products/asics-gel-flexkee-2-0-cream-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6210_7c76ee8c-41f1-4828-97c1-26177c297ef9.jpg?v=1713296552"
+  },
+  {
+    "productId": 7147887558758,
+    "productType": "Footwear",
+    "title": "New Balance NM 480 - Green/White",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-480-green-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6195.jpg?v=1713286219"
+  },
+  {
+    "productId": 7147887100006,
+    "productType": "Footwear",
+    "title": "New Balance NM 480 - White/Purple",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-480-white-purple",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6192.jpg?v=1713286087"
+  },
+  {
+    "productId": 7117096583270,
+    "productType": "Shorts",
     "title": "Vans Drill Chore Loose Carpenter Cord Shorts - Incense",
-    "originalPrice": "$65",
-    "salePrice": "$39",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
     "link": "https://laborskateshop.com/products/vans-drill-chore-loose-carpenter-cord-shorts-incense",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5887.jpg?v=1712865248&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5887.jpg?v=1712865248"
   },
   {
+    "productId": 7111445282918,
+    "productType": "Footwear",
+    "title": "Nike Air Max Ishod - Black/Black-Anthracite-Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$78.00",
+    "link": "https://laborskateshop.com/products/nike-air-max-ishod-black-black-anthracite-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5780.jpg?v=1712597944"
+  },
+  {
+    "productId": 7094680420454,
+    "productType": "Footwear",
+    "title": "Nike SB Day One - Court Blue/Midnight Navy/White",
+    "originalPrice": "$80.00",
+    "salePrice": "$39.00",
+    "link": "https://laborskateshop.com/products/nike-sb-day-one-court-blue-midnight-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5611.jpg?v=1712339394"
+  },
+  {
+    "productId": 7094561079398,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - Star Blue/Black-White",
+    "originalPrice": "$110.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-star-blue-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5599.jpg?v=1712333885"
+  },
+  {
+    "productId": 7094559604838,
+    "productType": "Footwear",
     "title": "Nike SB React Leo - Malachite/Malachite-Black/White",
-    "originalPrice": "$95",
-    "salePrice": "$62",
+    "originalPrice": "$95.00",
+    "salePrice": "$59.00",
     "link": "https://laborskateshop.com/products/nike-sb-react-leo-malachite-malachite-black-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5589.jpg?v=1712333562&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5589.jpg?v=1712333562"
   },
   {
+    "productId": 7094556590182,
+    "productType": "Footwear",
     "title": "Nike SB Vertebrae - Summit White/Cosmic Clay",
-    "originalPrice": "$85",
-    "salePrice": "$62",
+    "originalPrice": "$85.00",
+    "salePrice": "$45.00",
     "link": "https://laborskateshop.com/products/nike-sb-vertebrae-summit-white-cosmic-clay",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5595.jpg?v=1712333217&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5595.jpg?v=1712333217"
   },
   {
-    "title": "Adidas Centennial 85 Low ADV x Lil Dre - Black/Pink",
-    "originalPrice": "$110",
-    "salePrice": "$78",
-    "link": "https://laborskateshop.com/products/adidas-centennial-85-low-adv-x-lil-dre-black-pink",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5533.jpg?v=1712257514&width=533"
+    "productId": 7078453968998,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Janoski OG+ - Navy/White",
+    "originalPrice": "$95.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-janoski-og-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5418.jpg?v=1711997199"
   },
   {
+    "productId": 7078452789350,
+    "productType": "Footwear",
+    "title": "Nike SB React Leo - Phantom/White-Summit White",
+    "originalPrice": "$95.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/nike-sb-react-leo-phantom-white-summit-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5412.jpg?v=1711997062"
+  },
+  {
+    "productId": 7065655378022,
+    "productType": "Sweatshirts",
     "title": "Fucking Awesome Stamp Logo Zip Hoodie - Heather Grey",
-    "originalPrice": "$105",
-    "salePrice": "$88",
+    "originalPrice": "$105.00",
+    "salePrice": "$88.00",
     "link": "https://laborskateshop.com/products/fucking-awesome-stamp-logo-zip-hoodie-heather-grey",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_5211.jpg?v=1711644863&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5211.jpg?v=1711644863"
   },
   {
-    "title": "Adidas Busenitz Vintage - Crystal White/Black",
-    "originalPrice": "$85",
-    "salePrice": "$64",
-    "link": "https://laborskateshop.com/products/adidas-busenitz-vintage-crystal-white-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4579_5ba9e303-6cd9-471d-9aae-cf65f72e225d.jpg?v=1710772162&width=533"
+    "productId": 7063867916390,
+    "productType": "Footwear",
+    "title": "New Balance NM 600 Tom Knox - Black/White",
+    "originalPrice": "$95.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-600-tom-knox-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5127.jpg?v=1711558462"
   },
   {
-    "title": "Stussy Sherpa Shadow Plaid Zip - Berry",
-    "originalPrice": "$165",
-    "salePrice": "$109",
-    "link": "https://laborskateshop.com/products/stussy-sherpa-shadow-plaid-zip-berry",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4213_932afd99-ae4c-417b-9747-3196052ab60d.jpg?v=1709849189&width=533"
+    "productId": 7063866769510,
+    "productType": "Footwear",
+    "title": "New Balance 440 V2 - Sky Blue/White",
+    "originalPrice": "$80.00",
+    "salePrice": "$58.00",
+    "link": "https://laborskateshop.com/products/new-balance-440-v2-sky-blue-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5124.jpg?v=1711558305"
   },
   {
-    "title": "Stussy Sherpa Shadow Plaid Zip - Light Blue",
-    "originalPrice": "$165",
-    "salePrice": "$109",
-    "link": "https://laborskateshop.com/products/stussy-sherpa-shadow-plaid-zip-light-blue",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4214_136d5d3a-b016-4f36-ab5b-f5d1468becc4.jpg?v=1709849202&width=533"
+    "productId": 7063865819238,
+    "productType": "Footwear",
+    "title": "New Balance NM 272 - Burgundy/White-Black",
+    "originalPrice": "$75.00",
+    "salePrice": "$50.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-272-burgundy-white-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5121.jpg?v=1711558183"
   },
   {
-    "title": "Vans Lopside Snapback - Coffee",
-    "originalPrice": "$28",
-    "salePrice": "$18",
-    "link": "https://laborskateshop.com/products/vans-lopside-snapback-coffee",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3925_ef1dc340-c0ce-45c9-b305-508ca4ab4f01.jpg?v=1709319576&width=533"
+    "productId": 7063864868966,
+    "productType": "Footwear",
+    "title": "New Balance NM 1010 Tiago - Rust/Sea Salt",
+    "originalPrice": "$110.00",
+    "salePrice": "$77.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-1010-tiago-rust-sea-salt",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5131.jpg?v=1711558021"
   },
   {
+    "productId": 7055489761382,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Janoski+ Slip - Summit White/Black",
+    "originalPrice": "$85.00",
+    "salePrice": "$55.00",
+    "link": "https://laborskateshop.com/products/nike-sb-zoom-janoski-slip-summit-white-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_4774_10c9a401-58a1-4b02-9364-cf91d7c69b45.jpg?v=1710865926"
+  },
+  {
+    "productId": 7041916993638,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - White/Navy-Summit White",
+    "originalPrice": "$110.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-white-navy-summit-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_4409_dcaf77ed-f96f-4cef-94df-3d0096df6df2.jpg?v=1710263899"
+  },
+  {
+    "productId": 7036963553382,
+    "productType": "Footwear",
+    "title": "New Balance NB 480 TRL - Brown/Red",
+    "originalPrice": "$100.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/new-balance-nb-480-brown-red",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_4108_c44f9dc7-5a33-4a78-b073-b851de818682.jpg?v=1709746613"
+  },
+  {
+    "productId": 7012475437158,
+    "productType": "Footwear",
+    "title": "Adidas Aloha Super - Crystal White/White",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-aloha-super-crystal-white-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3423_be14ed83-1116-4a76-bc28-8905ba8544a4.jpg?v=1708370251"
+  },
+  {
+    "productId": 7012474093670,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz - White/Blue/Met.Gold",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-busenitz-white-blue-met-gold",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3420.jpg?v=1708370036"
+  },
+  {
+    "productId": 7010885763174,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Mid PRM - Legend Dark Brown/Fir-Obsidian",
-    "originalPrice": "$100",
-    "salePrice": "$60",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-prm-legend-dark-brown-fir-obsidian",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3297_2c0c44b7-4456-4d86-ab61-8723e6abcee1.jpg?v=1708103962&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3297_2c0c44b7-4456-4d86-ab61-8723e6abcee1.jpg?v=1708103962"
   },
   {
-    "title": "Nike SB Vertebrae - Summit White/Persian Violet",
-    "originalPrice": "$85",
-    "salePrice": "$62",
-    "link": "https://laborskateshop.com/products/nike-sb-vertebrae-summit-white-persian-violet",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2706.jpg?v=1706815919&width=533"
+    "productId": 7010255503462,
+    "productType": "Footwear",
+    "title": "Asics Japan Pro - Orange/Cream",
+    "originalPrice": "No original price found",
+    "salePrice": "$105.00",
+    "link": "https://laborskateshop.com/products/asics-japan-pro-orange-cream",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3225_52591d9d-d6bb-4ba7-907e-54cdcfde5650.jpg?v=1707943379"
   },
   {
+    "productId": 6992705028198,
+    "productType": "Footwear",
+    "title": "Adidas Samba ADV - Black/White/Gum",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/adidas-samba-adv-black-white-gum",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2740.jpg?v=1706883770"
+  },
+  {
+    "productId": 6967878484070,
+    "productType": "Pants",
     "title": "Nike SB Double Knee Pants - Dark Team Red",
-    "originalPrice": "$110",
-    "salePrice": "$56",
+    "originalPrice": "$110.00",
+    "salePrice": "$56.00",
     "link": "https://laborskateshop.com/products/nike-sb-double-knee-pants-dark-team-red",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2633_b4a33530-0834-4dbd-a637-c90c2e2947d7.jpg?v=1706721941&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2633_b4a33530-0834-4dbd-a637-c90c2e2947d7.jpg?v=1706721941"
   },
   {
+    "productId": 6966734225510,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz - Burgundy/White-Gum",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://laborskateshop.com/products/adidas-busenitz-burgundy-white-gum",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2528_7178a0e8-3cf2-4f83-bedf-2ad102858301.jpg?v=1706559121"
+  },
+  {
+    "productId": 6960307732582,
+    "productType": "Footwear",
+    "title": "New Balance 440 High V2 - Blue/White",
+    "originalPrice": "$85.00",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/new-balance-440-high-v2-blue-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2176_652b3da7-fb31-42e5-b751-79dc5bd08f46.jpg?v=1706034411"
+  },
+  {
+    "productId": 6958093041766,
+    "productType": "Footwear",
     "title": "Converse Fastbreak Pro Mid - White/Warm Tan/Black",
-    "originalPrice": "$85",
-    "salePrice": "$58",
+    "originalPrice": "$85.00",
+    "salePrice": "$58.00",
     "link": "https://laborskateshop.com/products/converse-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1988_5c95dfde-5f20-4378-8d8d-404d573dc06b.jpg?v=1705685157&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1988_5c95dfde-5f20-4378-8d8d-404d573dc06b.jpg?v=1705685157"
   },
   {
-    "title": "Adidas Busenitz - Crysan/Borang/Gold Met.",
-    "originalPrice": "$85",
-    "salePrice": "$62",
-    "link": "https://laborskateshop.com/products/adidas-busenitz-crysan-borang-gold-met",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1917_83044b38-dd05-455e-93e1-51217bab2ac6.jpg?v=1705509609&width=533"
-  },
-  {
+    "productId": 6956982861926,
+    "productType": "Footwear",
     "title": "Nike Air Max Ishod - White/Varsity Red-Summit White",
-    "originalPrice": "$110",
-    "salePrice": "$75",
+    "originalPrice": "$110.00",
+    "salePrice": "$60.00",
     "link": "https://laborskateshop.com/products/nike-air-max-ishod-white-varsity-red-summit-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1171_15e851ed-e83a-4edc-a023-401636dcf518.jpg?v=1705437149&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1171_15e851ed-e83a-4edc-a023-401636dcf518.jpg?v=1705437149"
   },
   {
-    "title": "Adidas Busenitz x Dan Mancina - Olive Strata/White-Red",
-    "originalPrice": "$90",
-    "salePrice": "$59",
-    "link": "https://laborskateshop.com/products/adidas-busenitz-x-dan-mancina-olive-strata-white-red",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1570.jpg?v=1705080496&width=533"
-  },
-  {
+    "productId": 6953129836646,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Mid - Fir/White",
-    "originalPrice": "$90",
-    "salePrice": "$65",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-fir-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1686_e99133f2-e587-4065-8fad-6614de9c807c.jpg?v=1704916542&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1686_e99133f2-e587-4065-8fad-6614de9c807c.jpg?v=1704916542"
   },
   {
+    "productId": 6946967683174,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Low GT - Court Blue/Light Orewood",
-    "originalPrice": "$85",
-    "salePrice": "$62",
+    "originalPrice": "$85.00",
+    "salePrice": "$62.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-gt-court-blue-light-orewood",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1179_ec431339-b588-4402-aaff-2553704fc69d.jpg?v=1703609858&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1179_ec431339-b588-4402-aaff-2553704fc69d.jpg?v=1703609858"
   },
   {
-    "title": "Converse CTAS Pro Hi - Hi Oops Pink",
-    "originalPrice": "$80",
-    "salePrice": "$55",
-    "link": "https://laborskateshop.com/products/converse-ctas-pro-hi-hi-oops-pink",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0903_6acd4b78-7c67-45d9-b63b-0c22b7f722ea.jpg?v=1703012971&width=533"
+    "productId": 6945445806182,
+    "productType": "Footwear",
+    "title": "New Balance NM 1010 Tiago - Grey/Grey",
+    "originalPrice": "$110.00",
+    "salePrice": "$77.00",
+    "link": "https://laborskateshop.com/products/new-balance-nm-1010-tiago-grey-grey",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0956_285376ed-ef79-4081-ad77-f4d9920d82ba.jpg?v=1703089522"
   },
   {
+    "productId": 6944101367910,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Mid QS x Welcome Skateboarding - Sail/Dark Beetroot-White",
-    "originalPrice": "$110",
-    "salePrice": "$65",
+    "originalPrice": "$110.00",
+    "salePrice": "$65.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-qs-x-welcome-skateboarding-sail-dark-beetroot-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0732.jpg?v=1702680125&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0732.jpg?v=1702680125"
   },
   {
+    "productId": 6943327649894,
+    "productType": "Footwear",
     "title": "Asics Gel-Vickka Slip On - Black/Black",
-    "originalPrice": "$85",
-    "salePrice": "$59",
+    "originalPrice": "$85.00",
+    "salePrice": "$59.00",
     "link": "https://laborskateshop.com/products/asics-gel-vickka-slip-on-black-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0736.jpg?v=1702578787&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0736.jpg?v=1702578787"
   },
   {
+    "productId": 6942083088486,
+    "productType": "Beanies",
     "title": "Pass~Port Drain Beanie - Rust",
-    "originalPrice": "$32",
-    "salePrice": "$22",
+    "originalPrice": "$32.00",
+    "salePrice": "$22.00",
     "link": "https://laborskateshop.com/products/pass-port-drain-beanie-rust",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0590_034602ec-7679-45bd-a19b-b7ad0b67a7b2.jpg?v=1702337083&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0590_034602ec-7679-45bd-a19b-b7ad0b67a7b2.jpg?v=1702337083"
   },
   {
-    "title": "Pass~Port Drain Beanie - Black/Steel",
-    "originalPrice": "$32",
-    "salePrice": "$22",
-    "link": "https://laborskateshop.com/products/pass-port-drain-beanie-black-steel",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0589_7a0f4b56-adbc-48fe-88c7-214b6ae6164c.jpg?v=1702336349&width=533"
-  },
-  {
-    "title": "Vans Skate Half Cab - Gold",
-    "originalPrice": "$85",
-    "salePrice": "$57",
-    "link": "https://laborskateshop.com/products/vans-skate-half-cab-gold",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_0262.jpg?v=1701364255&width=533"
-  },
-  {
+    "productId": 6916580507750,
+    "productType": "Footwear",
     "title": "Converse Fastbreak Pro Mid - White/Light Blue",
-    "originalPrice": "$80",
-    "salePrice": "$59",
+    "originalPrice": "$80.00",
+    "salePrice": "$59.00",
     "link": "https://laborskateshop.com/products/converse-fastbreak-pro-mid-white-light-blue",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_4185_c6dfd259-2fc5-49a5-b066-f2d625b380fa.jpg?v=1699555884&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_4185_c6dfd259-2fc5-49a5-b066-f2d625b380fa.jpg?v=1699555884"
   },
   {
+    "productId": 6906292797542,
+    "productType": "Footwear",
     "title": "Last Resort VM002 Suede Lo - Raw/Gum",
-    "originalPrice": "$100",
-    "salePrice": "$70",
+    "originalPrice": "$100.00",
+    "salePrice": "$70.00",
     "link": "https://laborskateshop.com/products/last-resort-vm002-suede-lo-raw-gum",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3952_3aaa2bb6-8a8e-4d72-b9ae-ff38da28e58c.jpg?v=1699033880&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3952_3aaa2bb6-8a8e-4d72-b9ae-ff38da28e58c.jpg?v=1699033880"
   },
   {
+    "productId": 6906042318950,
+    "productType": "Footwear",
     "title": "Nike SB Leo React - Black/Black-Orange",
-    "originalPrice": "$95",
-    "salePrice": "$51",
+    "originalPrice": "$95.00",
+    "salePrice": "$51.00",
     "link": "https://laborskateshop.com/products/nike-sb-leo-react-black-black-orange",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3976_4c4934c8-e44a-4379-afa9-835c188c992c.jpg?v=1699019898&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3976_4c4934c8-e44a-4379-afa9-835c188c992c.jpg?v=1699019898"
   },
   {
+    "productId": 6884259954790,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Pogo Plus - Summit White/University Blue",
-    "originalPrice": "$95",
-    "salePrice": "$65",
+    "originalPrice": "$95.00",
+    "salePrice": "$36.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-pogo-plus-summit-white-university-blue",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_3039.jpg?v=1697216328&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3039.jpg?v=1697216328"
   },
   {
-    "title": "New Balance NM 1010 Tiago - Brown/Blue",
-    "originalPrice": "$110",
-    "salePrice": "$69",
-    "link": "https://laborskateshop.com/products/new-balance-nm-1010-tiago-brown-blue",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2989.jpg?v=1697127226&width=533"
-  },
-  {
+    "productId": 6881679900774,
+    "productType": "Jackets",
     "title": "Vans Norris MTE-1 Puffer Jacket - Dress Blues",
-    "originalPrice": "$100",
-    "salePrice": "$56",
+    "originalPrice": "$100.00",
+    "salePrice": "$56.00",
     "link": "https://laborskateshop.com/products/vans-norris-mte-1-puffer-jacket-dress-blues",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2815.jpg?v=1696878158&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2815.jpg?v=1696878158"
   },
   {
+    "productId": 6881679081574,
+    "productType": "Jackets",
     "title": "Vans Norris MTE-1 Hooded Puffer Jacket - Black",
-    "originalPrice": "$110",
-    "salePrice": "$60",
+    "originalPrice": "$110.00",
+    "salePrice": "$60.00",
     "link": "https://laborskateshop.com/products/vans-mte-hooded-puffer-jacket-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_2819.jpg?v=1696878185&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2819.jpg?v=1696878185"
   },
   {
-    "title": "Nike SB Double Knee Pants - Black",
-    "originalPrice": "$110",
-    "salePrice": "$57",
-    "link": "https://laborskateshop.com/products/nike-sb-double-knee-pants-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_24472.jpg?v=1696266135&width=533"
-  },
-  {
-    "title": "Last Resort CM001 Lo - Black/White",
-    "originalPrice": "$95",
-    "salePrice": "$70",
-    "link": "https://laborskateshop.com/products/last-resort-cm001-lo-black-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1935_80b2a8e1-eee1-4378-8f32-759f1b388810.jpg?v=1695319816&width=533"
-  },
-  {
-    "title": "Skate Jawn Nutcracker T-Shirt - Heather Grey",
-    "originalPrice": "$32",
-    "salePrice": "$20",
-    "link": "https://laborskateshop.com/products/skate-jawn-nutcracker-t-shirt-heather-grey",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1842.jpg?v=1695145356&width=533"
-  },
-  {
+    "productId": 6873864929382,
+    "productType": "Footwear",
     "title": "Nike SB React Leo - White/Black",
-    "originalPrice": "$95",
-    "salePrice": "$59",
+    "originalPrice": "$95.00",
+    "salePrice": "$59.00",
     "link": "https://laborskateshop.com/products/nike-sb-react-leo-white-black",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1438.jpg?v=1694635286&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1438.jpg?v=1694635286"
   },
   {
+    "productId": 6873864601702,
+    "productType": "Footwear",
     "title": "Nike SB React Leo - Cacao Wow",
-    "originalPrice": "$95",
-    "salePrice": "$59",
+    "originalPrice": "$95.00",
+    "salePrice": "$59.00",
     "link": "https://laborskateshop.com/products/nike-sb-react-leo-cacao-wow",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_1441_6ab280ba-7ee5-4362-bfd8-d3280776d562.jpg?v=1694635264&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1441_6ab280ba-7ee5-4362-bfd8-d3280776d562.jpg?v=1694635264"
   },
   {
+    "productId": 6870830415974,
+    "productType": "Cut and Sew",
     "title": "Sex Hippies Seersucker Short Sleeve T-Shirt - Golden Brown Plaid",
-    "originalPrice": "$118",
-    "salePrice": "$61",
+    "originalPrice": "$118.00",
+    "salePrice": "$61.00",
     "link": "https://laborskateshop.com/products/sex-hippies-seersucker-short-sleeve-t-shirt-golden-brown-plaid",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_9286.jpg?v=1691513922&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9286.jpg?v=1691513922"
   },
   {
-    "title": "New Balance NM 425 - Brown/Beige",
-    "originalPrice": "$70",
-    "salePrice": "$49",
-    "link": "https://laborskateshop.com/products/new-balance-nm-425-brown-beige",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_8919.jpg?v=1690990443&width=533"
-  },
-  {
+    "productId": 6860463145062,
+    "productType": "Shorts",
     "title": "Nike SB El Chino Shorts - Hemp",
-    "originalPrice": "$80",
-    "salePrice": "$42",
+    "originalPrice": "$80.00",
+    "salePrice": "$42.00",
     "link": "https://laborskateshop.com/products/nike-sb-el-chino-shorts-hemp",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_6219.jpg?v=1683222677&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6219.jpg?v=1683222677"
   },
   {
+    "productId": 6857202761830,
+    "productType": "Footwear",
+    "title": "Nike SB Dunk Low Pro Premium - Midnight Navy/Midnight Navy-Desert Ochre",
+    "originalPrice": "No original price found",
+    "salePrice": "$110.00",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-premium-midnight-navy-midnight-navy-desert-ochre",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_0597.jpg?v=1681397341"
+  },
+  {
+    "productId": 6856093368422,
+    "productType": "Footwear",
+    "title": "Adidas Samba ADV - Black/White/Gold Metallic",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/adidas-samba-adv-core-black-cloud-white-gold-metallic",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_8471.jpg?v=1680185240"
+  },
+  {
+    "productId": 6853015896166,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Mid ISO - White/Pro Green-White",
-    "originalPrice": "$90",
-    "salePrice": "$60",
+    "originalPrice": "$90.00",
+    "salePrice": "$60.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-iso-white-pro-green-white",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_2653_03f2f262-7b8f-49ef-a9af-e60228ab4ab8.jpg?v=1678387250&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_2653_03f2f262-7b8f-49ef-a9af-e60228ab4ab8.jpg?v=1678387250"
   },
   {
+    "productId": 6850416607334,
+    "productType": "Footwear",
     "title": "Nike SB Blazer Low QS x Doyenne - Coconut Milk/Rattan",
-    "originalPrice": "$100",
-    "salePrice": "$44",
+    "originalPrice": "$100.00",
+    "salePrice": "$44.00",
     "link": "https://laborskateshop.com/products/nike-sb-blazer-low-qs-x-doyenne-coconut-milk-rattan",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_2355.jpg?v=1677597457&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_2355.jpg?v=1677597457"
   },
   {
-    "title": "Nike SB Skate Anorak - Black",
-    "originalPrice": "$85",
-    "salePrice": "$68",
-    "link": "https://laborskateshop.com/products/nike-sb-skate-anorak-black",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_2913Large.jpg?v=1652198732&width=533"
+    "productId": 6781856284774,
+    "productType": "Footwear",
+    "title": "Nike SB Dunk High Pro - Black/Black-Metallic Gold",
+    "originalPrice": "$130.00",
+    "salePrice": "$95.00",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-high-pro-black-black-metallic-gold",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_5918.jpg?v=1661635963"
   },
   {
+    "productId": 6716294266982,
+    "productType": "Footwear",
     "title": "Nike SB Zoom Blazer Mid - University Red/White",
-    "originalPrice": "$90",
-    "salePrice": "$65",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
     "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-mid-university-red-white",
-    "image": "https://laborskateshop.com/cdn/shop/files/IMG_8399.jpg?v=1690302052&width=533"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_8399.jpg?v=1690302052"
   },
   {
-    "title": "Skate Jawn Sean Jawn T-Shirt - White",
-    "originalPrice": "$28",
-    "salePrice": "$18",
-    "link": "https://laborskateshop.com/products/skate-jawn-sean-jawn-t-shirt-white",
-    "image": "https://laborskateshop.com/cdn/shop/products/IMG_8326Large.jpg?v=1640883101&width=533"
+    "productId": 6713919766630,
+    "productType": "Footwear",
+    "title": "Adidas Superstar ADV - White (Leather)",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/adidas-superstar-adv-white-leather",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_1978Large.jpg?v=1649776906"
+  },
+  {
+    "productId": 6598692110438,
+    "productType": "Footwear",
+    "title": "Adidas Samba ADV - White/Black/Gum",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/samba-adv-black-white-gum",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6372.jpg?v=1687547327"
+  },
+  {
+    "productId": 4984320622694,
+    "productType": "Footwear",
+    "title": "Dunk Low Pro QS (TD)-Black/Black-White",
+    "originalPrice": "No original price found",
+    "salePrice": "$60.00",
+    "link": "https://laborskateshop.com/products/dunk-low-pro-qs-td-black-black-white",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/products/IMG_7397.jpg?v=1607449215"
   }
 ]
