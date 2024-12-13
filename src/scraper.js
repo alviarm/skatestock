@@ -279,25 +279,25 @@ async function scrapeSeasonsSkateShop() {
 
 // debugPremierStoreScripts();
 
-/**
- * Extracts JSON data from a script tag containing a specific event.
- * @param {string} scriptContent - The content of the script tag.
- * @param {string} eventName - The name of the event to search for (e.g., "collection_viewed").
- * @returns {object|null} - Parsed JSON object or null if not found/error.
- */
-function extractJSONFromScript(scriptContent, eventName) {
-  const regex = new RegExp(`${eventName}",\\s*(\\{[\\s\\S]*?\\})\\);?`);
-  const match = scriptContent.match(regex);
-  if (match && match[1]) {
-    try {
-      return JSON.parse(match[1]);
-    } catch (error) {
-      console.error(`Error parsing JSON for event "${eventName}":`, error);
-      return null;
-    }
-  }
-  return null;
-}
+// /**
+//  * Extracts JSON data from a script tag containing a specific event.
+//  * @param {string} scriptContent - The content of the script tag.
+//  * @param {string} eventName - The name of the event to search for (e.g., "collection_viewed").
+//  * @returns {object|null} - Parsed JSON object or null if not found/error.
+//  */
+// function extractJSONFromScript(scriptContent, eventName) {
+//   const regex = new RegExp(`${eventName}",\\s*(\\{[\\s\\S]*?\\})\\);?`);
+//   const match = scriptContent.match(regex);
+//   if (match && match[1]) {
+//     try {
+//       return JSON.parse(match[1]);
+//     } catch (error) {
+//       console.error(`Error parsing JSON for event "${eventName}":`, error);
+//       return null;
+//     }
+//   }
+//   return null;
+// }
 
 /**
  * Extracts JSON data from a script tag containing a specific event.

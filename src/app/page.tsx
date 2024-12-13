@@ -275,6 +275,29 @@ export default function Home() {
   const [sort, setSort] = useState("default");
   const [selectedProductType, setSelectedProductType] = useState<string>("all");
 
+  // useEffect(() => {
+  //   const fetchProducts = async () => {
+  //     setLoading(true);
+  //     try {
+  //       const response = await fetch("/api/scraped-data");
+  //       if (!response.ok) {
+  //         throw new Error("Failed to fetch data");
+  //       }
+  //       const data: Product[] = await response.json();
+  //       console.log("Fetched products:", data); // Debug log
+  //       setBaseProducts(data);
+  //       setProducts(filterAndSortProducts(data, selectedProductType, sort));
+  //     } catch (err) {
+  //       console.error("Error fetching or parsing data:", err);
+  //       setError("Failed to load products. Please try again later.");
+  //     } finally {
+  //       setLoading(false);
+  //     }
+  //   };
+
+  //   fetchProducts();
+  // }, []);
+
   useEffect(() => {
     const fetchProducts = async () => {
       setLoading(true);
@@ -286,7 +309,6 @@ export default function Home() {
         const data: Product[] = await response.json();
         console.log("Fetched products:", data); // Debug log
         setBaseProducts(data);
-        setProducts(filterAndSortProducts(data, selectedProductType, sort));
       } catch (err) {
         console.error("Error fetching or parsing data:", err);
         setError("Failed to load products. Please try again later.");
@@ -296,7 +318,7 @@ export default function Home() {
     };
 
     fetchProducts();
-  }, []);
+  }, []); // Empty dependency array
 
   useEffect(() => {
     if (baseProducts.length > 0) {
