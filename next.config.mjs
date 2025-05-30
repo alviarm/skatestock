@@ -43,7 +43,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "njskateshop.com", // Add NJ Skateshop here
+        hostname: "njskateshop.com",
         port: "",
         pathname: "/cdn/**", // Ensure this covers NJ Skateshop image paths
       },

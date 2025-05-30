@@ -2,90 +2,234 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Define color palette and typography */
+/* Color palette */
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-rgb: 255, 255, 255; /* White background */
-  --accent-rgb: 255, 87, 34; /* Accent color inspired by subway lines */
-  --font-stack: Helvetica, Arial, sans-serif;
+  --foreground-rgb: 30, 30, 30; /* Soft black */
+  --background-rgb: 250, 250, 252; /* Very light gray */
+  --surface-rgb: 255, 255, 255; /* Pure white */
+  --accent-rgb: 0, 102, 255; /* NYC subway blue */
+  --accent-secondary-rgb: 255, 87, 34; /* Subway orange for accents */
+  --muted-rgb: 150, 150, 150; /* Muted text */
+
+  --radius: 8px; /* Consistent border radius */
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  --transition: all 0.2s ease;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-rgb: 0, 0, 0;
+    --foreground-rgb: 245, 245, 245;
+    --background-rgb: 18, 18, 20; /* Deep dark gray */
+    --surface-rgb: 30, 30, 35; /* Card surfaces */
+    --accent-rgb: 100, 180, 255; /* Brighter blue */
+    --accent-secondary-rgb: 255, 120, 80;
+    --muted-rgb: 180, 180, 180;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   }
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-color: rgb(var(--background-rgb)); /* Set solid white background */
-  font-family: var(--font-stack);
-  line-height: 1.6; 
-  -webkit-font-smoothing: antialiased; /* Improve font appearance */
+  background-color: rgb(var(--background-rgb));
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
 }
 
-/* Typography inspired by subway clarity */
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-stack);
-  font-weight: 700; /* Bold headings similar to NYC signage */
+/* Typography hierarchy */
+h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin: 0 0 1.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0 0 1.25rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
 }
 
 p {
-  font-family: var(--font-stack);
-  margin-bottom: 1rem; /* Space out paragraphs for readability */
+  margin-bottom: 1.25rem;
+  color: rgba(var(--foreground-rgb), 0.85);
+  max-width: 65ch;
 }
 
-/* Link styling similar to subway informational highlights */
+/* Link styling */
 a {
   color: rgb(var(--accent-rgb));
   text-decoration: none;
-  transition: color 0.3s ease-in-out;
+  transition: var(--transition);
+  position: relative;
 }
 
 a:hover {
-  color: rgb(0, 0, 0);
-  background-color: rgb(var(--accent-rgb));
-  color: white; /* Inspired by subway signs with contrasting text */
+  color: rgb(var(--accent-secondary-rgb));
 }
 
-/* Buttons to resemble bold call to action */
+a:after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: currentColor;
+  transition: var(--transition);
+}
+
+a:hover:after {
+  width: 100%;
+}
+
+/* Buttons */
 .button-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   background-color: rgb(var(--accent-rgb));
   color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 0.25rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  transition: background-color 0.3s ease-in-out;
+  padding: 0.75rem 1.75rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  text-transform: none;
+  transition: var(--transition);
+  border: none;
+  cursor: pointer;
+  box-shadow: var(--shadow);
 }
 
 .button-primary:hover {
-  background-color: rgb(200, 70, 30); /* Slightly darker shade on hover */
+  background-color: rgba(var(--accent-rgb), 0.9);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
 }
 
-/* Utility class for balanced text wrapping */
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+/* Cards */
+.card {
+  background-color: rgb(var(--surface-rgb));
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Layout utilities */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.section-padding {
+  padding: 4rem 0;
+}
+
+/* Text utilities */
+.text-muted {
+  color: rgba(var(--foreground-rgb), 0.6);
+}
+
+.text-accent {
+  color: rgb(var(--accent-rgb));
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Subway-inspired label */
+.subway-label {
+  background-color: rgb(var(--accent-rgb));
+  color: white;
+  font-weight: 700;
+  padding: 0.4rem 0.8rem;
+  border-radius: var(--radius);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
+/* Forms */
+input,
+select,
+textarea {
+  background-color: rgb(var(--surface-rgb));
+  border: 1px solid rgba(var(--foreground-rgb), 0.1);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  width: 100%;
+  transition: var(--transition);
+  color: rgb(var(--foreground-rgb));
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  border-color: rgb(var(--accent-rgb));
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.15);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* Scrollbar styling (modern browsers) */
+@media (pointer: fine) {
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
   }
 
-
-  .subway-label {
-    background-color: rgb(var(--accent-rgb));
-    color: white;
-    font-weight: bold;
-    padding: 0.5rem;
-    border-radius: 0.5rem;
-    display: inline-block;
-    text-align: center;
-    min-width: 40px;
+  ::-webkit-scrollbar-track {
+    background: rgba(var(--foreground-rgb), 0.05);
   }
 
+  ::-webkit-scrollbar-thumb {
+    background: rgba(var(--foreground-rgb), 0.15);
+    border-radius: 5px;
+  }
 
-  .spacing-clean {
-    padding: 1.5rem;
-    margin: 1.5rem;
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(var(--accent-rgb), 0.5);
   }
 }
