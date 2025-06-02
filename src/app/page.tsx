@@ -363,17 +363,21 @@ export default function Home() {
 
       // Sort products
       return filtered.sort((a, b) => {
-        const getPrice = (p: Product) =>
-          p.salePrice
-            ? parseFloat(p.salePrice.replace(/[^\d.]/g, ""))
-            : p.originalPrice
-            ? parseFloat(p.originalPrice.replace(/[^\d.]/g, ""))
-            : 0;
+        const getPrice = (p: Product) => {
+          // Handle case where both prices might be undefined
+          const priceStr = p.salePrice || p.originalPrice;
+          if (!priceStr) return 0;
+
+          return parseFloat(priceStr.replace(/[^\d.]/g, ""));
+        };
 
         const getDiscount = (p: Product) => {
+          // Add null checks before accessing properties
           if (!p.originalPrice || !p.salePrice) return 0;
+
           const original = parseFloat(p.originalPrice.replace(/[^\d.]/g, ""));
           const sale = parseFloat(p.salePrice.replace(/[^\d.]/g, ""));
+
           return original ? (original - sale) / original : 0;
         };
 
@@ -614,16 +618,17 @@ function ProductCard({ product }: { product: Product }) {
   const hasOriginal = !!product.originalPrice;
   const hasSale = !!product.salePrice;
 
-  const originalValue = hasOriginal
+  const originalValue = product.originalPrice
     ? parseFloat(product.originalPrice.replace(/[^\d.]/g, ""))
     : 0;
 
-  const saleValue = hasSale
+  const saleValue = product.salePrice
     ? parseFloat(product.salePrice.replace(/[^\d.]/g, ""))
     : originalValue;
 
+  // Only calculate discount if both prices exist
   const discount =
-    hasOriginal && hasSale
+    product.originalPrice && product.salePrice && originalValue > 0
       ? Math.round(((originalValue - saleValue) / originalValue) * 100)
       : 0;
 
