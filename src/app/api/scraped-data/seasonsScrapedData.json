@@ -56,20 +56,20 @@
     "productType": "T-Shirts"
   },
   {
-    "productId": 7998605328642,
-    "title": "Adidas Superstar ADV (Leather)- White/White/Gold",
-    "salePrice": "$40.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-superstar-adv-leather-white-white-gold",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4710.jpg?v=1728764070&width=533",
-    "productType": "Shoes"
-  },
-  {
     "productId": 8855678583042,
     "title": "Chocolate FTS x Seasons Albany Crew Neck- Orange",
     "salePrice": "$20.00 USD",
     "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-crew-neck-orange",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Crew-Neck-Orange-FRONT.jpg?v=1732202747&width=533",
     "productType": "Sweatshirts"
+  },
+  {
+    "productId": 7998605328642,
+    "title": "Adidas Superstar ADV (Leather)- White/White/Gold",
+    "salePrice": "$40.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-superstar-adv-leather-white-white-gold",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4710.jpg?v=1728764070&width=533",
+    "productType": "Shoes"
   },
   {
     "productId": 8502454714626,
@@ -320,14 +320,6 @@
     "productType": "Shoes"
   },
   {
-    "productId": 8788451295490,
-    "title": "Vans Skate Old Skool- Wrapped Deep Navy/Vintage",
-    "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/vans-skate-old-skool-wrapped-deep-navy-vintage",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Vans-Skate-Old-Skool-Wrapped-Deep-Navy-Vintage-SIDE.jpg?v=1725058099&width=533",
-    "productType": "Shoes"
-  },
-  {
     "productId": 8630267117826,
     "title": "Adidas Nora- Black/Green/White",
     "salePrice": "$45.00 USD",
@@ -382,14 +374,6 @@
     "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-tommy-guerrero-v8-dagger-experimental",
     "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Tommy-Guerrero-V8-Dagger-Experimental-FRONT.png?v=1723732215&width=533",
     "productType": "Misc."
-  },
-  {
-    "productId": 8809002172674,
-    "title": "Quasi Celestial Tee- Black",
-    "salePrice": "$16.00 USD",
-    "link": "https://seasonsskateshop.com/products/quasi-celestial-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Quasi-Celestial-Tee-Black-FRONT.jpg?v=1727560513&width=533",
-    "productType": "T-Shirts"
   },
   {
     "productId": 8807934558466,
@@ -496,14 +480,6 @@
     "productType": "Pants"
   },
   {
-    "productId": 8884375290114,
-    "title": "Carpet Co. Egypt Tee- Blue",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/carpet-co-egypt-tee-blue",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/F9D6B646-8395-4FFB-82C2-28E953B82E4A.jpg?v=1735935067&width=533",
-    "productType": "T-Shirts"
-  },
-  {
     "productId": 8908959416578,
     "title": "Carpet Co. Gradient Jersey- Blue",
     "salePrice": "$49.00 USD",
@@ -597,14 +573,6 @@
     "salePrice": "$25.00 USD",
     "link": "https://seasonsskateshop.com/products/violet-soul-tee-black",
     "image": "https://seasonsskateshop.com/cdn/shop/files/Violet-Soul-Tee-Black-FRONT.jpg?v=1732206198&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8809002500354,
-    "title": "Quasi Bubble Tee- Forest",
-    "salePrice": "$16.00 USD",
-    "link": "https://seasonsskateshop.com/products/quasi-bubble-tee-forest",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Quasi-Bubble-Tee-Forest-FRONT.jpg?v=1727560492&width=533",
     "productType": "T-Shirts"
   },
   {

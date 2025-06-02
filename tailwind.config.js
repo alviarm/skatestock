@@ -1,16 +1,25 @@
-/** @type {import('tailwindcss').Config} */
+// tailwind.config.js
+const defaultTheme = require("tailwindcss/defaultTheme");
+
 module.exports = {
-  content: [
-    './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/components/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/app/**/*.{js,ts,jsx,tsx,mdx}',
-  ],
+  content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      // Custom theme extensions can go here
+      fontFamily: {
+        sans: [
+          '"Courier New"',
+          "Courier",
+          "monospace",
+          ...defaultTheme.fontFamily.sans,
+        ],
+      },
+      // Add this to control form element colors
+      colors: {
+        foreground: "rgb(var(--foreground-rgb))",
+        background: "rgb(var(--background-rgb))",
+        surface: "rgb(var(--surface-rgb))",
+      },
     },
   },
-  plugins: [
-    // Add any Tailwind plugins you might want to use here
-  ],
-}
+  plugins: [],
+};
