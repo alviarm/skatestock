@@ -458,12 +458,12 @@ export default function Home() {
             placeholder="Search products..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full border border-gray-300 p-2 rounded-l-md focus:outline-none focus:ring-2 focus:ring-red-500"
+            className="w-full border border-gray-300 p-3 rounded-l-md focus:outline-none focus:ring-2 focus:ring-red-500 shadow-sm"
           />
           {searchQuery && (
             <button
               onClick={() => setSearchQuery("")}
-              className="bg-gray-200 px-3 py-2 rounded-r-md hover:bg-gray-300 transition"
+              className="bg-gray-200 px-4 py-3 rounded-r-md hover:bg-gray-300 transition"
               aria-label="Clear search"
             >
               ×
@@ -471,43 +471,86 @@ export default function Home() {
           )}
         </div>
 
-        <div className="flex flex-wrap justify-center gap-4 mb-6">
-          <div className="flex items-center">
-            <label htmlFor="sort" className="mr-2 text-gray-600">
-              Sort:
+        <div className="flex flex-wrap justify-center gap-6 mb-6">
+          <div className="flex flex-col sm:flex-row items-center gap-2">
+            <label htmlFor="sort" className="text-gray-700 font-medium">
+              Sort by:
             </label>
-            <select
-              id="sort"
-              value={sort}
-              onChange={(e) => setSort(e.target.value)}
-              className="border border-gray-300 p-2 rounded-md bg-surface text-foreground"
-            >
-              <option value="default">Newest</option>
-              <option value="lowToHigh">Price: Low to High</option>
-              <option value="highToLow">Price: High to Low</option>
-              <option value="biggestDiscount">Biggest Discount</option>
-            </select>
+            <div className="filter-control">
+              <select
+                id="sort"
+                value={sort}
+                onChange={(e) => setSort(e.target.value)}
+                className="border border-gray-300 p-2 rounded-md bg-surface text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-red-500"
+              >
+                <option value="default">Newest</option>
+                <option value="lowToHigh">Price: Low to High</option>
+                <option value="highToLow">Price: High to Low</option>
+                <option value="biggestDiscount">Biggest Discount</option>
+              </select>
+            </div>
           </div>
 
-          <div className="flex items-center">
-            <label htmlFor="productType" className="mr-2 text-gray-600">
-              Filter:
+          <div className="flex flex-col sm:flex-row items-center gap-2">
+            <label htmlFor="productType" className="text-gray-700 font-medium">
+              Filter by:
             </label>
-            <select
-              id="productType"
-              value={selectedProductType}
-              onChange={(e) => setSelectedProductType(e.target.value)}
-              className="border border-gray-300 p-2 rounded-md bg-surface text-foreground"
-            >
-              <option value="all">All Products</option>
-              {productTypes.map((type) => (
-                <option key={type} value={type}>
-                  {type.charAt(0).toUpperCase() + type.slice(1)}
-                </option>
-              ))}
-            </select>
+            <div className="filter-control">
+              <select
+                id="productType"
+                value={selectedProductType}
+                onChange={(e) => setSelectedProductType(e.target.value)}
+                className="border border-gray-300 p-2 rounded-md bg-surface text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-red-500"
+              >
+                <option value="all">All Products</option>
+                {productTypes.map((type) => (
+                  <option key={type} value={type}>
+                    {type.charAt(0).toUpperCase() + type.slice(1)}
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
         </div>
+
+        {/* Active Filters */}
+        {(searchQuery || selectedProductType !== "all") && (
+          <div className="flex flex-wrap gap-2 mb-6">
+            {searchQuery && (
+              <span className="bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm flex items-center">
+                Search: "{searchQuery}"
+                <button
+                  onClick={() => setSearchQuery("")}
+                  className="ml-2 text-red-600 hover:text-red-900"
+                  aria-label="Remove search filter"
+                >
+                  ×
+                </button>
+              </span>
+            )}
+            {selectedProductType !== "all" && (
+              <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm flex items-center">
+                Type: {selectedProductType}
+                <button
+                  onClick={() => setSelectedProductType("all")}
+                  className="ml-2 text-blue-600 hover:text-blue-900"
+                  aria-label="Remove type filter"
+                >
+                  ×
+                </button>
+              </span>
+            )}
+            <button
+              onClick={() => {
+                setSearchQuery("");
+                setSelectedProductType("all");
+              }}
+              className="text-gray-600 hover:text-gray-900 text-sm underline"
+            >
+              Clear all filters
+            </button>
+          </div>
+        )}
 
         {lastUpdated && (
           <p className="text-sm text-gray-500">Last updated: {lastUpdated}</p>
@@ -525,16 +568,24 @@ export default function Home() {
           </button>
         </div>
       ) : loading ? (
-        <div className="grid gap-8 lg:grid-cols-3 w-full max-w-6xl">
+        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 w-full max-w-6xl">
           {[...Array(productsPerPage)].map((_, i) => (
             <div
               key={i}
-              className="rounded-lg border border-gray-200 p-6 bg-white"
+              className="block rounded-lg border border-gray-200 bg-white p-4 shadow-sm"
             >
-              <div className="bg-gray-200 border-2 border-dashed rounded-xl w-full h-64 mb-4 animate-pulse" />
+              <div className="relative aspect-square w-full mb-4 bg-gray-100 rounded-lg overflow-hidden">
+                <div className="w-full h-full bg-gradient-to-r from-gray-100 via-gray-200 to-gray-100 bg-[length:200%_100%] animate-pulse" />
+              </div>
               <div className="h-4 bg-gray-200 rounded w-3/4 mb-3 animate-pulse" />
-              <div className="h-4 bg-gray-200 rounded w-1/2 mb-2 animate-pulse" />
-              <div className="h-4 bg-gray-200 rounded w-1/3 animate-pulse" />
+              <div className="flex items-end justify-between">
+                <div>
+                  <div className="h-4 bg-gray-200 rounded w-1/2 mb-2 animate-pulse" />
+                  <div className="h-5 bg-gray-200 rounded w-1/3 animate-pulse" />
+                </div>
+                <div className="h-5 w-16 bg-gray-200 rounded animate-pulse" />
+              </div>
+              <div className="mt-2 h-3 bg-gray-200 rounded w-1/4 animate-pulse" />
             </div>
           ))}
         </div>
@@ -649,7 +700,7 @@ function ProductCard({ product }: { product: Product }) {
       href={product.link}
       target="_blank"
       rel="noopener noreferrer"
-      className="block rounded-lg border border-gray-200 bg-white p-4 transition-all hover:shadow-md hover:border-red-400 group overflow-hidden"
+      className="block rounded-lg border border-gray-200 bg-white p-4 transition-all duration-300 hover:shadow-xl hover:border-red-500 group overflow-hidden transform hover:-translate-y-1"
     >
       <div className="relative aspect-square w-full mb-4 bg-gray-100 rounded-lg overflow-hidden">
         {imgError || !imgSrc.startsWith("http") ? (
@@ -661,20 +712,20 @@ function ProductCard({ product }: { product: Product }) {
             src={imgSrc}
             alt={product.title}
             fill
-            className="object-contain"
+            className="object-contain transition-transform duration-500 group-hover:scale-110"
             onError={() => setImgError(true)}
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
         )}
 
         {discount > 0 && (
-          <span className="absolute top-3 right-3 bg-red-600 text-white text-sm font-bold px-2 py-1 rounded-full">
+          <span className="absolute top-3 right-3 bg-gradient-to-r from-red-600 to-red-700 text-white text-sm font-bold px-2.5 py-1 rounded-full shadow-lg transform transition-transform duration-300 group-hover:scale-110">
             {discount}% OFF
           </span>
         )}
       </div>
 
-      <h3 className="font-medium text-gray-900 mb-2 group-hover:text-red-600 line-clamp-2 h-14">
+      <h3 className="font-semibold text-gray-900 mb-2 group-hover:text-red-600 line-clamp-2 h-14 transition-colors duration-300">
         {product.title}
       </h3>
 
@@ -687,20 +738,24 @@ function ProductCard({ product }: { product: Product }) {
           )}
           <span
             className={`${
-              discount > 0 ? "text-red-600 font-bold" : "text-gray-900"
+              discount > 0
+                ? "text-red-600 font-bold text-lg"
+                : "text-gray-900 text-lg"
             }`}
           >
             ${saleValue.toFixed(2)}
           </span>
         </div>
 
-        <span className="text-xs uppercase text-gray-500 bg-gray-100 px-2 py-1 rounded">
+        <span className="text-xs uppercase text-gray-500 bg-gray-100 px-2 py-1 rounded transition-colors duration-300 group-hover:bg-gray-200">
           {product.productType}
         </span>
       </div>
 
       {discount > 0 && (
-        <div className="mt-2 text-xs text-green-700">Save ${savings}</div>
+        <div className="mt-2 text-xs text-green-700 font-medium animate-fadeIn">
+          Save ${savings}
+        </div>
       )}
     </a>
   );

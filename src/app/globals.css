@@ -221,8 +221,101 @@ textarea:focus {
   }
 }
 
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .fade-in {
   animation: fadeIn 0.4s ease-out forwards;
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite linear;
+  background-size: 200% 100%;
+}
+
+.animate-fadeIn {
+  animation: fadeInUp 0.3s ease-out forwards;
+}
+
+/* Filter and Sort Controls */
+.filter-control {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.filter-control select {
+  padding-right: 2rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='currentColor'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  background-size: 1.25rem;
+  appearance: none;
+}
+
+.sort-active {
+  color: rgb(var(--accent-rgb));
+  font-weight: 600;
+}
+
+.filter-active {
+  background-color: rgb(var(--accent-rgb));
+  color: white;
+}
+
+.filter-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background-color: rgb(var(--accent-rgb));
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+}
+
+.filter-badge svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Scrollbar styling (modern browsers) */
+@media (pointer: fine) {
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: rgba(var(--foreground-rgb), 0.05);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(var(--foreground-rgb), 0.15);
+    border-radius: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(var(--accent-rgb), 0.5);
+  }
 }
 
 /* Scrollbar styling (modern browsers) */
