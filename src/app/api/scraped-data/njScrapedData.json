@@ -1,5 +1,752 @@
 [
   {
+    "productId": 44297543712802,
+    "productType": "Tshirt",
+    "title": "Nike SB - Paul Rodriguez \"20 Years\" Tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$30.00",
+    "link": "https://njskateshop.com/products/nike-sb-paul-rodriguez-20-yearstee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2025-09-10at5.30.58PM.webp?v=1757698344"
+  },
+  {
+    "productId": 44297543745570,
+    "productType": "Tshirt",
+    "title": "Nike SB - Paul Rodriguez \"20 Years\" Tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$30.00",
+    "link": "https://njskateshop.com/products/nike-sb-paul-rodriguez-20-yearstee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2025-09-10at5.30.58PM.webp?v=1757698344"
+  },
+  {
+    "productId": 44297543778338,
+    "productType": "Tshirt",
+    "title": "Nike SB - Paul Rodriguez \"20 Years\" Tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$30.00",
+    "link": "https://njskateshop.com/products/nike-sb-paul-rodriguez-20-yearstee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2025-09-10at5.30.58PM.webp?v=1757698344"
+  },
+  {
+    "productId": 44297543811106,
+    "productType": "Tshirt",
+    "title": "Nike SB - Paul Rodriguez \"20 Years\" Tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$30.00",
+    "link": "https://njskateshop.com/products/nike-sb-paul-rodriguez-20-yearstee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2025-09-10at5.30.58PM.webp?v=1757698344"
+  },
+  {
+    "productId": 44297543843874,
+    "productType": "Tshirt",
+    "title": "Nike SB - Paul Rodriguez \"20 Years\" Tee",
+    "originalPrice": "$50.00",
+    "salePrice": "$30.00",
+    "link": "https://njskateshop.com/products/nike-sb-paul-rodriguez-20-yearstee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2025-09-10at5.30.58PM.webp?v=1757698344"
+  },
+  {
+    "productId": 43927671144482,
+    "productType": "Shorts",
+    "title": "Adidas - Tyshawn Denim Shorts",
+    "originalPrice": "$75.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/products/adidas-tyshawn-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Adidas-Skateboarding-Tyshawn-Denim-Shorts-Black.webp?v=1751311259"
+  },
+  {
+    "productId": 43927671177250,
+    "productType": "Shorts",
+    "title": "Adidas - Tyshawn Denim Shorts",
+    "originalPrice": "$75.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/products/adidas-tyshawn-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Adidas-Skateboarding-Tyshawn-Denim-Shorts-Black.webp?v=1751311259"
+  },
+  {
+    "productId": 43927671210018,
+    "productType": "Shorts",
+    "title": "Adidas - Tyshawn Denim Shorts",
+    "originalPrice": "$75.00",
+    "salePrice": "$45.00",
+    "link": "https://njskateshop.com/products/adidas-tyshawn-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Adidas-Skateboarding-Tyshawn-Denim-Shorts-Black.webp?v=1751311259"
+  },
+  {
+    "productId": 43927589322786,
+    "productType": "Shorts",
+    "title": "Bronze - Plaid Short (Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/bronze-plaid-short-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/0002496832978838_L-removebg-preview.png?v=1751308205"
+  },
+  {
+    "productId": 43927589355554,
+    "productType": "Shorts",
+    "title": "Bronze - Plaid Short (Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/bronze-plaid-short-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/0002496832978838_L-removebg-preview.png?v=1751308205"
+  },
+  {
+    "productId": 43927589388322,
+    "productType": "Shorts",
+    "title": "Bronze - Plaid Short (Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/bronze-plaid-short-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/0002496832978838_L-removebg-preview.png?v=1751308205"
+  },
+  {
+    "productId": 43927583457314,
+    "productType": "Tshirt",
+    "title": "Bronze - Logo Rust Tee (Dark Grey)",
+    "originalPrice": "$36.00",
+    "salePrice": "$21.60",
+    "link": "https://njskateshop.com/products/bronze-logo-rust-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000249251304A5EA_L.png?v=1751308052"
+  },
+  {
+    "productId": 43927583490082,
+    "productType": "Tshirt",
+    "title": "Bronze - Logo Rust Tee (Dark Grey)",
+    "originalPrice": "$36.00",
+    "salePrice": "$21.60",
+    "link": "https://njskateshop.com/products/bronze-logo-rust-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000249251304A5EA_L.png?v=1751308052"
+  },
+  {
+    "productId": 43927583522850,
+    "productType": "Tshirt",
+    "title": "Bronze - Logo Rust Tee (Dark Grey)",
+    "originalPrice": "$36.00",
+    "salePrice": "$21.60",
+    "link": "https://njskateshop.com/products/bronze-logo-rust-tee-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000249251304A5EA_L.png?v=1751308052"
+  },
+  {
+    "productId": 43896186601506,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896187944994,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896186634274,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$102.00",
+    "salePrice": "$61.20",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896187977762,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896186667042,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$102.00",
+    "salePrice": "$61.20",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896188010530,
+    "productType": "Shorts",
+    "title": "Dime - Fighter Waffle Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_WAFFLE_TEALWASHED.jpg?v=1750191562"
+  },
+  {
+    "productId": 43896175689762,
+    "productType": "Shorts",
+    "title": "Dime - Carpenter Denim Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_CARPENTER_BRONZE.jpg?v=1750191046"
+  },
+  {
+    "productId": 43896175722530,
+    "productType": "Shorts",
+    "title": "Dime - Carpenter Denim Shorts",
+    "originalPrice": "$111.00",
+    "salePrice": "$66.60",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_CARPENTER_BRONZE.jpg?v=1750191046"
+  },
+  {
+    "productId": 43896175755298,
+    "productType": "Shorts",
+    "title": "Dime - Carpenter Denim Shorts",
+    "originalPrice": "$111.00",
+    "salePrice": "$66.60",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_CARPENTER_BRONZE.jpg?v=1750191046"
+  },
+  {
+    "productId": 43896175788066,
+    "productType": "Shorts",
+    "title": "Dime - Carpenter Denim Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-carpenter-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SU25_CARPENTER_BRONZE.jpg?v=1750191046"
+  },
+  {
+    "productId": 43871773261858,
+    "productType": "Shorts",
+    "title": "Damage - Trail Shorts",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/damage-campside-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/trail_shorts_black_1_f87f87fb-1526-4f1c-a82e-3fe40aab7096.webp?v=1749499119"
+  },
+  {
+    "productId": 43871773294626,
+    "productType": "Shorts",
+    "title": "Damage - Trail Shorts",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/damage-campside-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/trail_shorts_black_1_f87f87fb-1526-4f1c-a82e-3fe40aab7096.webp?v=1749499119"
+  },
+  {
+    "productId": 43871773327394,
+    "productType": "Shorts",
+    "title": "Damage - Trail Shorts",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/damage-campside-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/trail_shorts_black_1_f87f87fb-1526-4f1c-a82e-3fe40aab7096.webp?v=1749499119"
+  },
+  {
+    "productId": 43871773360162,
+    "productType": "Shorts",
+    "title": "Damage - Trail Shorts",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/damage-campside-shorts-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/trail_shorts_black_1_f87f87fb-1526-4f1c-a82e-3fe40aab7096.webp?v=1749499119"
+  },
+  {
+    "productId": 43855081373730,
+    "productType": "Shorts",
+    "title": "Polar - Spiral Swim Shorts",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/polar-surf-pant-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Polar-Skate-Co-SU22-Spiral-Swim-Shorts-Yellow-1_5000x_e25aa8d0-8f73-4d69-9577-514932d52845.webp?v=1748629895"
+  },
+  {
+    "productId": 43855081439266,
+    "productType": "Shorts",
+    "title": "Polar - Spiral Swim Shorts",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/polar-surf-pant-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Polar-Skate-Co-SU22-Spiral-Swim-Shorts-Yellow-1_5000x_e25aa8d0-8f73-4d69-9577-514932d52845.webp?v=1748629895"
+  },
+  {
+    "productId": 43855081504802,
+    "productType": "Shorts",
+    "title": "Polar - Spiral Swim Shorts",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/polar-surf-pant-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Polar-Skate-Co-SU22-Spiral-Swim-Shorts-Yellow-1_5000x_e25aa8d0-8f73-4d69-9577-514932d52845.webp?v=1748629895"
+  },
+  {
+    "productId": 43855081570338,
+    "productType": "Shorts",
+    "title": "Polar - Spiral Swim Shorts",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/polar-surf-pant-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Polar-Skate-Co-SU22-Spiral-Swim-Shorts-Yellow-1_5000x_e25aa8d0-8f73-4d69-9577-514932d52845.webp?v=1748629895"
+  },
+  {
+    "productId": 43794296569890,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296602658,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296635426,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296668194,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296700962,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296733730,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296766498,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43794296799266,
+    "productType": "Shorts",
+    "title": "Vans - Check 5 Baggy Denim Short",
+    "originalPrice": "$60.00",
+    "salePrice": "$36.00",
+    "link": "https://njskateshop.com/products/vans-check-5-baggy-denim-short",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/bluevansshortsfront.webp?v=1747255811"
+  },
+  {
+    "productId": 43760931143714,
+    "productType": "Shorts",
+    "title": "Dime - Pleated Denim Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-pleated-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SP25D2_PLEATEDENIM_BLUEWASHED_1024x1024_02ad0834-07aa-46d0-a6cb-dac208936967.webp?v=1745346966"
+  },
+  {
+    "productId": 43760931176482,
+    "productType": "Shorts",
+    "title": "Dime - Pleated Denim Shorts",
+    "originalPrice": "$105.00",
+    "salePrice": "$63.00",
+    "link": "https://njskateshop.com/products/dime-pleated-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SP25D2_PLEATEDENIM_BLUEWASHED_1024x1024_02ad0834-07aa-46d0-a6cb-dac208936967.webp?v=1745346966"
+  },
+  {
+    "productId": 43760931209250,
+    "productType": "Shorts",
+    "title": "Dime - Pleated Denim Shorts",
+    "originalPrice": "$105.00",
+    "salePrice": "$63.00",
+    "link": "https://njskateshop.com/products/dime-pleated-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SP25D2_PLEATEDENIM_BLUEWASHED_1024x1024_02ad0834-07aa-46d0-a6cb-dac208936967.webp?v=1745346966"
+  },
+  {
+    "productId": 43760931242018,
+    "productType": "Shorts",
+    "title": "Dime - Pleated Denim Shorts",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/dime-pleated-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SHORTS_SP25D2_PLEATEDENIM_BLUEWASHED_1024x1024_02ad0834-07aa-46d0-a6cb-dac208936967.webp?v=1745346966"
+  },
+  {
+    "productId": 43760903192610,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904273954,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904306722,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760903225378,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904339490,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904372258,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760903258146,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904405026,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760904437794,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760914759714,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760914792482,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760914825250,
+    "productType": "Tshirt",
+    "title": "Dime - Field Trip Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-field-trip-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRT_SP25D2_FIELDTRIP_BLACK_1024x1024_83b1a9a1-e180-43d2-a7a0-c17575962764.webp?v=1745346671"
+  },
+  {
+    "productId": 43760872259618,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872292386,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872325154,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872357922,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872390690,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$44.00",
+    "salePrice": "$26.40",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872423458,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872456226,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43760872488994,
+    "productType": "T-shirt",
+    "title": "Dime - Holy Flame Jersey",
+    "originalPrice": "$88.00",
+    "salePrice": "$52.80",
+    "link": "https://njskateshop.com/products/dime-holy-flame-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D2_FLAMEJERSEY_HELLFIRE_1024x1024_13e7be5c-d137-4d27-abdd-aa057cebcece.webp?v=1745346177"
+  },
+  {
+    "productId": 43718270451746,
+    "productType": "Skateboards",
+    "title": "StrangeLove - Braun \"Icelandic Sheep Wolf\"",
+    "originalPrice": "$70.00",
+    "salePrice": "$42.00",
+    "link": "https://njskateshop.com/products/strangelove-braun-icelandic-sheep-wolf",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SL_Jake_wolf_web_1296x_4ea6aad0-339b-4cc5-8d37-9ef473dd5ef1.webp?v=1743788335"
+  },
+  {
+    "productId": 43710954602530,
+    "productType": "Skateboards",
+    "title": "StrangeLove - Grassbopper",
+    "originalPrice": "$79.00",
+    "salePrice": "$47.40",
+    "link": "https://njskateshop.com/products/strangelove-grassbopper",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-04-04at1.33.11PM.png?v=1743790429"
+  },
+  {
+    "productId": 43710957617186,
+    "productType": "Skateboards",
+    "title": "StrangeLove - Grassbopper",
+    "originalPrice": "$79.00",
+    "salePrice": "$47.40",
+    "link": "https://njskateshop.com/products/strangelove-grassbopper",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-04-04at1.33.11PM.png?v=1743790429"
+  },
+  {
+    "productId": 43710957649954,
+    "productType": "Skateboards",
+    "title": "StrangeLove - Grassbopper",
+    "originalPrice": "$79.00",
+    "salePrice": "$47.40",
+    "link": "https://njskateshop.com/products/strangelove-grassbopper",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-04-04at1.33.11PM.png?v=1743790429"
+  },
+  {
+    "productId": 43708652552226,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652584994,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652617762,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652650530,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652683298,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652716066,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652748834,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43708652781602,
+    "productType": "Shorts",
+    "title": "Nike SB - Dri-FIT Skate Shorts",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://njskateshop.com/products/nike-sb-dri-fit-skate-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Screenshot2025-03-31at1.36.59PM.png?v=1743537717"
+  },
+  {
+    "productId": 43518724440098,
+    "productType": "Tshirt",
+    "title": "Dime - Topo Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-topo-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRTS_SP25D1_TOPO_WHITE_1024x1024_4444f778-9137-498f-b963-2f2b81bfaeb7.webp?v=1739814608"
+  },
+  {
+    "productId": 43518724472866,
+    "productType": "Tshirt",
+    "title": "Dime - Topo Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-topo-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRTS_SP25D1_TOPO_WHITE_1024x1024_4444f778-9137-498f-b963-2f2b81bfaeb7.webp?v=1739814608"
+  },
+  {
+    "productId": 43518724505634,
+    "productType": "Tshirt",
+    "title": "Dime - Topo Tee",
+    "originalPrice": "$42.00",
+    "salePrice": "$25.20",
+    "link": "https://njskateshop.com/products/dime-topo-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TSHIRTS_SP25D1_TOPO_WHITE_1024x1024_4444f778-9137-498f-b963-2f2b81bfaeb7.webp?v=1739814608"
+  },
+  {
+    "productId": 43518664605730,
+    "productType": "No product type found",
+    "title": "Dime - Chilling Satin Shirt",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/dime-chilling-satin-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D1_SATINSHIRT_BLACK_1800x1800_429850d3-02de-40f0-88b8-0b4406efc2fe.webp?v=1739813546"
+  },
+  {
+    "productId": 43518664638498,
+    "productType": "No product type found",
+    "title": "Dime - Chilling Satin Shirt",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/dime-chilling-satin-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D1_SATINSHIRT_BLACK_1800x1800_429850d3-02de-40f0-88b8-0b4406efc2fe.webp?v=1739813546"
+  },
+  {
+    "productId": 43518664671266,
+    "productType": "No product type found",
+    "title": "Dime - Chilling Satin Shirt",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/dime-chilling-satin-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D1_SATINSHIRT_BLACK_1800x1800_429850d3-02de-40f0-88b8-0b4406efc2fe.webp?v=1739813546"
+  },
+  {
+    "productId": 43518664704034,
+    "productType": "No product type found",
+    "title": "Dime - Chilling Satin Shirt",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/dime-chilling-satin-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TOPS_SP25D1_SATINSHIRT_BLACK_1800x1800_429850d3-02de-40f0-88b8-0b4406efc2fe.webp?v=1739813546"
+  },
+  {
     "productId": 43492006461474,
     "productType": "deck",
     "title": "Visual - SSD 2025 Stephen Vanasco Photo Deck",
@@ -18,121 +765,85 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/image1-removebg-preview_893860b4-f7a3-4e91-9eca-8241f722aa0d.png?v=1739298348"
   },
   {
-    "productId": 43485065248802,
-    "productType": "DECK",
-    "title": "DLXSF - Shopkeepers Union Deck SSD 2025",
-    "originalPrice": "$69.95",
-    "salePrice": "$41.97",
-    "link": "https://njskateshop.com/products/dlxsf-shopkeepers-union-ssd-2025",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/image2.jpg?v=1739307343"
+    "productId": 43482321485858,
+    "productType": "Deck",
+    "title": "Carpet - Bucky Lasek Guest Deck",
+    "originalPrice": "$108.00",
+    "salePrice": "$64.80",
+    "link": "https://njskateshop.com/products/carpet-bucky-lasek-guest-deck",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Bucky_Board_1.png?v=1738683118"
   },
   {
-    "productId": 43485065281570,
-    "productType": "DECK",
-    "title": "DLXSF - Shopkeepers Union Deck SSD 2025",
-    "originalPrice": "$69.95",
-    "salePrice": "$41.97",
-    "link": "https://njskateshop.com/products/dlxsf-shopkeepers-union-ssd-2025",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/image2.jpg?v=1739307343"
+    "productId": 43482321518626,
+    "productType": "Deck",
+    "title": "Carpet - Bucky Lasek Guest Deck",
+    "originalPrice": "$108.00",
+    "salePrice": "$64.80",
+    "link": "https://njskateshop.com/products/carpet-bucky-lasek-guest-deck",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Bucky_Board_1.png?v=1738683118"
   },
   {
-    "productId": 43407210577954,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407510470690,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210610722,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407513550882,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210643490,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407510503458,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210676258,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407513583650,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210709026,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407510536226,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210741794,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
+    "productId": 43407513616418,
+    "productType": "Tshirt",
+    "title": "Times - Best of TIMES Tee",
+    "originalPrice": "$45.00",
+    "salePrice": "$27.00",
+    "link": "https://njskateshop.com/products/times-best-of-times-tee",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_1586.jpg?v=1736198308"
   },
   {
-    "productId": 43407210774562,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
-  },
-  {
-    "productId": 43407210807330,
-    "productType": "Shoe",
-    "title": "Nike SB - Vertebrae (Light Smoke Grey/Dark Smoke Grey/Black/Dark Team Red)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/nike-sb-vertebrae-light-smoke-grey-dark-smoke-grey-black-dark-team-red",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/NIKE_SB_VERTEBRAE.webp?v=1736191895"
-  },
-  {
-    "productId": 43374573289506,
-    "productType": "Jeans",
-    "title": "Carpet Company - Rust Work Pant",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rust-work-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rust_Pant_1.png?v=1735588263"
-  },
-  {
-    "productId": 43374573322274,
-    "productType": "Jeans",
-    "title": "Carpet Company - Rust Work Pant",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rust-work-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rust_Pant_1.png?v=1735588263"
-  },
-  {
-    "productId": 43374573355042,
-    "productType": "Jeans",
-    "title": "Carpet Company - Rust Work Pant",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rust-work-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rust_Pant_1.png?v=1735588263"
+    "productId": 43381700296738,
+    "productType": "Deck",
+    "title": "Carpet Company - Egypt Deck",
+    "originalPrice": "$108.00",
+    "salePrice": "$64.80",
+    "link": "https://njskateshop.com/products/carpet-company-egypt-deck",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Egypt_Deck_1.png?v=1735589240"
   },
   {
     "productId": 43320125620258,
@@ -189,69 +900,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-12-03at4.36.59PM.png?v=1733261867"
   },
   {
-    "productId": 43302603489314,
-    "productType": "Hoodie",
-    "title": "Carpet Company - Rhinestone Double Zip",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rhinestone-double-zip",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rhinestone_Hoodie_Brown_1.png?v=1735588608"
-  },
-  {
-    "productId": 43302603554850,
-    "productType": "Hoodie",
-    "title": "Carpet Company - Rhinestone Double Zip",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rhinestone-double-zip",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rhinestone_Hoodie_Brown_1.png?v=1735588608"
-  },
-  {
-    "productId": 43302603620386,
-    "productType": "Hoodie",
-    "title": "Carpet Company - Rhinestone Double Zip",
-    "originalPrice": "$128.00",
-    "salePrice": "$76.80",
-    "link": "https://njskateshop.com/products/carpet-company-rhinestone-double-zip",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/Rhinestone_Hoodie_Brown_1.png?v=1735588608"
-  },
-  {
-    "productId": 43268521787426,
-    "productType": "Accessory",
-    "title": "Dime - Braided Leather Belt",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/dime-braided-leather-belt",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ACCESSORIES_HO24_BELT_BLACKCHARCOAL.jpg?v=1731442334"
-  },
-  {
-    "productId": 43268520411170,
-    "productType": "Accessory",
-    "title": "Dime - Braided Leather Belt",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/dime-braided-leather-belt",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ACCESSORIES_HO24_BELT_BLACKCHARCOAL.jpg?v=1731442334"
-  },
-  {
-    "productId": 43268521820194,
-    "productType": "Accessory",
-    "title": "Dime - Braided Leather Belt",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/dime-braided-leather-belt",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ACCESSORIES_HO24_BELT_BLACKCHARCOAL.jpg?v=1731442334"
-  },
-  {
-    "productId": 43268520443938,
-    "productType": "Accessory",
-    "title": "Dime - Braided Leather Belt",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/dime-braided-leather-belt",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ACCESSORIES_HO24_BELT_BLACKCHARCOAL.jpg?v=1731442334"
-  },
-  {
     "productId": 43265357152290,
     "productType": "deck",
     "title": "Umaverse - Toner",
@@ -261,166 +909,31 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/TONER.webp?v=1731355877"
   },
   {
-    "productId": 43265348108322,
-    "productType": "deck",
-    "title": "Umaverse - Glitch",
-    "originalPrice": "$74.00",
-    "salePrice": "$44.40",
-    "link": "https://njskateshop.com/products/umaverse-glitch",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/GLITCH_BOTTOM.webp?v=1731355600"
+    "productId": 43231039520802,
+    "productType": "Deck",
+    "title": "EDGLRD - AGGRO DR1FT \"Decapitation\"",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/edglrd-aggro-dr1ft-decapitation",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/aggro-dr1ft-decapitation-1.png?v=1730399692"
   },
   {
-    "productId": 43192945475618,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
+    "productId": 43231025692706,
+    "productType": "Deck",
+    "title": "EDGLRD - AGGRO DR1FT \"Assassin\"",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/edglrd-aggro-dr1ft-assassin",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/aggro-dr1ft-assassin-1.png?v=1730399248"
   },
   {
-    "productId": 43192945508386,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945541154,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945573922,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945606690,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945639458,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945672226,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192945704994,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Amber Brown/Black/Vibrant Yellow))",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-one-star-pro-ox-amber-brown-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/amb.jpg?v=1729461439"
-  },
-  {
-    "productId": 43192912674850,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912707618,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912740386,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912773154,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912805922,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912838690,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192912871458,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43192939741218,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
-  },
-  {
-    "productId": 43193229672482,
-    "productType": "Shoe",
-    "title": "Converse CONS x Irak - One Star Pro Ox (Navy/Black/Vibrant Yellow)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-navy-black-vibrant-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/iraknavy.png?v=1729188746"
+    "productId": 43231017271330,
+    "productType": "Deck",
+    "title": "EDGLRD - AGGRO DR1FT \"Aggro Girls\"",
+    "originalPrice": "$100.00",
+    "salePrice": "$60.00",
+    "link": "https://njskateshop.com/products/edglrd-aggro-dr1ft-aggro-girls",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/aggro-girls-1.png?v=1730399436"
   },
   {
     "productId": 43192897241122,
@@ -504,247 +1017,94 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/pant.webp?v=1729188982"
   },
   {
-    "productId": 43192786223138,
-    "productType": "Button Up",
-    "title": "Converse CONS x Irak - Rugby",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-rugby",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/rug.png?v=1729619769"
+    "productId": 43135477743650,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43192786255906,
-    "productType": "Button Up",
-    "title": "Converse CONS x Irak - Rugby",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-rugby",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/rug.png?v=1729619769"
+    "productId": 43135477776418,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43192786288674,
-    "productType": "Button Up",
-    "title": "Converse CONS x Irak - Rugby",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/converse-cons-x-irak-rugby",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/rug.png?v=1729619769"
+    "productId": 43135477809186,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190610231330,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135477841954,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190611378210,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135477874722,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190610264098,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135477907490,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190611410978,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135477940258,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190610296866,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135477973026,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43190611443746,
-    "productType": "Jersey",
-    "title": "Metalwood Studio - Paneled Jersey",
-    "originalPrice": "$108.00",
-    "salePrice": "$64.80",
-    "link": "https://njskateshop.com/products/metalwood-studio-paneled-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-10-15at1.37.38PM.png?v=1729013912"
+    "productId": 43135478005794,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
-    "productId": 43176176746530,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43176176779298,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43176176812066,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43176201224226,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43176201256994,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43176201289762,
-    "productType": "Crewneck",
-    "title": "Bronze - Sports Zip Hoodie",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/bronze-sports-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000209249563F743_L.png?v=1728504348"
-  },
-  {
-    "productId": 43146180100130,
-    "productType": "Hat",
-    "title": "Stingwater - Piggy Bank Trucker Hat",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-piggy-bank-trucker-hat",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.49.52PM.png?v=1727463053"
-  },
-  {
-    "productId": 43146180132898,
-    "productType": "Hat",
-    "title": "Stingwater - Piggy Bank Trucker Hat",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-piggy-bank-trucker-hat",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.49.52PM.png?v=1727463053"
-  },
-  {
-    "productId": 43146180395042,
-    "productType": "Hat",
-    "title": "Stingwater - Piggy Bank Trucker Hat",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-piggy-bank-trucker-hat",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.49.52PM.png?v=1727463053"
-  },
-  {
-    "productId": 43146162503714,
-    "productType": "Hoodie",
-    "title": "Stingwater - Big Groe Jeans",
-    "originalPrice": "$180.00",
-    "salePrice": "$108.00",
-    "link": "https://njskateshop.com/products/stingwater-big-groe-jeans",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.32.33PM.png?v=1727462105"
-  },
-  {
-    "productId": 43146162569250,
-    "productType": "Hoodie",
-    "title": "Stingwater - Big Groe Jeans",
-    "originalPrice": "$180.00",
-    "salePrice": "$108.00",
-    "link": "https://njskateshop.com/products/stingwater-big-groe-jeans",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.32.33PM.png?v=1727462105"
-  },
-  {
-    "productId": 43146168401954,
-    "productType": "Hoodie",
-    "title": "Stingwater - Big Groe Jeans",
-    "originalPrice": "$180.00",
-    "salePrice": "$108.00",
-    "link": "https://njskateshop.com/products/stingwater-big-groe-jeans",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.32.33PM.png?v=1727462105"
-  },
-  {
-    "productId": 43146155819042,
-    "productType": "tshirt",
-    "title": "Stingwater - Future Anxiety Tee",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-future-anxiety-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.26.30PM.png?v=1727461669"
-  },
-  {
-    "productId": 43146155851810,
-    "productType": "tshirt",
-    "title": "Stingwater - Future Anxiety Tee",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-future-anxiety-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.26.30PM.png?v=1727461669"
-  },
-  {
-    "productId": 43146155884578,
-    "productType": "tshirt",
-    "title": "Stingwater - Future Anxiety Tee",
-    "originalPrice": "$58.00",
-    "salePrice": "$34.80",
-    "link": "https://njskateshop.com/products/stingwater-future-anxiety-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-27at2.26.30PM.png?v=1727461669"
-  },
-  {
-    "productId": 43146062233634,
-    "productType": "Jacket",
-    "title": "Parra - Waved Alien Puffer Vest",
-    "originalPrice": "$200.00",
-    "salePrice": "$120.00",
-    "link": "https://njskateshop.com/products/parra-waved-alien-puffer-vest",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/52250-01_6b32587d-1176-4bee-87ae-cf96a6a87536.webp?v=1727805424"
-  },
-  {
-    "productId": 43146062299170,
-    "productType": "Jacket",
-    "title": "Parra - Waved Alien Puffer Vest",
-    "originalPrice": "$200.00",
-    "salePrice": "$120.00",
-    "link": "https://njskateshop.com/products/parra-waved-alien-puffer-vest",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/52250-01_6b32587d-1176-4bee-87ae-cf96a6a87536.webp?v=1727805424"
-  },
-  {
-    "productId": 43146062364706,
-    "productType": "Jacket",
-    "title": "Parra - Waved Alien Puffer Vest",
-    "originalPrice": "$200.00",
-    "salePrice": "$120.00",
-    "link": "https://njskateshop.com/products/parra-waved-alien-puffer-vest",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/52250-01_6b32587d-1176-4bee-87ae-cf96a6a87536.webp?v=1727805424"
+    "productId": 43135478038562,
+    "productType": "shoe",
+    "title": "New Balance Numeric - 440BWT (Beige/Blue)",
+    "originalPrice": "$80.00",
+    "salePrice": "$48.00",
+    "link": "https://njskateshop.com/products/new-balance-numeric-440bwt-beige-blue",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-24at2.23.59PM.png?v=1727202282"
   },
   {
     "productId": 43103427002402,
@@ -828,60 +1188,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/JACKETS_FA24_FISHING_BLACK.jpg?v=1726002581"
   },
   {
-    "productId": 43097680511010,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
-    "productId": 43097680543778,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
-    "productId": 43097680576546,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
-    "productId": 43097680609314,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
-    "productId": 43097680642082,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
-    "productId": 43097680674850,
-    "productType": "Jersey",
-    "title": "Carpet Company - Soccer Jersey",
-    "originalPrice": "$98.00",
-    "salePrice": "$58.80",
-    "link": "https://njskateshop.com/products/carpet-company-soccer-jersey",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-09at2.20.12PM.png?v=1725906099"
-  },
-  {
     "productId": 43078866403362,
     "productType": "Hoodie",
     "title": "Sci Fi Fantasy - Logo Hoodie",
@@ -918,177 +1224,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SCIFIFANTASYLOGOHOODORANGE01.png?v=1725481984"
   },
   {
-    "productId": 43078803980322,
-    "productType": "tshirt",
-    "title": "Sci Fi Fantasy - The Keep Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/sci-fi-fantasy-the-keep-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SCIFIFANTASYTHEKEEPTEEBLACK01.png?v=1725479921"
-  },
-  {
-    "productId": 43078804013090,
-    "productType": "tshirt",
-    "title": "Sci Fi Fantasy - The Keep Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/sci-fi-fantasy-the-keep-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SCIFIFANTASYTHEKEEPTEEBLACK01.png?v=1725479921"
-  },
-  {
-    "productId": 43078804045858,
-    "productType": "tshirt",
-    "title": "Sci Fi Fantasy - The Keep Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/sci-fi-fantasy-the-keep-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SCIFIFANTASYTHEKEEPTEEBLACK01.png?v=1725479921"
-  },
-  {
-    "productId": 43078804078626,
-    "productType": "tshirt",
-    "title": "Sci Fi Fantasy - The Keep Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/sci-fi-fantasy-the-keep-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/SCIFIFANTASYTHEKEEPTEEBLACK01.png?v=1725479921"
-  },
-  {
-    "productId": 43042290696226,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290728994,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290761762,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290794530,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290827298,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290860066,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290892834,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290925602,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290958370,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042290991138,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042291023906,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042291056674,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042291089442,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042291122210,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
-    "productId": 43042293121058,
-    "productType": "Shoe",
-    "title": "Adidas - Minnesota United FC x Familia Gazelle (Crystal White/Core Black)",
-    "originalPrice": "$110.00",
-    "salePrice": "$66.00",
-    "link": "https://njskateshop.com/products/adidas-familia-gazelle-adv-crystal-white-core-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-09-19at2.26.41PM.png?v=1726770457"
-  },
-  {
     "productId": 43037209002018,
     "productType": "Shorts",
     "title": "Frog - Perfect Frog Trucker",
@@ -1107,184 +1242,148 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-08-16at2.42.20PM.png?v=1723833970"
   },
   {
-    "productId": 43018448470050,
-    "productType": "DECK",
-    "title": "Clown - HTMSNDPOP2",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-htmsndpop2",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP2Deck.webp?v=1723139945"
+    "productId": 42809544867874,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 43018448502818,
-    "productType": "DECK",
-    "title": "Clown - HTMSNDPOP2",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-htmsndpop2",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP2Deck.webp?v=1723139945"
+    "productId": 42809544900642,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 43018209296418,
-    "productType": "Deck",
-    "title": "Clown - Here To Make Skateboards Not Data LOGO Deck",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-here-to-make-skateboards-not-data-logo-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP1Deck.webp?v=1723139819"
+    "productId": 42809544933410,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 43018209329186,
-    "productType": "Deck",
-    "title": "Clown - Here To Make Skateboards Not Data LOGO Deck",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-here-to-make-skateboards-not-data-logo-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP1Deck.webp?v=1723139819"
+    "productId": 42809544966178,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 43018209361954,
-    "productType": "Deck",
-    "title": "Clown - Here To Make Skateboards Not Data LOGO Deck",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-here-to-make-skateboards-not-data-logo-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP1Deck.webp?v=1723139819"
+    "productId": 42809544998946,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 43018209394722,
-    "productType": "Deck",
-    "title": "Clown - Here To Make Skateboards Not Data LOGO Deck",
-    "originalPrice": "$64.95",
-    "salePrice": "$38.97",
-    "link": "https://njskateshop.com/products/clown-here-to-make-skateboards-not-data-logo-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ClownHTMSNDPOP1Deck.webp?v=1723139819"
+    "productId": 42809545031714,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 42845280043042,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42809545064482,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 42845280075810,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42809545097250,
+    "productType": "Shoe",
+    "title": "Vans - Skate Half Cab '92 VCU (Navy/White)",
+    "originalPrice": "$90.00",
+    "salePrice": "$54.00",
+    "link": "https://njskateshop.com/products/vans-skate-half-cab-92-vcu-navy-white",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-02at2.28.54PM.png?v=1720642166"
   },
   {
-    "productId": 42845280108578,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849674786,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280141346,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849707554,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280174114,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849740322,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280206882,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849773090,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280239650,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849805858,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280272418,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849838626,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280469026,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
+    "productId": 42771849871394,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
-    "productId": 42845280501794,
-    "productType": "tshirt",
-    "title": "Dime - 2 Pack Tee",
-    "originalPrice": "$39.00",
-    "salePrice": "$23.40",
-    "link": "https://njskateshop.com/products/dime-2-pack-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-09at4.17.06PM.png?v=1720556252"
-  },
-  {
-    "productId": 42690618064930,
-    "productType": "Jeans",
-    "title": "Nike SB - El Jeano Pant",
-    "originalPrice": "$195.00",
-    "salePrice": "$117.00",
-    "link": "https://njskateshop.com/products/nike-sb-el-jeano-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-17at1.26.49PM.png?v=1721237278"
-  },
-  {
-    "productId": 42690618097698,
-    "productType": "Jeans",
-    "title": "Nike SB - El Jeano Pant",
-    "originalPrice": "$195.00",
-    "salePrice": "$117.00",
-    "link": "https://njskateshop.com/products/nike-sb-el-jeano-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-17at1.26.49PM.png?v=1721237278"
-  },
-  {
-    "productId": 42690618130466,
-    "productType": "Jeans",
-    "title": "Nike SB - El Jeano Pant",
-    "originalPrice": "$195.00",
-    "salePrice": "$117.00",
-    "link": "https://njskateshop.com/products/nike-sb-el-jeano-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-17at1.26.49PM.png?v=1721237278"
-  },
-  {
-    "productId": 42690618163234,
-    "productType": "Jeans",
-    "title": "Nike SB - El Jeano Pant",
-    "originalPrice": "$195.00",
-    "salePrice": "$117.00",
-    "link": "https://njskateshop.com/products/nike-sb-el-jeano-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-07-17at1.26.49PM.png?v=1721237278"
+    "productId": 42771849904162,
+    "productType": "Shorts",
+    "title": "NJ - Street Logo Sweatshorts",
+    "originalPrice": "$39.95",
+    "salePrice": "$23.97",
+    "link": "https://njskateshop.com/products/nj-street-logo-jogger-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_9234.jpg?v=1719509497"
   },
   {
     "productId": 42651617624098,
@@ -1339,114 +1438,6 @@
     "salePrice": "$34.80",
     "link": "https://njskateshop.com/products/stingwater-stingraiser-tee",
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-04at2.33.41PM.png?v=1717526259"
-  },
-  {
-    "productId": 42610325127202,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42610325159970,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42610325192738,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42610325225506,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42610325258274,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42610326372386,
-    "productType": "Shoe",
-    "title": "Vans - Ave 2.0 (Bench Green)",
-    "originalPrice": "$120.00",
-    "salePrice": "$72.00",
-    "link": "https://njskateshop.com/products/vans-ave-2-0-bench-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-06-03at3.49.28PM.png?v=1717444235"
-  },
-  {
-    "productId": 42521684246562,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
-  },
-  {
-    "productId": 42521684213794,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
-  },
-  {
-    "productId": 42521684312098,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
-  },
-  {
-    "productId": 42521684279330,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
-  },
-  {
-    "productId": 42521684377634,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
-  },
-  {
-    "productId": 42521684344866,
-    "productType": "tshirt",
-    "title": "Babylon - Rat Tee",
-    "originalPrice": "$55.00",
-    "salePrice": "$33.00",
-    "link": "https://njskateshop.com/products/babylon-rat-tee-copy",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.39.12PM.png?v=1715974786"
   },
   {
     "productId": 42521665044514,
@@ -1521,105 +1512,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-05-17at3.19.57PM.png?v=1715973735"
   },
   {
-    "productId": 42245330108450,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330141218,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330173986,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330206754,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330239522,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330272290,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330305058,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330337826,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330370594,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330403362,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
-    "productId": 42245330436130,
-    "productType": "Shoe",
-    "title": "Asics - Gel Flexkee Pro 2.0 (Cream/Black)",
-    "originalPrice": "$135.00",
-    "salePrice": "$81.00",
-    "link": "https://njskateshop.com/products/asics-gel-flexkee-pro-cream-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A979_101_SR_RT_GLB.png?v=1713209204"
-  },
-  {
     "productId": 42119055343650,
     "productType": "sweatshirt",
     "title": "POP Trading Co - College P Hoodie",
@@ -1645,276 +1537,6 @@
     "salePrice": "$100.20",
     "link": "https://njskateshop.com/products/pop-trading-co-college-p-hoodie",
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-04-09at4.01.02PM.png?v=1712693663"
-  },
-  {
-    "productId": 41741169426466,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741169459234,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741169492002,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741169524770,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741169557538,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741221953570,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741169590306,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41741225132066,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 306BLJ (Black/Black/White)",
-    "originalPrice": "$90.00",
-    "salePrice": "$54.00",
-    "link": "https://njskateshop.com/products/new-balance-numeric-306blj-black-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-26at4.12.07PM.png?v=1711484604"
-  },
-  {
-    "productId": 41740472778786,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41740472811554,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41740472844322,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41740472877090,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41740472909858,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41740472942626,
-    "productType": "tshirt",
-    "title": "Hélas - Dragon Tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/helas-dragon-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/DRAGONTEECOBALT2.jpg?v=1711473242"
-  },
-  {
-    "productId": 41675367415842,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367448610,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367481378,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367514146,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367546914,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367579682,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367612450,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675367645218,
-    "productType": "No product type found",
-    "title": "Bronze - Love and Hardware Tee",
-    "originalPrice": "$34.00",
-    "salePrice": "$20.40",
-    "link": "https://njskateshop.com/products/bronze-love-and-hardware-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/000185288888D3E1_L.jpg?v=1710506554"
-  },
-  {
-    "productId": 41675322523682,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322556450,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322589218,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322621986,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322654754,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322687522,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322720290,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
-  },
-  {
-    "productId": 41675322753058,
-    "productType": "No product type found",
-    "title": "Bronze 56K - Karpenter Pant",
-    "originalPrice": "$99.95",
-    "salePrice": "$59.97",
-    "link": "https://njskateshop.com/products/bronze-56k-karpenter-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-03-20at2.01.22PM_1.png?v=1710957903"
   },
   {
     "productId": 41568427048994,
@@ -1969,204 +1591,6 @@
     "salePrice": "$84.60",
     "link": "https://njskateshop.com/products/parra-ghost-cave-reversible-vest",
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/51165-01_43d96f7c-31db-4831-99b0-7e007b5518ca.png?v=1709058756"
-  },
-  {
-    "productId": 41422262075426,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262108194,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262140962,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262173730,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262206498,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262239266,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262272034,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262304802,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262337570,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262370338,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41422262403106,
-    "productType": "Shoe",
-    "title": "Converse CONS - Fastbreak Pro Mid (White/Warm Tan/Black)",
-    "originalPrice": "$85.00",
-    "salePrice": "$51.00",
-    "link": "https://njskateshop.com/products/converse-cons-fastbreak-pro-mid-white-warm-tan-black",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2024-01-19at1.36.31PM.png?v=1705689762"
-  },
-  {
-    "productId": 41406528323618,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528356386,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528389154,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528421922,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528454690,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528487458,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528520226,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528552994,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528585762,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528618530,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
-  },
-  {
-    "productId": 41406528651298,
-    "productType": "Shoe",
-    "title": "Converse CONS - CHUCK 70 HI 'Turnstile' (BLACK/GREY/WHITE)",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/converse-cons-chuck-70-hi-turnstile-black-grey-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/eyJidWNrZXQiOiJic3RuLWltYWdlLXNlcnZlciIsImtleSI6ImNhdGFsb2cvcHJvZHVjdC9BMDg2NTZDL0EwODY1NkMtMDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvbnRhaW4iLCJ3aWR0aCI6MTYwMCwiaGVpZ2h0IjoyMDA.png?v=1713380655"
   },
   {
     "productId": 41402939310114,
@@ -2340,24 +1764,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/IMG_4611.png?v=1702837331"
   },
   {
-    "productId": 41303195582498,
-    "productType": "No product type found",
-    "title": "Classic Griptape - Premium Chain Beanie",
-    "originalPrice": "$40.00",
-    "salePrice": "$24.00",
-    "link": "https://njskateshop.com/products/classic-griptape-premium-chain-beanie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-12-11at1.34.52PM.png?v=1702319897"
-  },
-  {
-    "productId": 41303195648034,
-    "productType": "No product type found",
-    "title": "Classic Griptape - Premium Chain Beanie",
-    "originalPrice": "$40.00",
-    "salePrice": "$24.00",
-    "link": "https://njskateshop.com/products/classic-griptape-premium-chain-beanie",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-12-11at1.34.52PM.png?v=1702319897"
-  },
-  {
     "productId": 41274394443810,
     "productType": "No product type found",
     "title": "Dime - Classic Small Logo Hoodie (Plum Gray)",
@@ -2437,186 +1843,6 @@
     "salePrice": "$126.00",
     "link": "https://njskateshop.com/products/parra-trees-in-wind-vest",
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/50436-01.png?v=1698439548"
-  },
-  {
-    "productId": 41165656883234,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165656916002,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165656948770,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165656981538,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165657014306,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165657047074,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165657079842,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41165657112610,
-    "productType": "Shoe",
-    "title": "New Balance Numeric - 600OGS (White/Green)",
-    "originalPrice": "$94.95",
-    "salePrice": "$56.97",
-    "link": "https://njskateshop.com/products/new-balance-numeric-600ogs-tom-knox-white-green",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-10-24at1.20.21PM.png?v=1698168050"
-  },
-  {
-    "productId": 41112414486562,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41112414519330,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41112414552098,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41112414584866,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41112414617634,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41112414650402,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Raw Sugar/Egret)",
-    "originalPrice": "$74.95",
-    "salePrice": "$44.97",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox-raw-sugar-egret",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/17316_88646.jpg?v=1695761218"
-  },
-  {
-    "productId": 41103698133026,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
-  },
-  {
-    "productId": 41103698165794,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
-  },
-  {
-    "productId": 41103698198562,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
-  },
-  {
-    "productId": 41103698231330,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
-  },
-  {
-    "productId": 41103698264098,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
-  },
-  {
-    "productId": 41103698296866,
-    "productType": "tshirt",
-    "title": "Noah x ADWYSD - Wave tee",
-    "originalPrice": "$50.00",
-    "salePrice": "$30.00",
-    "link": "https://njskateshop.com/products/noah-x-adwysd-wave-tee",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/ScreenShot2023-09-05at12.28.34PM.png?v=1693931442"
   },
   {
     "productId": 41096699805730,
@@ -2736,150 +1962,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/195739506562-1_1280x_60d4434e-a18c-4901-8ac9-9f1368b481c6.png?v=1692715110"
   },
   {
-    "productId": 41090581987362,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582020130,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582052898,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582085666,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582118434,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582151202,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582183970,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582216738,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582249506,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582282274,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41090582315042,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41092811882530,
-    "productType": "Shoe",
-    "title": "Asics - Japan Pro (Black/White)",
-    "originalPrice": "$105.00",
-    "salePrice": "$63.00",
-    "link": "https://njskateshop.com/products/asics-japan-pro-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/1201A920_001_SR_RT_GLB.png?v=1692028125"
-  },
-  {
-    "productId": 41085913825314,
-    "productType": "tshirt",
-    "title": "Parra - Fast Food Logo Striped Tee (Burned Yellow)",
-    "originalPrice": "$80.00",
-    "salePrice": "$48.00",
-    "link": "https://njskateshop.com/products/parra-fast-food-logo-striped-tee-burned-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/50110-01.jpg?v=1690814442"
-  },
-  {
-    "productId": 41085913858082,
-    "productType": "tshirt",
-    "title": "Parra - Fast Food Logo Striped Tee (Burned Yellow)",
-    "originalPrice": "$80.00",
-    "salePrice": "$48.00",
-    "link": "https://njskateshop.com/products/parra-fast-food-logo-striped-tee-burned-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/50110-01.jpg?v=1690814442"
-  },
-  {
-    "productId": 41085913890850,
-    "productType": "tshirt",
-    "title": "Parra - Fast Food Logo Striped Tee (Burned Yellow)",
-    "originalPrice": "$80.00",
-    "salePrice": "$48.00",
-    "link": "https://njskateshop.com/products/parra-fast-food-logo-striped-tee-burned-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/50110-01.jpg?v=1690814442"
-  },
-  {
-    "productId": 41085913923618,
-    "productType": "tshirt",
-    "title": "Parra - Fast Food Logo Striped Tee (Burned Yellow)",
-    "originalPrice": "$80.00",
-    "salePrice": "$48.00",
-    "link": "https://njskateshop.com/products/parra-fast-food-logo-striped-tee-burned-yellow",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/50110-01.jpg?v=1690814442"
-  },
-  {
     "productId": 41074478546978,
     "productType": "No product type found",
     "title": "GX1000 - Panda Sex Rayon Shirt",
@@ -2952,58 +2034,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_3_0e303a95-3d80-491f-aab8-05d6cf43f9fe.png?v=1687803408"
   },
   {
-    "productId": 41068081971234,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
-  },
-  {
-    "productId": 41068082004002,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
-  },
-  {
-    "productId": 41068082036770,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
-  },
-  {
-    "productId": 41068082069538,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
-  },
-  {
-    "productId": 41068082102306,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
-  },
-  {
-    "productId": 41068082135074,
-    "productType": "polo",
-    "title": "Bronze - Faces Zip Polo",
-    "originalPrice": "$100.00",
-    "salePrice": "$60.00",
-    "link": "https://njskateshop.com/products/bronze-faces-zip-polo",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_f057a383-5e1e-409f-b130-670e457aab45.png?v=1686338486"
+    "productId": 41073516085282,
+    "productType": "Deck",
+    "title": "Unity - Wet Black",
+    "originalPrice": "$64.95",
+    "salePrice": "$38.97",
+    "link": "https://njskateshop.com/products/unity-wet-black",
+    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/files/download_9365f858-d715-4718-b15b-128afadcb5db.png?v=1687465219"
   },
   {
     "productId": 41096658845730,
@@ -3177,69 +2214,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/RE-Powell_W1b_4up_Group_Card_Graphic_1200.jpg?v=1679588070"
   },
   {
-    "productId": 41014310895650,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014310928418,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014310961186,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014310993954,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014311026722,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014311059490,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
-    "productId": 41014311092258,
-    "productType": "Shoe",
-    "title": "Converse CONS - One Star Pro Ox (Red Oak/White/Black)",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://njskateshop.com/products/converse-cons-one-star-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/onestaroak1_512x512_557e77b3-bb9e-4d14-a89c-691e3f4419a9.png?v=1676481093"
-  },
-  {
     "productId": 41000583430178,
     "productType": "Figures",
     "title": "Super7 - Powell Peralta ReAction Figures",
@@ -3310,14 +2284,5 @@
     "salePrice": "$60.00",
     "link": "https://njskateshop.com/products/classic-griptape-butter-shades-button-up",
     "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/download_1_a8149b4c-4436-402d-8208-b0ef192c442a.png?v=1666818852"
-  },
-  {
-    "productId": 32996453351458,
-    "productType": "wheels",
-    "title": "Ghetto child - Unity | Turner 52mm",
-    "originalPrice": "$39.95",
-    "salePrice": "$23.97",
-    "link": "https://njskateshop.com/products/ghetto-child-unity-turner-52mm",
-    "image": "https://cdn.shopify.com/s/files/1/0099/4266/3227/products/ScreenShot2020-12-05at13.55.18.png?v=1607194717"
   }
 ]

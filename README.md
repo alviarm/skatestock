@@ -7,6 +7,29 @@
 
 https://skatestock.vercel.app
 
+## Recent Improvements
+
+### Enhanced Architecture
+
+- Modular scraper system with separate files per shop
+- Improved data validation and normalization
+- API caching for better performance
+- Better error handling and logging
+
+### Performance Improvements
+
+- Cached API responses reduce file system reads
+- Pagination support for better frontend performance
+- Data deduplication to remove duplicate products
+- Optimized image loading with proper error handling
+
+### Developer Experience
+
+- Structured logging with timestamps
+- Better error messages and handling
+- Modular code organization
+- Improved documentation
+
 ## Key Features
 
 - **Local Shop Focus**  
@@ -46,82 +69,94 @@ cd skatestock
 
 # Install dependencies
 npm install
+```
 
+### Running the Application
+
+```bash
 # Start development server
 npm run dev
+```
 
-Visit http://localhost:3000 in your browser
-Running Scrapers
-bash
+Visit http://localhost:3000 in your browser to view the application.
 
+### Running Scrapers
+
+```bash
 # From project root
 npm run scrape
 
 # Or directly
-node src/scraper.js
+node src/runScrapers.js
+```
 
-Deployment
+### API Endpoints
+
+The application provides a RESTful API for accessing scraped data:
+
+- `GET /api/scraped-data` - Get all products with pagination
+- Query parameters:
+  - `page` - Page number (default: 1)
+  - `limit` - Items per page (default: 20)
+  - `shop` - Filter by shop name
+  - `type` - Filter by product type
+  - `search` - Search by product title
+
+### Deployment
 
 Automatically deployed via Vercel on push to main branch:
 https://skatestock.vercel.app
 
-Deploy with Vercel
-Contributing
+### Contributing
 
 We welcome contributions! Here's how to help:
 
-    Report issues using GitHub Issues
+1. Report issues using GitHub Issues
+2. Suggest features through discussions
+3. Submit pull requests:
 
-    Suggest features through discussions
-
-    Submit pull requests:
-
-bash
-
+```bash
 git checkout -b feature/your-feature
 git commit -m 'Add feature'
 git push origin feature/your-feature
+```
 
-Development Tips
+### Development Tips
 
-    Add new shops by modifying scraper.js
+- Add new shops by creating a new scraper in `src/scrapers/`
+- Improve UI in `src/app/page.tsx` and related components
+- Add tests in `__tests__/` directory
+- Update validation rules in `src/utils/dataValidation.js`
 
-    Improve UI in components/
+### Future Roadmap
 
-    Add tests in __tests__/ directory
+- User accounts with saved favorites
+- Price drop notifications
+- Shop location mapping
+- Mobile app (React Native)
+- Community deal sharing
 
-Future Roadmap
+### Challenges & Solutions
 
-    User accounts with saved favorites
+| Challenge                    | Solution Implemented           |
+| ---------------------------- | ------------------------------ |
+| Diverse shop HTML structures | Custom scrapers per shop       |
+| Frequent site changes        | Monitoring system with alerts  |
+| Performance with large data  | Pagination + virtual scrolling |
+| Accurate product comparison  | Normalization algorithms       |
 
-    Price drop notifications
+### Acknowledgments
 
-    Shop location mapping
+- The global skateboarding community for inspiration
+- Independent shops keeping skate culture alive
+- Open-source maintainers whose work enables this project
 
-    Mobile app (React Native)
-
-    Community deal sharing
-
-Challenges & Solutions
-Challenge	Solution Implemented
-Diverse shop HTML structures	Custom scrapers per shop
-Frequent site changes	Monitoring system with alerts
-Performance with large data	Pagination + virtual scrolling
-Accurate product comparison	Normalization algorithms
-Acknowledgments
-
-    The global skateboarding community for inspiration
-
-    Independent shops keeping skate culture alive
-
-    Open-source maintainers whose work enables this project
-
-License
+### License
 
 Distributed under the MIT License - see LICENSE for details
-Contact
+
+### Contact
 
 Matthew Alviar
 Email: matthewalviar@gmail.com
 GitHub: alviarm
-```

@@ -317,11 +317,20 @@ export default function Home() {
   const fetchProducts = useCallback(async () => {
     setLoading(true);
     try {
-      const response = await fetch("/api/scraped-data");
+      // First, get the total count of products
+      const countResponse = await fetch("/api/scraped-data?page=1&limit=1");
+      if (!countResponse.ok) throw new Error("Failed to fetch product count");
+      const countResult = await countResponse.json();
+      const totalProducts = countResult.pagination.totalProducts;
+
+      // Then fetch all products
+      const response = await fetch(
+        `/api/scraped-data?page=1&limit=${totalProducts}`
+      );
       if (!response.ok) throw new Error("Failed to fetch data");
 
-      const data: Product[] = await response.json();
-      setBaseProducts(data);
+      const result = await response.json();
+      setBaseProducts(result.products);
       setLastUpdated(new Date().toLocaleTimeString());
       setError(null);
     } catch (err) {

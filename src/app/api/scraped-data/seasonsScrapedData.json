@@ -1,315 +1,393 @@
 [
   {
-    "productId": 5913555599512,
-    "title": "Seasons DVD- 2020",
-    "salePrice": "$2.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-dvd",
-    "image": "https://seasonsskateshop.com/cdn/shop/products/Seasons-DVD-2020-FRONT.jpg?v=1723742595&width=533",
-    "productType": "DVD"
-  },
-  {
-    "productId": 5913564774552,
-    "title": "Seasons- Albany DVD- 2016",
-    "salePrice": "$2.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-albany-dvd",
-    "image": "https://seasonsskateshop.com/cdn/shop/products/Seasons-Albany-DVD-2016-FRONT.png?v=1723817551&width=533",
-    "productType": "DVD"
-  },
-  {
-    "productId": 8875591565570,
-    "title": "Seasons Sketchy Skyline Zip Hood- Navy",
-    "salePrice": "$39.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-sketchy-skyline-zip-hood-navy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5799.jpg?v=1734813883&width=533",
-    "productType": "Sweatshirts"
-  },
-  {
-    "productId": 8855679992066,
-    "title": "Chocolate FTS x Seasons Albany Hoodie- Royal",
-    "salePrice": "$29.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-hoodie-royal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hoodie-Royal-FRONT.jpg?v=1732202718&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8535876731138,
-    "title": "Nike SB Club Hat",
-    "salePrice": "From $19.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-club-hat",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Club-Hat-BLACK-FRONT.jpg?v=1723151374&width=533",
-    "productType": "Hats"
-  },
-  {
-    "productId": 8875590582530,
-    "title": "Seasons Corning Zip Hood- Army Green",
-    "salePrice": "$39.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-corning-zip-hood-army-green",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5801.jpg?v=1734813906&width=533",
-    "productType": "Sweatshirts"
-  },
-  {
-    "productId": 8855670522114,
-    "title": "Chocolate FTS x Seasons Albany Tee- Orange",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-tee-orange",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Tee-Orange-FRONT.jpg?v=1732202829&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8855678583042,
-    "title": "Chocolate FTS x Seasons Albany Crew Neck- Orange",
-    "salePrice": "$20.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-crew-neck-orange",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Crew-Neck-Orange-FRONT.jpg?v=1732202747&width=533",
-    "productType": "Sweatshirts"
-  },
-  {
-    "productId": 7998605328642,
-    "title": "Adidas Superstar ADV (Leather)- White/White/Gold",
-    "salePrice": "$40.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-superstar-adv-leather-white-white-gold",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4710.jpg?v=1728764070&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8502454714626,
-    "title": "Adidas Tyshawn Mid- Black/Zeromt/Spark",
-    "salePrice": "$60.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-tyshawn-mid-black-zeromt-spark",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-TYSHAWN-MID-BLACK-ZEROMT-SPARK-FRONT.jpg?v=1721935421&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8853651194114,
-    "title": "Seasons Stain Logo Beanie- Gold",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-stain-logo-beanie-gold",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stain-Logo-Beanie-Gold-FRONT.jpg?v=1732203666&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8695747444994,
-    "title": "Adidas Tyshawn Mid- Cloud White/Orange/Blue Bird",
-    "salePrice": "$63.00 USD",
-    "link": "https://seasonsskateshop.com/products/dc-lucian-shoe-lucent-shock",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/6AC64D1A-4E82-480A-BFBB-7C6180581647.jpg?v=1742413359&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8828325396738,
-    "title": "Adidas Pro Shell ADV x Neils- Brown/Brown",
-    "salePrice": "$75.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-pro-shell-adv-x-neils-brown-brown",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Pro-Shell-ADV-x-Neils-Brown_Brown-FRONT.jpg?v=1730472056&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8762788086018,
-    "title": "Adidas Forum 84 Low ADV- Carbon/Crystal White/Grey",
-    "salePrice": "$75.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-forum-84-low-adv-carbon-crystal-white-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-3355.jpg?v=1722959208&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8439874388226,
-    "title": "Nike SB Vertebrae- Summit White/Cosmic Clay-Platinum Tint",
-    "salePrice": "$52.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-summit-white-cosmic-clay-platinum-tint",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Summit-White-Cosmic-Clay-Platinum-Tint-FRONT.jpg?v=1723216197&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8327619641602,
-    "title": "Nike SB Vertebrae- Summit White/Persian Violet",
-    "salePrice": "$52.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-summit-white-persian-violet-1",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Summit-White-Persian-Violet-FRONT.jpg?v=1723216259&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8915904889090,
-    "title": "Seasons Skinny Font Beanie- Black",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-skinny-font-beanie-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Font-Beanie-Black-FRONT.jpg?v=1739471023&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8837994250498,
-    "title": "Asics Gel-Vickka Pro- Roselle/Ivory",
-    "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-gel-vickka-pro-roselle-ivory",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Asics-Gel-Vickka-Pro-Roselle_Ivory-FRONT.jpg?v=1730468668&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8807928987906,
-    "title": "Adidas Puig Samba ADV- Cloud White/Core Black/Gum",
-    "salePrice": "$58.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-samba-adv-cloud-white-core-black-gum",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Puig-Samba-ADV-Cloud-White_Core-Black_Gum-FRONT.jpg?v=1727636841&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8845855686914,
-    "title": "DC Lynx OG Shoe- Grey",
-    "salePrice": "$75.00 USD",
-    "link": "https://seasonsskateshop.com/products/dc-lynx-og-shoe-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-3213.jpg?v=1730926950&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8780746227970,
-    "title": "Vans MC 96 VCU Quartersnacks- Blue",
-    "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/copy-vans-mc-96-vcu-quartersnacks-blue",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Vans-MC-96-VCU-Quartersnacks-Blue-SIDE.jpg?v=1724181921&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8855669047554,
-    "title": "Chocolate FTS x Seasons Albany Hat- Royal Blue",
-    "salePrice": "$32.00 USD",
-    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-hat-royal-blue",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hat-Royal-Blue-FRONT.heic?v=1732202859&width=533",
-    "productType": "Hats"
-  },
-  {
-    "productId": 8246789079298,
-    "title": "Static VI DVD/48 Page Booklet",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/copy-of-static-vi-dvd-48-page-booklet",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Static-VI-DVD_48-Page-Booklet-FRONT.jpg?v=1723824204&width=533",
-    "productType": "DVDs & Videos"
-  },
-  {
-    "productId": 8876817023234,
-    "title": "Adidas Puig- CryWhite/Black/Aqua",
-    "salePrice": "$54.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-puig-crywhite-black-aqua",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5823.jpg?v=1735071977&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8952542855426,
-    "title": "Seasons Chaz Fusca Visor Beanie- Black",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-rat-beanie-brown-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4428.jpg?v=1741285142&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915918225666,
-    "title": "Seasons Rat Beanie- Light Grey",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-rat-beanie-light-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Rat-Beanie-Light-Grey-FRONT.jpg?v=1739470267&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8854353903874,
-    "title": "Asics Vic NBD- Clay Grey/Birch",
-    "salePrice": "$70.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-vic-nbd-clay-grey-birch",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Asics-Vic-NBD-Clay-Grey_Birch-FRONT.jpg?v=1732202897&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8859160346882,
-    "title": "Vans Skate Wayvee- Ginger Root",
-    "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/vans-skate-wayvee-ginger-root",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Vans-Skate-Wayvee-Ginger-Root-FRONT.jpg?v=1733420218&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8770003730690,
-    "title": "Asics Aaron Pro- Black/White",
-    "salePrice": "$65.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-aaron-pro-black-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Asics-Aaron-Pro-Black-White-Side.jpg?v=1723493122&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8698952712450,
-    "title": "Asics Gel-Vickka Pro- Prussian Blue/Pure Silver",
-    "salePrice": "$60.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-gel-vickka-pro-prussian-blue-pure-silver",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ASICS-GEL-VICKKA-PRO-SHOE-PRUSSIAN-BLUE-PURE-SILVER-FRONT.jpg?v=1722019068&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8371754860802,
-    "title": "Vans Rowan 2- Red/White",
-    "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/vans-rowan-2-red-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0406.jpg?v=1709672201&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8302078656770,
-    "title": "Cons Fastbreak Pro Mid- White/Vaporous Grey",
+    "productId": 9121690910978,
+    "title": "Chimney Short Stack Beanie- Marled Blue/Grey",
     "salePrice": "$42.00 USD",
-    "link": "https://seasonsskateshop.com/products/cons-fastbreak-pro-mid-white-vaporous-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Cons-Fastbreak-Pro-Mid-Shoe-White-Vaporous-Grey-FRONT.jpg?v=1722544300&width=533",
-    "productType": "Shoes"
+    "link": "https://seasonsskateshop.com/products/chimney-short-stack-beanie-marled-blue-grey",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0758_bed12bdc-c292-41f2-8107-ef49bd19aff1.jpg?v=1759183634&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8904110014722,
-    "title": "Vans Skate Old Skool 36- Black/Navy",
-    "salePrice": "$80.00 USD",
-    "link": "https://seasonsskateshop.com/products/vans-skate-old-skool-36-black-navy-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4138.jpg?v=1737944465&width=533",
-    "productType": "Shoes"
+    "productId": 9121690386690,
+    "title": "Chimney Short Stack Beanie- Striped Blue/Navy/Purple",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-short-stack-beanie-striped-blue-navy-purple",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/9DA6A97F-7D35-4CC4-8F19-092209968C45.jpg?v=1759183541&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8613591679234,
-    "title": "Nike SB Vertebrae- Coconut Milk/Jade Ice- Sesame",
-    "salePrice": "$52.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-coconut-milk-jade-ice-sesame",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Coconut-Milk-Jade-Ice-Sesame-FRONT.jpg?v=1723215322&width=533",
-    "productType": "Shoes"
+    "productId": 9121690059010,
+    "title": "Chimney Short Stack Beanie- Charcoal",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-short-stack-beanie-charcoal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/6CD1A096-853D-4B74-8C16-F3DDD52422C5.jpg?v=1759183386&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8308929265922,
-    "title": "Adidas Samba ADV- Core Black/Grey Four/Chalk White",
-    "salePrice": "$40.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-samba-adv-black-grey-four-chalk-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-SAMBA-ADV-SHOE-CORE-BLACK-GREY-FOUR-CHALK-WHITE-FRONT.jpg?v=1721931492&width=533",
-    "productType": "Shoes"
+    "productId": 9121671151874,
+    "title": "Chimney OG Fold Beanie- Blocked With Black Fold",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-blocked-with-black-fold",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0752.jpg?v=1759179638&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8707381756162,
-    "title": "Cons Louie Lopez 2- Black/White/Black",
+    "productId": 9121670922498,
+    "title": "Chimney OG Fold Beanie- Blocked With Forest Green Fold",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-blocked-with-forest-green-fold",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0751.jpg?v=1759179486&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9121670693122,
+    "title": "Chimney OG Fold Beanie- Blocked With Deep Purple Fold",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-blocked-with-deep-purple-fold",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0749.jpg?v=1759179422&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9121669218562,
+    "title": "Chimney OG Fold Beanie- Mixtape Multicolor- Navy/Teal",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-mixtape-multicolor-navy-teal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0748.jpg?v=1759179403&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9121668399362,
+    "title": "Chimney OG Fold Beanie- Mixtape Multicolor- Navy/Burnt Orange",
+    "salePrice": "$42.00 USD",
+    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-mixtape-multicolor-navy-burnt-orange",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/006C0115-01ED-47C6-8A4F-4D316F6DBB8A.jpg?v=1759178955&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9096891138306,
+    "title": "Mystery Box- 2 PAIRS OF SHOES",
     "salePrice": "$85.00 USD",
-    "link": "https://seasonsskateshop.com/products/cons-ctas-pro-hi-red-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/225E47F3-43F1-4687-98E1-4B41C7AC5ADC.jpg?v=1744238643&width=533",
-    "productType": "Shoes"
+    "link": "https://seasonsskateshop.com/products/mystery-box-2-pairs-of-shoes-copy-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Mystery-Box-2-PAIRS-OF-SHOES.jpg?v=1729180356&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8894769103106,
-    "title": "Adidas Busenitz- Magic Beige/Bronze Strata/Gum",
+    "productId": 9096891007234,
+    "title": "Mystery Box- 3 PAIRS OF SHOES",
+    "salePrice": "$99.00 USD",
+    "link": "https://seasonsskateshop.com/products/mystery-box-3-pairs-of-shoes-copy-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/1A244DC1-E718-4452-B9C9-9D7C02427D16_ee518651-85fd-4aba-8275-6afa13d536c6.jpg?v=1701001335&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9084396306690,
+    "title": "Spitfire Geary Rugby Shirt- Red/Navy",
+    "salePrice": "$45.00 USD",
+    "link": "https://seasonsskateshop.com/products/spitfire-geary-rugby-shirt-red-navy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/24DCE2E4-8C19-4493-A3B1-823E2E9FFDF3.jpg?v=1755538834&width=533",
+    "productType": "Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9084394537218,
+    "title": "Thrasher x Anti Hero Pigeon Mag Hoodie- Black",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/thrasher-x-anti-hero-pigeon-mag-hoodie-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/6FC623F3-961E-41FE-8BE4-1DF24B80F39C.jpg?v=1755538880&width=533",
+    "productType": "Sweatshirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9064629731586,
+    "title": "SEXHIPPIES Welder's Stitch Loose Fit Work Shorts- Work Green/Silver",
+    "salePrice": "$61.00 USD",
+    "link": "https://seasonsskateshop.com/products/sexhippies-welders-stitch-loose-fit-work-shorts-work-green-silver",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/DF3C8A81-1304-4B82-A7C8-6BF2D8DE75D5.jpg?v=1752934221&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9064628715778,
+    "title": "SEXHIPPIES Hoop Shorts- Navy/Green/White",
+    "salePrice": "$54.00 USD",
+    "link": "https://seasonsskateshop.com/products/sexhippies-hoop-shorts",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/7E9623B0-534E-4E7F-9C55-EB06EDC3DA02.jpg?v=1752934299&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9059669672194,
+    "title": "Nike SB Zoom Nyjah 4- Light Thistle/Black-Light Thistle",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-zoom-nyjah-4-light-thistle-black-light-thistle-copy-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5662.jpg?v=1751569528&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9056462635266,
+    "title": "Adidas Superstar x A & B- Night Marine/Night Marine/Core Black",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-superstar-x-a-b-night-marine-night-marine-core-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5692.jpg?v=1752174546&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9049511002370,
+    "title": "I-Path Reed Low- Brown Suede",
+    "salePrice": "$65.00 USD",
+    "link": "https://seasonsskateshop.com/products/i-path-reed-low-brown-suede",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/25FBCCDB-F5B1-43A9-8AF3-1707561FFDE2.jpg?v=1751403015&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9049509757186,
+    "title": "I-Path Cats Low- Olive Hemp",
+    "salePrice": "$65.00 USD",
+    "link": "https://seasonsskateshop.com/products/i-path-cats-low-olive-hemp",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/5D8A3936-7404-4016-A498-0D1F94F5009F.jpg?v=1751403002&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9049500975362,
+    "title": "Nike Dri-FIT Jacquard Skate Jersey- Black/Sail",
+    "salePrice": "$35.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-dri-fit-jacquard-skate-jersey-black-sail",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/CC8180FF-96BE-4FC5-97C7-51FE491510D6.jpg?v=1751401631&width=533",
+    "productType": "Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9044671267074,
+    "title": "Thrasher Talk Shit Tee- Maroon",
+    "salePrice": "$15.00 USD",
+    "link": "https://seasonsskateshop.com/products/thrasher-talk-shit-tee-maroon",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/494FD90E-AE10-48BC-892E-2A9DEB029C49.jpg?v=1751301502&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9041757896962,
+    "title": "Nike Dri-FIT Jacquard Skate Jersey- Hydrangeas/Sail/White",
+    "salePrice": "$35.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-dri-fit-jacquard-skate-jersey-hydrangeas-sail-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-8937.jpg?v=1750784073&width=533",
+    "productType": "Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9039046738178,
+    "title": "Adidas Superstar 80 ADV- Chrystal White/Shadow Red/Off White",
+    "salePrice": "$60.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-superstar-80-adv-chrystal-white-shadow-red-off-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5542.jpg?v=1750485639&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9039036875010,
+    "title": "Adidas Busenitz Pro- Chrystal White/Core Black/Off White",
     "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-busenitz-magic-beige-bronze-strata-gum",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4057.jpg?v=1737144596&width=533",
-    "productType": "Shoes"
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-pro-chrystal-white-chrystal-white-gold-metallic-copy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/38CDBC56-02C0-4D7E-A51B-8104CC02F839.jpg?v=1750485221&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8915905904898,
-    "title": "Seasons Skinny Font Beanie- Navy",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-skinny-font-beanie-navy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Font-Beanie-Navy-FRONT.jpg?v=1739470963&width=533",
-    "productType": "Beanies"
+    "productId": 9038125269250,
+    "title": "Butter Weathergear Denim Shorts- Faded Blue",
+    "salePrice": "$48.00 USD",
+    "link": "https://seasonsskateshop.com/products/butter-fossil-tee-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/BF45214D-F78F-4DDF-8AC0-B5D4B3C2FCDB.jpg?v=1750357127&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8915903971586,
-    "title": "Seasons Skinny Font Beanie- Charcoal",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-skinny-font-beanie-charcoal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Skinny-Font-Beanie-Charcoal-White-Font-Front.jpg?v=1739471070&width=533",
-    "productType": "Beanies"
+    "productId": 9035616485634,
+    "title": "Vans Skate Slip-On- True White",
+    "salePrice": "$35.00 USD",
+    "link": "https://seasonsskateshop.com/products/vans-skate-slip-on-true-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5448.jpg?v=1749844995&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9021434167554,
+    "title": "Adidas Nora- Cloud White/Royal Blue",
+    "salePrice": "$45.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-nora-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5242.jpg?v=1747939091&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9014296019202,
+    "title": "DGK The Harpers Deck- 8",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/dgk-bricked-kalis-deck-8-06",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5806.jpg?v=1753389302&width=533",
+    "productType": "Decks",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9010145984770,
+    "title": "Nike SB Dri-FIT Knit Skate Jersey- White/Light Bone-Black",
+    "salePrice": "$30.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-dri-fit-knit-skate-jersey-white-light-bone-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-7929.jpg?v=1746463280&width=533",
+    "productType": "Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9010145231106,
+    "title": "Nike SB Dri-FIT Knit Skate Jersey- Blue Void/Game Royal-White",
+    "salePrice": "$30.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-dri-fit-knit-skate-jersey-blue-void-game-royal-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-7928.jpg?v=1746463131&width=533",
+    "productType": "Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9001861644546,
+    "title": "Dime Tantrum Mesh Shorts- Black/Grey",
+    "salePrice": "$52.00 USD",
+    "link": "https://seasonsskateshop.com/products/dime-tantrum-mesh-shorts-black-grey",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/E7262EF1-C18E-478C-AC7E-8290A8FAB715.jpg?v=1745345644&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 9001836642562,
+    "title": "Dime Undershirt 2 Pack- White",
+    "salePrice": "$25.00 USD",
+    "link": "https://seasonsskateshop.com/products/dime-undershirt-2-pack-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/E9B19094-DC69-4D1D-B799-7344D75CFE9A.jpg?v=1745343754&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8999879442690,
+    "title": "Adidas Busenitz Pro- Chrystal White/Chrystal White/Gold Metallic",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-pro-chrystal-white-chrystal-white-gold-metallic",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/5E5FDBB0-E65B-4B9F-B512-366036B1828A.jpg?v=1744997102&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8981627502850,
+    "title": "Vans Check 5 Baggy Denim Shorts- Washed Black",
+    "salePrice": "$30.00 USD",
+    "link": "https://seasonsskateshop.com/products/vans-check-5-baggy-denim-shorts-washed-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/AAD6BF45-6234-49B5-BA65-D3ADA690AFC9.jpg?v=1743529384&width=533",
+    "productType": "Unknown",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8978112184578,
+    "title": "Nike SB Air Max Ishod Premium- Denim Turquoise/Black-Denim Turquoise",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-air-max-ishod-premium",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/876E6FBB-E5D9-4EA9-A4F1-0A25D248C9BA.jpg?v=1743134728&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8978084692226,
+    "title": "Adidas Tyshawn II- Grey/Collegiate Navy",
+    "salePrice": "$65.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-tyshawn-ii-grey-collegiate-navy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/AEE46CDA-2E93-4CD7-B919-91A2DD516D52.jpg?v=1743130584&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8978078007554,
+    "title": "Adidas Busenitz Pro- Collegiate Navy/Footwear White/Better Scarlett",
+    "salePrice": "$60.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-pro-collegiate-navy-footwear-white-better-scarlett",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/8DC6797B-3AA3-4401-A3D7-9D9B9ACE4F4F.jpg?v=1743129870&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8976371482882,
+    "title": "Bronze Path Tee- Sand",
+    "salePrice": "$20.00 USD",
+    "link": "https://seasonsskateshop.com/products/bronze-path-tee-sand",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/A5386BBA-7FAD-45E1-A352-F625E7E2A2B0.jpg?v=1742929924&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8954135478530,
+    "title": "Vans Skate Slip-On- Sun-Dried Tomato",
+    "salePrice": "$35.00 USD",
+    "link": "https://seasonsskateshop.com/products/vans-skate-slip-on-sun-dried-tomato",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4450.jpg?v=1741376238&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8937321464066,
+    "title": "Adidas Busenitz Pro- Grey Two/Dark Blue/Chalk White",
+    "salePrice": "$60.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-grey-two-dark-blue-chalk-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4397.jpg?v=1740757091&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
     "productId": 8937298133250,
@@ -317,319 +395,99 @@
     "salePrice": "$50.00 USD",
     "link": "https://seasonsskateshop.com/products/adidas-nora",
     "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4394.jpg?v=1740755977&width=533",
-    "productType": "Shoes"
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8630267117826,
-    "title": "Adidas Nora- Black/Green/White",
-    "salePrice": "$45.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-nora-black-green-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-NORA-SHOE-BLACK-GREEN-WHITE-FRONT.jpg?v=1721930898&width=533",
-    "productType": "Shoes"
+    "productId": 8936364146946,
+    "title": "Polar Big Boy Shorts- Dark Blue",
+    "salePrice": "$65.00 USD",
+    "link": "https://seasonsskateshop.com/products/polar-big-boy-shorts-dark-blue",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/905EAA3B-8404-4274-BAE6-02D5C9E08988.jpg?v=1740705897&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8844964036866,
-    "title": "Nike SB Fleece Pullover Sweatshirt- Heather Grey",
-    "salePrice": "$45.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-fleece-pullover-sweatshirt-heather-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/549B8EE1-DA2C-4570-B84F-C58CA13ADA71.jpg?v=1730927427&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8936361623810,
+    "title": "Polar Big Boy Shorts- Light Blue",
+    "salePrice": "$65.00 USD",
+    "link": "https://seasonsskateshop.com/products/polar-big-boy-shorts-light-blue",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/E70506D7-0F0B-4FEA-9C0C-AD8F7D855777.jpg?v=1740705942&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8853652996354,
-    "title": "Seasons Stain Logo Beanie- Red",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-stain-logo-beanie-red",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stain-Logo-Beanie-Red-FRONT.jpg?v=1732203551&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8308996964610,
-    "title": "Cons AS-1 Pro Ox- Dark Burgundy/Egret/Gum",
-    "salePrice": "$38.00 USD",
-    "link": "https://seasonsskateshop.com/products/cons-as-1-pro-ox-dark-burgundy-egret-gum",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Cons-AS-1-Pro-Ox-SHOE-Dark-Burgundy-Egret-Gum-FRONT.jpg?v=1722543794&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 7940024500482,
-    "title": "Powell-Peralta ReAction Figure- Steve Steadham (Experimental)",
-    "salePrice": "$12.00 USD",
-    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-steve-steadham-experimental",
-    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Steve-Steadham-Experimental-FRONT.png?v=1723732137&width=533",
-    "productType": "Misc."
-  },
-  {
-    "productId": 7940027252994,
-    "title": "Powell-Peralta ReAction Figure- Steve Caballero Chinese Dragon (Experimental)",
-    "salePrice": "$12.00 USD",
-    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-steve-caballero-chinese-dragon-experimental",
-    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Steve-Caballero-Chinese-Dragon-Experimental-FRONT.png?v=1723732063&width=533",
-    "productType": "Misc."
-  },
-  {
-    "productId": 7940025975042,
-    "title": "Powell-Peralta ReAction Figure- Tommy Guerrero V8 Dagger (Experimental)",
-    "salePrice": "$12.00 USD",
-    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-tommy-guerrero-v8-dagger-experimental",
-    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Tommy-Guerrero-V8-Dagger-Experimental-FRONT.png?v=1723732215&width=533",
-    "productType": "Misc."
-  },
-  {
-    "productId": 8807934558466,
-    "title": "Adidas Puig Samba ADV- Core Black/Cloud White/Gum",
-    "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-samba-adv-core-black-cloud-white-gum-1",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Puig-Samba-ADV-Core-Black_Cloud-White_Gum-FRONT.jpg?v=1727560580&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8887903879426,
-    "title": "Nike SB Zoom Janoski OG+- Black/University Red-Black-Summit White",
+    "productId": 8925119021314,
+    "title": "Butter Scorpian Jersey- Pistachio",
     "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-zoom-janoski-og-black-university-red-black-summit-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-6154.jpg?v=1736793449&width=533",
-    "productType": "Shoes"
+    "link": "https://seasonsskateshop.com/products/butter-scorpian-jersey-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/83D06BE2-9034-4DF9-85E2-2C5B41F12ED4.jpg?v=1740164722&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8833182826754,
-    "title": "Nike SB Vertebrae- Black/Malachite- Black- Summit White",
-    "salePrice": "$54.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-black-malachite-black-summit-white-copy-1",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Black_Malachite-Black-Summit-White-FRONT.jpg?v=1728250488&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8915918586114,
-    "title": "Seasons Rat Beanie- Brown",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-rat-beanie-brown",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Rat-Beanie-Brown-FRONT.jpg?v=1739453419&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915917930754,
-    "title": "Seasons Rat Beanie- Burgundy",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-rat-beanie-burgundy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Rat-Beanie-Burgundy-FRONT.jpg?v=1739470289&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915914359042,
-    "title": "Seasons Stamp Logo Beanie- Black",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-stamp-logo-beanie-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stamp-Logo-Beanie-Black-FRONT.jpg?v=1739470848&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8393379152130,
-    "title": "Adidas Tyshawn- Core Black/Light Grey/Blue",
-    "salePrice": "$60.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-tyshawn-core-black-light-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-TYSHAWN-SHOE-CORE-BLACK-LIGHT-GREY-BLUE-FRONT.jpg?v=1721935676&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8890050838786,
-    "title": "Nike SB Full Zip Woven Skate Jacket- Blue Void/Game Royal-White",
-    "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-full-zip-woven-skate-jacket-blue-void-game-royal-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-6152.jpg?v=1736793476&width=533",
-    "productType": "Jackets"
-  },
-  {
-    "productId": 8890058735874,
-    "title": "Nike SB Fleece Pullover Sweatshirt- Sequoia/White",
+    "productId": 8925081075970,
+    "title": "Butter Climber Shorts- Black",
     "salePrice": "$45.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-fleece-pullover-sweatshirt-sequoia-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-7197.jpg?v=1742056402&width=533",
-    "productType": "Sweatshirts"
+    "link": "https://seasonsskateshop.com/products/butter-climber-shorts-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/5A7E8707-67A2-445C-B21E-877222009225.jpg?v=1740164977&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8904109883650,
-    "title": "Vans Skate Old Skool 36- Black/White",
-    "salePrice": "$80.00 USD",
-    "link": "https://seasonsskateshop.com/products/vans-skate-old-skool-36-black-white-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4137.jpg?v=1737944427&width=533",
-    "productType": "Shoes"
+    "productId": 8925078126850,
+    "title": "Butter Climber Shorts- Army",
+    "salePrice": "$45.00 USD",
+    "link": "https://seasonsskateshop.com/products/butter-climber-shorts-army",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/6E4F1A48-142A-4C0B-B3A3-2BDA553A2866.jpg?v=1740164990&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8704439910658,
-    "title": "Adidas Centennial 85 Lo ADV- Light Grey/Gum/White",
+    "productId": 8918408167682,
+    "title": "Grand Cotton Shorts- Black",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/grand-cotton-shorts-black",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/0C4BF040-BB98-4FC1-9D8F-DB105A232D49.jpg?v=1739471067&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8918404989186,
+    "title": "Grand Poly/Rayon Shorts-",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/grand-cotton-shorts-poly-rayon",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/7ECB2466-4D66-42C7-AD55-392D7489D7F5.jpg?v=1739471078&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8904205205762,
+    "title": "Asics Gel-Splyte- Black/White",
     "salePrice": "$70.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-centennial-85-lo-adv",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-CENTENNIAL-85-LO-ADV-SHOE-LIGHT-GREY-GUM-WHITE-FRONT.jpg?v=1721930759&width=533",
-    "productType": "Shoes"
+    "link": "https://seasonsskateshop.com/products/asics-gel-splyte-black-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-6356.jpg?v=1738008501&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8308994867458,
-    "title": "Cons Fastbreak Pro Mid- White/Warm Tan",
+    "productId": 8894758879490,
+    "title": "Adidas Busenitz- Core Black/Supplier Colour/Gum",
     "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/cons-fastbreak-pro-mid-white-warm-tan",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Cons-Fastbreak-Pro-Mid-Shoe-White-Warm-Tan-FRONT.jpg?v=1722544357&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8028573597954,
-    "title": "GX1000 Dojo Pants- Khaki",
-    "salePrice": "$55.00 USD",
-    "link": "https://seasonsskateshop.com/products/gx1000-dojo-pants-khaki",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/GX1000-Dojo-Pants-Khaki-FRONT.jpg?v=1723147183&width=533",
-    "productType": "Pants"
-  },
-  {
-    "productId": 8908959416578,
-    "title": "Carpet Co. Gradient Jersey- Blue",
-    "salePrice": "$49.00 USD",
-    "link": "https://seasonsskateshop.com/products/carpet-co-gradient-jersey-blue",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/FEEB7CCB-998C-41E0-A66C-6E12D26BADF7.jpg?v=1738710760&width=533",
-    "productType": "Shirts"
-  },
-  {
-    "productId": 8739981852930,
-    "title": "Nike SB M90 Frog Tee- Black",
-    "salePrice": "$22.50 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-chrome-frog-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-M90-Frog-Tee-Black-FRONT.jpg?v=1723214893&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8979139887362,
-    "title": "Butter Miles Skully Beanie- Black",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/butter-wharfie-beanie-pacific-blue-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/A39F036F-DDFF-460F-A291-3FE664FA8679.jpg?v=1743270137&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915914686722,
-    "title": "Seasons Stain Logo Beanie- Navy",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-stain-logo-beanie-navy-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stain-Logo-Beanie-Navy-FRONT.jpg?v=1739470400&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8809395192066,
-    "title": "Nike SB Max90 Tee Sonics- Green",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-max90-tee-sonics-green",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Max90-Tee-Sonics-Green-FRONT.jpg?v=1727559318&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8805166940418,
-    "title": "Adidas Nora- Cloud White/Court Green/Yellow",
-    "salePrice": "$50.00 USD",
-    "link": "https://seasonsskateshop.com/products/adidas-nora-cloud-white-court-green-yellow",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Nora-Cloud-White-Court-Green-Yellow-FRONT.jpg?v=1726686148&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8833184006402,
-    "title": "Nike SB Fleece Pullover Sweatshirt- Vintage Green/White",
-    "salePrice": "$45.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-fleece-pullover-sweatshirt-vintage-green-white-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike_SB_Fleece-Pullover-Sweatshirt-Vintage-Green_White-FRONT.jpg?v=1730471915&width=533",
-    "productType": "Sweatshirts"
-  },
-  {
-    "productId": 8867235266818,
-    "title": "Chimney OG Fold Beanie- Mixtape Multicolor",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/chimney-og-fold-beanie-mixtape-multicolor",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Chimney-OG-Fold-Beanie-Mixtape-Multicolor-FRONT.jpg?v=1734119876&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8698206486786,
-    "title": "Nike SB Denim Chinos- Ashen Slate/White",
-    "salePrice": "$90.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-denim-chinos-ashen-slate-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Denim-Chinos-Ashen-Slate-White-FRONT.jpg?v=1723151521&width=533",
-    "productType": "Pants"
-  },
-  {
-    "productId": 8794846527746,
-    "title": "SEXHIPPIES Flame Circle Tee- Tan",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-flame-circle-tee-grey",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Flame-Circle-Tee-Tan-FRONT.jpg?v=1726093863&width=533",
-    "productType": "Shirts"
-  },
-  {
-    "productId": 8065897595138,
-    "title": "Dickies Skateboarding Regular Fit Double Knee Pants- Reflecting Pond",
-    "salePrice": "$27.00 USD",
-    "link": "https://seasonsskateshop.com/products/dickies-skateboarding-regular-fit-double-knee-pants-reflecting-pond",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Dickies-Skateboarding-Regular-Fit-Double-Knee-Pants-Reflecting-Pond-FRONT.jpg?v=1723133916&width=533",
-    "productType": "Pants"
-  },
-  {
-    "productId": 8852362690818,
-    "title": "Violet Soul Tee- Black",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/violet-soul-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Violet-Soul-Tee-Black-FRONT.jpg?v=1732206198&width=533",
-    "productType": "T-Shirts"
-  },
-  {
-    "productId": 8908958040322,
-    "title": "Carpet Co. Gradient Jersey- Yellow",
-    "salePrice": "$49.00 USD",
-    "link": "https://seasonsskateshop.com/products/carpet-co-gradient-jersey-yellow",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/9D35103E-B4E4-4F00-AC29-5AC33E391FF8.jpg?v=1738710677&width=533",
-    "productType": "Shirts"
-  },
-  {
-    "productId": 8915915964674,
-    "title": "Seasons Snoopy Beanie- Black",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-snoopy-beanie-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Snoopy-Beanie-Black-FRONT.jpg?v=1739470309&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915915833602,
-    "title": "Seasons Snoopy Beanie- Gunmetal",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-snoopy-beanie-gunmetal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Snoopy_Beanie-Gunmetal-FRONT.jpg?v=1739470379&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8915913933058,
-    "title": "Seasons Stamp Logo Beanie- Gunmetal",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/seasons-stamp-logo-beanie-gunmetal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Seasons-Stamp-Logo-Beanie-Gunmetal-F.jpg?v=1739470878&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8858497450242,
-    "title": "Traffic Script Embroidered Beanie- Royal",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/traffic-script-embroidered-beanie-royal",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Traffic-Script-Embroidered-Beanie-Royal-FRONT.jpg?v=1733420241&width=533",
-    "productType": "Beanies"
-  },
-  {
-    "productId": 8881418862850,
-    "title": "Baker Ghouls Hat- Grey/Black",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/thrasher-gonz-sad-fold-beanie-forest-green",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-5007.jpg?v=1744914330&width=533",
-    "productType": "Hats"
-  },
-  {
-    "productId": 8892296036610,
-    "title": "SEXHIPPIES Reversible Jacquard Knit Jacket- Black",
-    "salePrice": "$80.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-reversible-jacquard-knit-jacket-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4107.jpg?v=1737667707&width=533",
-    "productType": "Jackets"
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-core-black-supplier-colour-gum",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-4058.jpg?v=1737143758&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
     "productId": 8890058342658,
@@ -637,94 +495,258 @@
     "salePrice": "$45.00 USD",
     "link": "https://seasonsskateshop.com/products/nike-sb-fleece-pullover-sweatshirt-parachute-beige-white",
     "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-7198.jpg?v=1742056717&width=533",
-    "productType": "Sweatshirts"
+    "productType": "Sweatshirts",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8881429283074,
-    "title": "Thrasher Smile By Spanky Pullover Hood- Navy",
-    "salePrice": "$36.00 USD",
-    "link": "https://seasonsskateshop.com/products/thrasher-smile-by-spanky-pullover-hood-navy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/27289453-DD6C-4159-977C-F3B1255C1910.jpg?v=1735589074&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8887879794946,
+    "title": "Nike SB Air Max Ishod- Black/Dusty Cactus-Black-Persian Violet",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-air-max-ishod-black-dusty-cactus-black-persian-violet",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-3991.jpg?v=1736459473&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8844965314818,
-    "title": "Nike SB Fleece Zip-Up Sweatshirt- Tan",
-    "salePrice": "$48.00 USD",
-    "link": "https://seasonsskateshop.com/products/nike-sb-fleece-zip-up-sweatshirt-tan",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/CE2E69BF-EA23-454E-9222-FC26EABC88C3.jpg?v=1730927452&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8886950953218,
+    "title": "Nike SB Air Max Ishod- Black/White",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-air-max-ishod-black-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-6088.jpg?v=1736278194&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8859987050754,
-    "title": "Paradise Chant Crew Neck- Heather",
-    "salePrice": "$30.00 USD",
-    "link": "https://seasonsskateshop.com/products/paradise-chant-crew-neck-heather",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Paradise-Chant-Crew-Neck-Heather-FRONT.jpg?v=1733419648&width=533",
-    "productType": "Sweatshirts"
+    "productId": 8870219809026,
+    "title": "Asics Japan Pro- Black/Pure Gold",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/asics-japan-pro-black-gold",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-3796.jpg?v=1734106262&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8857008406786,
-    "title": "Sci-Fi Fantasy Pegasus Crew- Black",
-    "salePrice": "$40.00 USD",
-    "link": "https://seasonsskateshop.com/products/sci-fi-fantasy-crab-quarter-zip-black-copy",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Sci-Fi-Fantasy-Pegasus-Crew-Black-FRONT.jpg?v=1733422047&width=533",
-    "productType": "Sweatshirts"
-  },
-  {
-    "productId": 8881468408066,
-    "title": "Fucking Awesome 3 Spiral Edge Beanie- Burgundy Heather",
+    "productId": 8858497450242,
+    "title": "Traffic Script Embroidered Beanie- Royal",
     "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/fucking-awesome-3-spiral-edge-beanie-burgundy-heather",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/CC4EFAE4-9B39-4DE1-872F-0E9F36BFE15D.jpg?v=1735597664&width=533",
-    "productType": "Beanies"
+    "link": "https://seasonsskateshop.com/products/traffic-script-embroidered-beanie-royal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Traffic-Script-Embroidered-Beanie-Royal-FRONT.jpg?v=1733420241&width=533",
+    "productType": "Beanies",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8867118711042,
-    "title": "GX1000 Gas Beanie- Khaki",
-    "salePrice": "$15.00 USD",
-    "link": "https://seasonsskateshop.com/products/gx1000-gas-beanie-khaki",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/GX1000-Gas-Beanie-Khaki-FRONT.jpg?v=1734124371&width=533",
-    "productType": "Beanies"
+    "productId": 8855679992066,
+    "title": "Chocolate FTS x Seasons Albany Hoodie- Royal",
+    "salePrice": "$29.00 USD",
+    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-hoodie-royal",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hoodie-Royal-FRONT.jpg?v=1732202718&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8904205205762,
-    "title": "Asics Gel-Splyte- Black/White",
-    "salePrice": "$120.00 USD",
-    "link": "https://seasonsskateshop.com/products/asics-gel-splyte-black-white",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-6356.jpg?v=1738008501&width=533",
-    "productType": "Shoes"
-  },
-  {
-    "productId": 8626266013954,
-    "title": "Skate Jawn Wave Tee- Brown",
+    "productId": 8855670522114,
+    "title": "Chocolate FTS x Seasons Albany Tee- Orange",
     "salePrice": "$19.00 USD",
-    "link": "https://seasonsskateshop.com/products/skate-jawn-wave-tee-brown",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Skate-Jawn-Wave-Tee-Brown-FRONT.jpg?v=1723821713&width=533",
-    "productType": "T-Shirts"
+    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-albany-tee-orange",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Tee-Orange-FRONT.jpg?v=1732202829&width=533",
+    "productType": "T-Shirts",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8794844659970,
-    "title": "SEXHIPPIES Flame Circle Tee- Black",
-    "salePrice": "$25.00 USD",
-    "link": "https://seasonsskateshop.com/products/sexhippies-flame-circle-tee-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/SEXHIPPIES-Flame-Circle-Tee-Black-FRONT.jpg?v=1726093914&width=533",
-    "productType": "Shirts"
+    "productId": 8855669047554,
+    "title": "Chocolate FTS x Seasons Albany Hat- Royal Blue",
+    "salePrice": "$22.00 USD",
+    "link": "https://seasonsskateshop.com/products/chocolate-fts-x-seasons-hat-royal-blue",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Chocolate-FTS-x-Seasons-Albany-Hat-Royal-Blue-FRONT.heic?v=1732202859&width=533",
+    "productType": "Hats",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8810313548034,
-    "title": "Top Heavy Stacks Hat- Black",
-    "salePrice": "$17.00 USD",
-    "link": "https://seasonsskateshop.com/products/top-heavy-stacks-hat-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Top-Heavy-Stacks-Hat-Black-FRONT.jpg?v=1727558621&width=533",
-    "productType": "Hats"
+    "productId": 8845855686914,
+    "title": "DC Lynx OG Shoe- Grey",
+    "salePrice": "$75.00 USD",
+    "link": "https://seasonsskateshop.com/products/dc-lynx-og-shoe-grey",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-3213.jpg?v=1730926950&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
   },
   {
-    "productId": 8784296214786,
-    "title": "Snack Blackbird Corduroy Hat- Black",
-    "salePrice": "$18.00 USD",
-    "link": "https://seasonsskateshop.com/products/snack-blackbird-corduroy-hat-black",
-    "image": "https://seasonsskateshop.com/cdn/shop/files/Snack-Blackbird-Corduroy-Hat-Black-FRONT.jpg?v=1724700333&width=533",
-    "productType": "Hats"
+    "productId": 8844964036866,
+    "title": "Nike SB Fleece Pullover Sweatshirt- Heather Grey",
+    "salePrice": "$45.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-fleece-pullover-sweatshirt-heather-grey",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/549B8EE1-DA2C-4570-B84F-C58CA13ADA71.jpg?v=1730927427&width=533",
+    "productType": "Sweatshirts",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8833182826754,
+    "title": "Nike SB Vertebrae- Black/Malachite- Black- Summit White",
+    "salePrice": "$54.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-black-malachite-black-summit-white-copy-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Black_Malachite-Black-Summit-White-FRONT.jpg?v=1728250488&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8807934558466,
+    "title": "Adidas Puig Samba ADV- Core Black/Cloud White/Gum",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-samba-adv-core-black-cloud-white-gum-1",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Puig-Samba-ADV-Core-Black_Cloud-White_Gum-FRONT.jpg?v=1727560580&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8788165427458,
+    "title": "Adidas Busenitz- Core Black/Zero Mettalic/Better Scarlet",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-busenitz-core-black-zeromt-betsca",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Adidas-Busenitz-Core-Black-Zero-Mettalic-Better-Scarlet-SIDE.jpg?v=1725016495&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8734167367938,
+    "title": "Nike SB Double Knee Twill Skate Pants- Armory Navy",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-double-knee-twill-skate-pants-armory-navy",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Double-Knee-Twill-Skate-Pants-Armory-Navy-FRONT.jpg?v=1723213817&width=533",
+    "productType": "Pants",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8707381756162,
+    "title": "Cons Louie Lopez 2- Black/White/Black",
+    "salePrice": "$55.00 USD",
+    "link": "https://seasonsskateshop.com/products/cons-ctas-pro-hi-red-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/225E47F3-43F1-4687-98E1-4B41C7AC5ADC.jpg?v=1744238643&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8698952712450,
+    "title": "Asics Gel-Vickka Pro- Prussian Blue/Pure Silver",
+    "salePrice": "$60.00 USD",
+    "link": "https://seasonsskateshop.com/products/asics-gel-vickka-pro-prussian-blue-pure-silver",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/ASICS-GEL-VICKKA-PRO-SHOE-PRUSSIAN-BLUE-PURE-SILVER-FRONT.jpg?v=1722019068&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8630267117826,
+    "title": "Adidas Nora- Black/Green/White",
+    "salePrice": "$45.00 USD",
+    "link": "https://seasonsskateshop.com/products/adidas-nora-black-green-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/ADIDAS-NORA-SHOE-BLACK-GREEN-WHITE-FRONT.jpg?v=1721930898&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8613591679234,
+    "title": "Nike SB Vertebrae- Coconut Milk/Jade Ice- Sesame",
+    "salePrice": "$52.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-coconut-milk-jade-ice-sesame",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Coconut-Milk-Jade-Ice-Sesame-FRONT.jpg?v=1723215322&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8439874388226,
+    "title": "Nike SB Vertebrae- Summit White/Cosmic Clay-Platinum Tint",
+    "salePrice": "$52.00 USD",
+    "link": "https://seasonsskateshop.com/products/nike-sb-vertebrae-summit-white-cosmic-clay-platinum-tint",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Nike-SB-Vertebrae-Summit-White-Cosmic-Clay-Platinum-Tint-FRONT.jpg?v=1723216197&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8371754860802,
+    "title": "Vans Rowan 2- Red/White",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/vans-rowan-2-red-white",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/IMG-0406.jpg?v=1709672201&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8308994867458,
+    "title": "Cons Fastbreak Pro Mid- White/Warm Tan",
+    "salePrice": "$50.00 USD",
+    "link": "https://seasonsskateshop.com/products/cons-fastbreak-pro-mid-white-warm-tan",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Cons-Fastbreak-Pro-Mid-Shoe-White-Warm-Tan-FRONT.jpg?v=1722544357&width=533",
+    "productType": "Shoes",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 8246789079298,
+    "title": "Static VI DVD/48 Page Booklet",
+    "salePrice": "$30.00 USD",
+    "link": "https://seasonsskateshop.com/products/copy-of-static-vi-dvd-48-page-booklet",
+    "image": "https://seasonsskateshop.com/cdn/shop/files/Static-VI-DVD_48-Page-Booklet-FRONT.jpg?v=1723824204&width=533",
+    "productType": "DVDs & Videos",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 7940027252994,
+    "title": "Powell-Peralta ReAction Figure- Steve Caballero Chinese Dragon (Experimental)",
+    "salePrice": "$12.00 USD",
+    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-steve-caballero-chinese-dragon-experimental",
+    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Steve-Caballero-Chinese-Dragon-Experimental-FRONT.png?v=1723732063&width=533",
+    "productType": "Miscellaneous",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 7940025975042,
+    "title": "Powell-Peralta ReAction Figure- Tommy Guerrero V8 Dagger (Experimental)",
+    "salePrice": "$12.00 USD",
+    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-tommy-guerrero-v8-dagger-experimental",
+    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Tommy-Guerrero-V8-Dagger-Experimental-FRONT.png?v=1723732215&width=533",
+    "productType": "Miscellaneous",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 7940024500482,
+    "title": "Powell-Peralta ReAction Figure- Steve Steadham (Experimental)",
+    "salePrice": "$12.00 USD",
+    "link": "https://seasonsskateshop.com/products/powell-peralta-reaction-figure-steve-steadham-experimental",
+    "image": "https://seasonsskateshop.com/cdn/shop/products/Powell-Peralta-ReAction-Figure-Steve-Steadham-Experimental-FRONT.png?v=1723732137&width=533",
+    "productType": "Miscellaneous",
+    "originalPrice": null,
+    "shop": "Seasons"
+  },
+  {
+    "productId": 5913564774552,
+    "title": "Seasons- Albany DVD- 2016",
+    "salePrice": "$2.00 USD",
+    "link": "https://seasonsskateshop.com/products/seasons-albany-dvd",
+    "image": "https://seasonsskateshop.com/cdn/shop/products/Seasons-Albany-DVD-2016-FRONT.png?v=1723817551&width=533",
+    "productType": "DVDs",
+    "originalPrice": null,
+    "shop": "Seasons"
   }
 ]

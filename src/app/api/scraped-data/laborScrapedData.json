@@ -1,5 +1,77 @@
 [
   {
+    "productId": 7745381466214,
+    "productType": "Decks",
+    "title": "There Refuge Team Skateboard Deck",
+    "originalPrice": "$38.80",
+    "salePrice": "$72.00",
+    "link": "https://laborskateshop.com/products/there-refuge-team-skateboard-deck",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3607.jpg?v=1759926791"
+  },
+  {
+    "productId": 7743794511974,
+    "productType": "Decks",
+    "title": "Polar Roman Gonzalez Mexico Skateboard Deck",
+    "originalPrice": "$42.11",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/polar-roman-gonzalez-mexico-skateboard-deck",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_3570.jpg?v=1759684712"
+  },
+  {
+    "productId": 7674699087974,
+    "productType": "Footwear",
+    "title": "Converse One Star Pro OX - Black/Black/Black",
+    "originalPrice": "No original price found",
+    "salePrice": "$75.00",
+    "link": "https://laborskateshop.com/products/converse-one-star-pro-ox-black-black-black-copy",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/A05320C.jpg?v=1750712214"
+  },
+  {
+    "productId": 7662178992230,
+    "productType": "Footwear",
+    "title": "Nike SB Dunk Low Pro - Red Stardust/Neutral Olive-Monarch",
+    "originalPrice": "$115.00",
+    "salePrice": "$84.00",
+    "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-red-stardust-neutral-olive-monarch",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_HJ4135-600_PHSRH000-2000.jpg?v=1749726206"
+  },
+  {
+    "productId": 7639787667558,
+    "productType": "Footwear",
+    "title": "Asics Japan Pro - Wood Crepe/Evergreen",
+    "originalPrice": "$105.00",
+    "salePrice": "$80.00",
+    "link": "https://laborskateshop.com/products/asics-japan-pro-wood-crepe-evergreen",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_0156.jpg?v=1745862070"
+  },
+  {
+    "productId": 7587280879718,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - Denim Turquoise/Black/Denim Turquoise",
+    "originalPrice": "$110.00",
+    "salePrice": "$78.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-denim-turquoise-black-denim-turquoise",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_HF7812-400_PHSRH000-2000.jpg?v=1746915117"
+  },
+  {
+    "productId": 7575871160422,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod PRM - Metallic Silver/Varsity Red-Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$70.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-prm-metallic-silver-varsity-red-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_HF3062-001_PHSRH001-2000.jpg?v=1746916103"
+  },
+  {
+    "productId": 7562042179686,
+    "productType": "Pants",
+    "title": "Polar Big Boy Jeans - Yellow Black",
+    "originalPrice": "$155.00",
+    "salePrice": "$99.00",
+    "link": "https://laborskateshop.com/products/polar-big-boy-jeans-yellow-black-1",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/034236F0-444E-42C7-8EE6-752968AE7F6E_1_105_c.jpg?v=1749081386"
+  },
+  {
     "productId": 7542105276518,
     "productType": "Footwear",
     "title": "Nike SB Dunk Low Pro B - Parachute Beige/Parachute Beige",
@@ -7,6 +79,15 @@
     "salePrice": "$85.00",
     "link": "https://laborskateshop.com/products/nike-sb-dunk-low-pro-b-parachute-beige-parachute-beige",
     "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_HJ0367-200_PHSRH001-2000.jpg?v=1746917791"
+  },
+  {
+    "productId": 7533368574054,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod - Black/White-Black-Black",
+    "originalPrice": "$110.00",
+    "salePrice": "$77.00",
+    "link": "https://laborskateshop.com/products/nike-sb-air-max-ishod-black-white-black-black",
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_FB2393-004_PHSRH001-2000.jpg?v=1746919544"
   },
   {
     "productId": 7498194616422,
@@ -27,60 +108,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/JP5861_1_FOOTWEAR_Photography_SideLateralCenterView_white.jpg?v=1746912475"
   },
   {
-    "productId": 7460374610022,
-    "productType": "Pants",
-    "title": "Stussy Chino Work Pant - Brick",
-    "originalPrice": "$140.00",
-    "salePrice": "$109.00",
-    "link": "https://laborskateshop.com/products/stussy-chino-work-pant-brick",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_7030_cb392aa7-6fca-4e0b-a7d7-5b00ad5b7731.jpg?v=1731172548"
-  },
-  {
-    "productId": 7460373495910,
-    "productType": "Pants",
-    "title": "Stussy Chino Work Pant - Surplus Green",
-    "originalPrice": "$140.00",
-    "salePrice": "$109.00",
-    "link": "https://laborskateshop.com/products/stussy-chino-work-pant-surplus-green",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_7032_9cd21aeb-1dd5-419e-9d76-b796ca3a450d.jpg?v=1731172652"
-  },
-  {
-    "productId": 7460357570662,
-    "productType": "Cut and Sew",
-    "title": "Stussy Classic LS Sprayed Shirt - Blue",
-    "originalPrice": "$160.00",
-    "salePrice": "$115.00",
-    "link": "https://laborskateshop.com/products/stussy-classic-ls-sprayed-shirt-blue",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6992_0e946e33-b097-489c-8b77-ac1dba32ef5e.jpg?v=1731176979"
-  },
-  {
-    "productId": 7460356718694,
-    "productType": "Cut and Sew",
-    "title": "Stussy Classic LS Sprayed Shirt - Tan",
-    "originalPrice": "$160.00",
-    "salePrice": "$115.00",
-    "link": "https://laborskateshop.com/products/stussy-classic-ls-sprayed-shirt-tan",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6989_a451f839-fdac-4b35-a5d7-973695603b45.jpg?v=1731177080"
-  },
-  {
-    "productId": 7432890351718,
-    "productType": "Pants",
-    "title": "Carhartt WIP Single Knee Pant - Deep H Brown",
-    "originalPrice": "$155.00",
-    "salePrice": "$89.00",
-    "link": "https://laborskateshop.com/products/carhartt-wip-single-knee-pant-deep-h-brown",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2973.jpg?v=1727361652"
-  },
-  {
-    "productId": 7432856174694,
-    "productType": "Sweatshirts",
-    "title": "Carhartt WIP Hooded Chase Jacket - Sycamore Tree/Gold",
-    "originalPrice": "$118.00",
-    "salePrice": "$90.00",
-    "link": "https://laborskateshop.com/products/carhartt-wip-hooded-chase-jacket-sycamore-tree-gold",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2970.jpg?v=1727362739"
-  },
-  {
     "productId": 7427066953830,
     "productType": "Footwear",
     "title": "Adidas Tyshawn II - Shafig/Grefi",
@@ -90,67 +117,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IF9711_1_FOOTWEAR_Photography_SideLateralCenterView_white.jpg?v=1746912692"
   },
   {
-    "productId": 7425548812390,
-    "productType": "Footwear",
-    "title": "New Balance NM 440 Trail v2 Low - Blue/ Black",
-    "originalPrice": "$110.00",
-    "salePrice": "$68.00",
-    "link": "https://laborskateshop.com/products/new-balance-nm-440-trail-v2-low-blue-black",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_2640.jpg?v=1726597697"
-  },
-  {
-    "productId": 7406340833382,
-    "productType": "Pants",
-    "title": "Polar Skate Co. 89 Pants - Blue Wash",
-    "originalPrice": "$140.00",
-    "salePrice": "$88.00",
-    "link": "https://laborskateshop.com/products/polar-skate-co-89-pants-blue-wash",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1880.jpg?v=1724956696"
-  },
-  {
     "productId": 7379830374502,
     "productType": "Pants",
     "title": "Carhartt Single Knee Pant - Blue Denim",
     "originalPrice": "$148.00",
     "salePrice": "$109.00",
     "link": "https://laborskateshop.com/products/carhartt-single-knee-pant-blue",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1022.jpg?v=1722625304"
-  },
-  {
-    "productId": 7364259446886,
-    "productType": "Footwear",
-    "title": "Adidas Superstar ADV - Grey/Black/White",
-    "originalPrice": "$100.00",
-    "salePrice": "$55.00",
-    "link": "https://laborskateshop.com/products/adidas-superstar-adv-grey-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IE6577_1_FOOTWEAR_Photography_SideLateralCenterView_white.jpg?v=1746913657"
-  },
-  {
-    "productId": 7361707049062,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Blazer Low Pro GT ISO - White/White-White",
-    "originalPrice": "$85.00",
-    "salePrice": "$55.00",
-    "link": "https://laborskateshop.com/products/nike-sb-zoom-blazer-low-pro-gt-iso-white-white-white",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/AURORA_DR9099-101_PHSRH001-2000.jpg?v=1746919795"
-  },
-  {
-    "productId": 7323998257254,
-    "productType": "Outerwear",
-    "title": "Pop Trading Co. Boxer Shirt - Loden Green",
-    "originalPrice": "$198.00",
-    "salePrice": "$109.00",
-    "link": "https://laborskateshop.com/products/pop-trading-co-boxer-shirt-loden-green",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9230.jpg?v=1718740919"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_1022.jpg?v=1749082411"
   },
   {
     "productId": 7323996717158,
-    "productType": "Pants",
+    "productType": "Jackets",
     "title": "Pop Trading Co. Hewitt Suit Jacket - Rinsed Denim",
     "originalPrice": "$176.00",
     "salePrice": "$89.00",
     "link": "https://laborskateshop.com/products/pop-trading-co-hewitt-suit-jacket-rinsed-denim",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9223.jpg?v=1718741326"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9223.jpg?v=1749082578"
   },
   {
     "productId": 7323989114982,
@@ -159,78 +141,6 @@
     "originalPrice": "$165.00",
     "salePrice": "$90.00",
     "link": "https://laborskateshop.com/products/pop-trading-co-crest-denim-dress-pants-stonewash",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9225.jpg?v=1718741015"
-  },
-  {
-    "productId": 7317403959398,
-    "productType": "Pants",
-    "title": "Nike SB El Jeano Pants - Light Wash",
-    "originalPrice": "$195.00",
-    "salePrice": "$99.00",
-    "link": "https://laborskateshop.com/products/nike-sb-el-jeano-pants-light-wash",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9050.jpg?v=1718381017"
-  },
-  {
-    "productId": 7315620855910,
-    "productType": "Pants",
-    "title": "Nike SB Kearny Nylon Cargo Pants - Green",
-    "originalPrice": "$90.00",
-    "salePrice": "$55.00",
-    "link": "https://laborskateshop.com/products/nike-sb-kearny-nylon-cargo-pants-green",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_8919_35d38bbe-14ae-4d5e-b952-4e150e82131d.jpg?v=1718223130"
-  },
-  {
-    "productId": 7147887100006,
-    "productType": "Footwear",
-    "title": "New Balance NM 480 - White/Purple",
-    "originalPrice": "$100.00",
-    "salePrice": "$65.00",
-    "link": "https://laborskateshop.com/products/new-balance-nm-480-white-purple",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6192.jpg?v=1713286087"
-  },
-  {
-    "productId": 7111447707750,
-    "productType": "Shorts",
-    "title": "Nike SB BBall Shorts - Saturn Gold/Bronzine",
-    "originalPrice": "$65.00",
-    "salePrice": "$40.00",
-    "link": "https://laborskateshop.com/products/nike-sb-bball-shorts-saturn-gold-bronzine",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5786.jpg?v=1712600913"
-  },
-  {
-    "productId": 7094559604838,
-    "productType": "Footwear",
-    "title": "Nike SB React Leo - Malachite/Malachite-Black/White",
-    "originalPrice": "$95.00",
-    "salePrice": "$59.00",
-    "link": "https://laborskateshop.com/products/nike-sb-react-leo-malachite-malachite-black-white",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5589.jpg?v=1712333562"
-  },
-  {
-    "productId": 7063864868966,
-    "productType": "Footwear",
-    "title": "New Balance NM 1010 Tiago - Rust/Sea Salt",
-    "originalPrice": "$110.00",
-    "salePrice": "$77.00",
-    "link": "https://laborskateshop.com/products/new-balance-nm-1010-tiago-rust-sea-salt",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_5131.jpg?v=1711558021"
-  },
-  {
-    "productId": 7012474093670,
-    "productType": "Footwear",
-    "title": "Adidas Busenitz - White/Blue/Met.Gold",
-    "originalPrice": "$85.00",
-    "salePrice": "$65.00",
-    "link": "https://laborskateshop.com/products/adidas-busenitz-white-blue-met-gold",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IE3101_1_FOOTWEAR_Photography_SideLateralCenterView_white.jpg?v=1746913819"
-  },
-  {
-    "productId": 6860463145062,
-    "productType": "Shorts",
-    "title": "Nike SB El Chino Shorts - Hemp",
-    "originalPrice": "$80.00",
-    "salePrice": "$42.00",
-    "link": "https://laborskateshop.com/products/nike-sb-el-chino-shorts-hemp",
-    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_6219.jpg?v=1683222677"
+    "image": "https://cdn.shopify.com/s/files/1/0025/9925/6153/files/IMG_9225.jpg?v=1749082709"
   }
 ]

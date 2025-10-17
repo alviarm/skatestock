@@ -1,12 +1,1191 @@
 [
   {
+    "productId": 7594231824449,
+    "productType": "T Shirts",
+    "title": "Nike SB Max90 Flip Phone T-Shirt",
+    "originalPrice": "$45.00",
+    "salePrice": "$25.00",
+    "link": "https://thepremierstore.com/products/max90-flip-phone-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-7-25-NikeSB1800TeeBlack-1.jpg?v=1751982974"
+  },
+  {
+    "productId": 7594231496769,
+    "productType": "T Shirts",
+    "title": "Nike SB Max90 Flip Phone T-Shirt",
+    "originalPrice": "$45.00",
+    "salePrice": "$25.00",
+    "link": "https://thepremierstore.com/products/max90-flip-phone-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-7-25-NikeSB1800TeeWhite-1.jpg?v=1752067851"
+  },
+  {
+    "productId": 7593863577665,
+    "productType": "Footwear",
+    "title": "Adidas Aloha Super",
+    "originalPrice": "$90.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/aloha-super-16",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-3-25-AdidasAlohaSuperWhiteRed-1.jpg?v=1751571454"
+  },
+  {
+    "productId": 7587726032961,
+    "productType": "Footwear",
+    "title": "Adidas Pro Model 80 ADV",
+    "originalPrice": "$120.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/pro-model-80-adv",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-20-25-AdidasProModelWhite-1.jpg?v=1750441946"
+  },
+  {
+    "productId": 7587724558401,
+    "productType": "Footwear",
+    "title": "Adidas Superstar 80 ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/superstar-80-adv",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-20-25-AdidasSuperstarWhite-1.jpg?v=1750442012"
+  },
+  {
+    "productId": 7587722330177,
+    "productType": "Footwear",
+    "title": "Adidas Gazelle ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/gazelle-adv-8",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-20-25-AdidasGazelle-Grey-1.jpg?v=1750451408"
+  },
+  {
+    "productId": 7587718889537,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/busenitz-46",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-20-25-AdidasBusenitzWhite-1.jpg?v=1750442262"
+  },
+  {
+    "productId": 7586087043137,
+    "productType": "Shorts",
+    "title": "Butter Goods Weathergear Denim Short",
+    "originalPrice": "$95.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/weathergear-denim-short-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/buttergoodsweathergeardenimshortrepairedblue.jpg?v=1752243721"
+  },
+  {
+    "productId": 7586086682689,
+    "productType": "Shorts",
+    "title": "Butter Goods Weathergear Denim Short",
+    "originalPrice": "$95.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/weathergear-denim-short-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/buttergoodsweathergeardenimshortgunnmetal.jpg?v=1752243099"
+  },
+  {
+    "productId": 7584443465793,
+    "productType": "Footwear",
+    "title": "Adidas Superskate",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/superskate",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-13-25-AdidasSuperskateWhiteGreen-1.jpg?v=1749826419"
+  },
+  {
+    "productId": 7573092892737,
+    "productType": "Shorts",
+    "title": "Polar Jiro Shorts",
+    "originalPrice": "$155.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/jiro-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-29-25-PolarJiroShortKhaki-1.jpg?v=1748614325"
+  },
+  {
+    "productId": 7570885017665,
+    "productType": "Footwear",
+    "title": "Adidas Campus ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/campus-adv-8",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-21-25-AdidasCampusGrey-1.jpg?v=1748005999"
+  },
+  {
+    "productId": 7570884493377,
+    "productType": "Footwear",
+    "title": "Adidas Nora",
+    "originalPrice": "$80.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/nora-12",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-21-25-AdidasNoraBlackBlue-1.jpg?v=1748005953"
+  },
+  {
+    "productId": 7570871025729,
+    "productType": "Outerwear",
+    "title": "Adidas Wind Jacket x Always",
+    "originalPrice": "$130.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/wind-jacket-x-always",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-16-25-AdidasAlwaysJacketPullover-Black-1.jpg?v=1748005408"
+  },
+  {
+    "productId": 7564267421761,
+    "productType": "Shirts",
+    "title": "Filson Women's Camp Shirt",
+    "originalPrice": "$125.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/womens-camp-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-8-25-FilsonFloralButtonBlue-1.jpg?v=1747061669"
+  },
+  {
+    "productId": 7561303982145,
+    "productType": "Footwear",
+    "title": "Adidas Pro Model x Always",
+    "originalPrice": "$120.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/pro-model-x-always",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-2-25-AdidasAlwaysProMidBlack-1.jpg?v=1746472177"
+  },
+  {
+    "productId": 7559892271169,
+    "productType": "Shirts",
+    "title": "Carhartt WIP Women's Temple Knit Shirt",
+    "originalPrice": "$168.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/womens-temple-knit-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carharttWIPwomenstempleknitshirtdollargreen.jpg?v=1745944607"
+  },
+  {
+    "productId": 7559380762689,
+    "productType": "Shirts",
+    "title": "Dime Women's Sport Top",
+    "originalPrice": "$58.00",
+    "salePrice": "$38.00",
+    "link": "https://thepremierstore.com/products/womens-sport-top-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-25-25-DimeSportTopTan-1.jpg?v=1746030688"
+  },
+  {
+    "productId": 7559360610369,
+    "productType": "Shorts",
+    "title": "Dime Pleated Denim Shorts",
+    "originalPrice": "$110.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/pleated-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-25-25-DimeShorts-Pleated-Grey-1.jpg?v=1746029656"
+  },
+  {
+    "productId": 7559360086081,
+    "productType": "Shorts",
+    "title": "Dime Pleated Denim Shorts",
+    "originalPrice": "$110.00",
+    "salePrice": "$55.00",
+    "link": "https://thepremierstore.com/products/pleated-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-25-25-DimeShorts-Pleated-Blue-1.jpg?v=1746029511"
+  },
+  {
+    "productId": 7555853680705,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/busenitz-45",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-18-25-AdidasBusenitzWhite-1.jpg?v=1744999295"
+  },
+  {
+    "productId": 7553732640833,
+    "productType": "Footwear",
+    "title": "Merrell Moab Speed 2 GTX",
+    "originalPrice": "$180.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/moab-speed-2-gtx",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-11-25-MerrellGoreTexGrey-1MoabSpeed2GTX.jpg?v=1744660080"
+  },
+  {
+    "productId": 7552566591553,
+    "productType": "Footwear",
+    "title": "Merrell Moc Speed Streak Evo",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/moc-speed-streak-evo-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-11-25-MerrellSlipOnGreen-1MocSpeedStreakEVODrabSage.jpg?v=1744388151"
+  },
+  {
+    "productId": 7552565936193,
+    "productType": "Footwear",
+    "title": "Merrell Moc Speed Streak Evo",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/moc-speed-streak-evo",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-11-25-MerrellSlipOnBrownMulti-1MocSpeedStreakEVOFawnBlack.jpg?v=1744388068"
+  },
+  {
+    "productId": 7552565772353,
+    "productType": "Footwear",
+    "title": "Merrell Cham Redux",
+    "originalPrice": "$185.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/cham-redux-se-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-11-25-MerrellTan-1.jpg?v=1744387954"
+  },
+  {
+    "productId": 7552565379137,
+    "productType": "Footwear",
+    "title": "Merrell Cham Redux",
+    "originalPrice": "$185.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/cham-redux-se",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-11-25-MerrellBlack-1ChamRedux.jpg?v=1744387893"
+  },
+  {
+    "productId": 7548876619841,
+    "productType": "Pants",
+    "title": "Snow Peak Women's Waffle Dress",
+    "originalPrice": "$145.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/womens-waffle-dress-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-3-25-SnowpeakWaffleDressGrey-1.jpg?v=1743793973"
+  },
+  {
+    "productId": 7548875702337,
+    "productType": "Pants",
+    "title": "Snow Peak Women's Waffle Dress",
+    "originalPrice": "$145.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/womens-waffle-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-3-25-SnowpeakWaffleDressTan-1.jpg?v=1743793933"
+  },
+  {
+    "productId": 7548871016513,
+    "productType": "T Shirts",
+    "title": "Snow Peak Dry Waffle T-Shirt",
+    "originalPrice": "$70.00",
+    "salePrice": "$49.00",
+    "link": "https://thepremierstore.com/products/dry-waffle-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-3-25-SnowpeakWaffleThermalTan-1.jpg?v=1743793648"
+  },
+  {
+    "productId": 7547388002369,
+    "productType": "Shirts",
+    "title": "Nike SB Knit Jersey",
+    "originalPrice": "$60.00",
+    "salePrice": "$42.00",
+    "link": "https://thepremierstore.com/products/knit-jersey-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBknitjerseybluevoidgameroyalwhite.jpg?v=1743611382"
+  },
+  {
+    "productId": 7547383808065,
+    "productType": "Shirts",
+    "title": "Nike SB Knit Jersey",
+    "originalPrice": "$60.00",
+    "salePrice": "$42.00",
+    "link": "https://thepremierstore.com/products/knit-jersey",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBknitjerseywhitelightboneblack.jpg?v=1743612376"
+  },
+  {
+    "productId": 7547383578689,
+    "productType": "Shirts",
+    "title": "Nike SB Bowler Shirt",
+    "originalPrice": "$75.00",
+    "salePrice": "$49.00",
+    "link": "https://thepremierstore.com/products/bowler-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbbowlershirtwhiteblack.jpg?v=1743613414"
+  },
+  {
+    "productId": 7547369848897,
+    "productType": "T Shirts",
+    "title": "Nike SB Max90 Striped T-Shirt",
+    "originalPrice": "$50.00",
+    "salePrice": "$29.00",
+    "link": "https://thepremierstore.com/products/max90-striped-t-shirt-7",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBmax90stripedtshirtparachutebeige.jpg?v=1743611563"
+  },
+  {
+    "productId": 7547364245569,
+    "productType": "T Shirts",
+    "title": "Nike SB Max90 Dunk Dog T-Shirt",
+    "originalPrice": "$45.00",
+    "salePrice": "$25.00",
+    "link": "https://thepremierstore.com/products/max90-dunk-dog-t-shirt-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBmax90dunkdogtshirtblack.jpg?v=1743611634"
+  },
+  {
+    "productId": 7546656325697,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod",
+    "originalPrice": "$110.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/air-max-ishod-9",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBairmaxishoddenimturqublack.jpg?v=1743522146"
+  },
+  {
+    "productId": 7546634764353,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 600",
+    "originalPrice": "$95.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/600-11",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-31-25-NbNumeric600KnoxWhite-Blue-1.jpg?v=1743514980"
+  },
+  {
+    "productId": 7546628309057,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 440 High V2",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/440-high-v2-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-31-25-NewBalanceNumeric440HiBrown-1.jpg?v=1743514954"
+  },
+  {
+    "productId": 7546625687617,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 440 Low V2 - Standard & Wide",
+    "originalPrice": "$80.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/440-v2-standard-wide-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-31-25-NewBalanceNumeric440Tan-1IncenserichOak.jpg?v=1743514767"
+  },
+  {
+    "productId": 7544647680065,
+    "productType": "T Shirts",
+    "title": "by Parra Vase T-Shirt",
+    "originalPrice": "$65.00",
+    "salePrice": "$48.00",
+    "link": "https://thepremierstore.com/products/vase-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/parravasedeliverytshirtlightblue.jpg?v=1743092014"
+  },
+  {
+    "productId": 7542610100289,
+    "productType": "Footwear",
+    "title": "Adidas Pro Shell ADV",
+    "originalPrice": "$120.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/pro-shell-adv",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasproshelladvchalkwhite.jpg?v=1742914665"
+  },
+  {
+    "productId": 7542607642689,
+    "productType": "Footwear",
+    "title": "Adidas Puig Samba",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/puig-samba-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidaspuigsambafootwearwhitebetterscarletgum.jpg?v=1742921375"
+  },
+  {
+    "productId": 7542605054017,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/tyshawn-ii-7",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidastyshawnIIonixgreycollegiatenavy.jpg?v=1742914808"
+  },
+  {
+    "productId": 7542602465345,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/tyshawn-ii-6",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidastyshawnIImesacoreblackgum.jpg?v=1742914919"
+  },
+  {
+    "productId": 7542597746753,
+    "productType": "Footwear",
+    "title": "Adidas Samba ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/samba-adv-20",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidassambaADVcollegiatenavy.jpg?v=1742915519"
+  },
+  {
+    "productId": 7542596829249,
+    "productType": "Footwear",
+    "title": "Adidas Campus 90's ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/campus-90s-adv",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidascampus90sADVcoreblackgreytwogoldmetallic.jpg?v=1742915578"
+  },
+  {
+    "productId": 7542595649601,
+    "productType": "Footwear",
+    "title": "Adidas Gazelle ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/gazelle-adv-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasgazelleADVcrystalwhitegumgreen.jpg?v=1742915634"
+  },
+  {
+    "productId": 7542547480641,
+    "productType": "Footwear",
+    "title": "Adidas Aloha Super",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/aloha-super-15",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasalohasupermaroongum.jpg?v=1742915683"
+  },
+  {
+    "productId": 7542543974465,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz",
+    "originalPrice": "$85.00",
+    "salePrice": "$62.00",
+    "link": "https://thepremierstore.com/products/busenitz-44",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasbusenitzcollegiatenavyred.jpg?v=1742915766"
+  },
+  {
+    "productId": 7542542893121,
+    "productType": "Footwear",
+    "title": "Adidas Busenitz",
+    "originalPrice": "$85.00",
+    "salePrice": "$62.00",
+    "link": "https://thepremierstore.com/products/busenitz-43",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasbusenitzgreytwodarkbluechalkwhite.jpg?v=1742915813"
+  },
+  {
+    "productId": 7542497148993,
+    "productType": "Footwear",
+    "title": "Nike SB Force 58",
+    "originalPrice": "$80.00",
+    "salePrice": "$55.00",
+    "link": "https://thepremierstore.com/products/force-84",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBforce58lightorewoodbrownmediumashpsychicblue.jpg?v=1742923711"
+  },
+  {
+    "productId": 7542494363713,
+    "productType": "Footwear",
+    "title": "Nike SB Force 58",
+    "originalPrice": "$80.00",
+    "salePrice": "$55.00",
+    "link": "https://thepremierstore.com/products/force-83",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBforce58phantomcourtpurplesummitwhite.jpg?v=1742924101"
+  },
+  {
+    "productId": 7542476832833,
+    "productType": "Outerwear",
+    "title": "Filson Women's Field Cruiser",
+    "originalPrice": "$250.00",
+    "salePrice": "$149.00",
+    "link": "https://thepremierstore.com/products/womens-field-cruiser",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/filsonwomensfielcruiserarmygreen.jpg?v=1743002596"
+  },
+  {
+    "productId": 7540587036737,
+    "productType": "Shirts",
+    "title": "Stussy Wavy Striped Shirt",
+    "originalPrice": "$160.00",
+    "salePrice": "$108.00",
+    "link": "https://thepremierstore.com/products/wavy-striped-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-21-25-StussyWavyButtonWhiteBlue-1.jpg?v=1742578526"
+  },
+  {
+    "productId": 7540586807361,
+    "productType": "Shirts",
+    "title": "Stussy Wavy Striped Shirt",
+    "originalPrice": "$160.00",
+    "salePrice": "$108.00",
+    "link": "https://thepremierstore.com/products/wavy-striped-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-21-25-StussyWavyButtonWhite-1.jpg?v=1742578549"
+  },
+  {
+    "productId": 7539292241985,
+    "productType": "Footwear",
+    "title": "Nike SB Air Max Ishod",
+    "originalPrice": "$110.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/air-max-ishod-8",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbairmaxishodmetallicsilverblack.jkpg.jpg?v=1742307025"
+  },
+  {
+    "productId": 7534339227713,
+    "productType": "Shorts",
+    "title": "Gramicci Nylon G-Short x And Wander",
+    "originalPrice": "$140.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/nylon-g-short-x-and-wander-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-17-25-GramicciAndWanderShortGreyLight-1.jpg?v=1742410598"
+  },
+  {
+    "productId": 7534168506433,
+    "productType": "Outerwear",
+    "title": "Gramicci Big Tide Jacket",
+    "originalPrice": "$150.00",
+    "salePrice": "$95.00",
+    "link": "https://thepremierstore.com/products/big-tide-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-14-25-GramicciStripeJacketBlue-1.jpg?v=1742238985"
+  },
+  {
+    "productId": 7534135869505,
+    "productType": "Pants",
+    "title": "Gramicci Women's Nylon Dress",
+    "originalPrice": "$120.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/womens-nylon-dress",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-17-25-GramicciDressYellow-1.jpg?v=1742242942"
+  },
+  {
+    "productId": 7528897544257,
+    "productType": "Sweaters-Fleece",
+    "title": "Noah Summer Shaker Sweater",
+    "originalPrice": "$228.00",
+    "salePrice": "$149.00",
+    "link": "https://thepremierstore.com/products/summer-shaker-sweater-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/noahsummershakersweaterturquoise.jpg?v=1741874975"
+  },
+  {
+    "productId": 7528893972545,
+    "productType": "Sweaters-Fleece",
+    "title": "Noah Twisted Yarn Sweater Vest",
+    "originalPrice": "$198.00",
+    "salePrice": "$129.00",
+    "link": "https://thepremierstore.com/products/twisted-yarn-sweater-vest",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/noahtwistedyarnsweatervestnavygreen.jpg?v=1741874197"
+  },
+  {
+    "productId": 7528893775937,
+    "productType": "Sweaters-Fleece",
+    "title": "Noah Sweatshirt Vest",
+    "originalPrice": "$128.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/sweatshirt-vest",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/noahsweatshirtvestheathergrey.jpg?v=1741873954"
+  },
+  {
+    "productId": 7528887910465,
+    "productType": "Outerwear",
+    "title": "Metalwood Poly Filled Reversible Vest",
+    "originalPrice": "$178.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/poly-filled-reversible-vest",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/metalwoodpolyfilledreversiblevest.jpg?v=1741704944"
+  },
+  {
+    "productId": 7526803865665,
+    "productType": "Shirts",
+    "title": "Nanamica PALAKA Check Shirt",
+    "originalPrice": "$310.00",
+    "salePrice": "$149.00",
+    "link": "https://thepremierstore.com/products/palaka-check-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-10-25-NanamicaPlaidShirt-Blue-1PalakaCheckShirtCoralGreen.jpg?v=1741631737"
+  },
+  {
+    "productId": 7526800883777,
+    "productType": "Shirts",
+    "title": "Nanamica Regular Collar Wind Shirt",
+    "originalPrice": "$220.00",
+    "salePrice": "$154.00",
+    "link": "https://thepremierstore.com/products/regular-collar-wind-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-6-25-NanamicaSnapButtonSSBlue-1.jpg?v=1741631930"
+  },
+  {
+    "productId": 7526800326721,
+    "productType": "Shirts",
+    "title": "Nanamica Regular Collar Wind Shirt",
+    "originalPrice": "$220.00",
+    "salePrice": "$154.00",
+    "link": "https://thepremierstore.com/products/regular-collar-wind-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-6-25-NanamicaSnapButtonSSWhite-1.jpg?v=1741631999"
+  },
+  {
+    "productId": 7526790824001,
+    "productType": "Pants",
+    "title": "Nanamica Tuck Club Pants",
+    "originalPrice": "$280.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/tack-club-pants",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-10-25-NanamicaSoftPantBlue-1TuckClubPantsNavy.jpg?v=1741632083"
+  },
+  {
+    "productId": 7526785581121,
+    "productType": "Shorts",
+    "title": "Nanamica Cargo Shorts",
+    "originalPrice": "$270.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/cargo-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-10-25-NanamicaCargoShort-Black-1.jpg?v=1741632191"
+  },
+  {
+    "productId": 7526783647809,
+    "productType": "Shorts",
+    "title": "Nanamica Cargo Shorts",
+    "originalPrice": "$270.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/cargo-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-10-25-NanamicaCargoShort-Khaki-1.jpg?v=1741632255"
+  },
+  {
+    "productId": 7526071402561,
+    "productType": "Pants",
+    "title": "Nike SB Twill Double Knee Pants",
+    "originalPrice": "$80.00",
+    "salePrice": "$49.00",
+    "link": "https://thepremierstore.com/products/twill-double-knee-pants-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbtwilldoublekneepantcavestone.jpg?v=1741375017"
+  },
+  {
+    "productId": 7526071337025,
+    "productType": "Pants",
+    "title": "Nike SB Twill Double Knee Pants",
+    "originalPrice": "$80.00",
+    "salePrice": "$49.00",
+    "link": "https://thepremierstore.com/products/twill-double-knee-pants",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbtwilldoublekneepantblack.jpg?v=1741375280"
+  },
+  {
+    "productId": 7524841619521,
+    "productType": "Outerwear",
+    "title": "Snow Peak Gore-Tex Rain Jacket",
+    "originalPrice": "$550.00",
+    "salePrice": "$399.00",
+    "link": "https://thepremierstore.com/products/gore-tex-rain-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowpeakGoreTexJacketBlack-1.jpg?v=1741300935"
+  },
+  {
+    "productId": 7524839030849,
+    "productType": "Outerwear",
+    "title": "Snow Peak Hybrid Wool Utility Jacket",
+    "originalPrice": "$330.00",
+    "salePrice": "$199.00",
+    "link": "https://thepremierstore.com/products/hybrid-wool-utility-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowPeakHybridWoolUtilityJacketGrey-1.jpg?v=1741300862"
+  },
+  {
+    "productId": 7524837523521,
+    "productType": "Outerwear",
+    "title": "Snow Peak Nylon Tussah Jacket",
+    "originalPrice": "$200.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/nylon-tussah-jacket-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowpeakCargoPocketJacketGreen-1NylonTussah.jpg?v=1741300760"
+  },
+  {
+    "productId": 7524836737089,
+    "productType": "Outerwear",
+    "title": "Snow Peak Nylon Tussah Jacket",
+    "originalPrice": "$200.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/nylon-tussah-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowpeakCargoPocketJacketGrey-1NylonTussah.jpg?v=1741300643"
+  },
+  {
+    "productId": 7524825825345,
+    "productType": "Shorts",
+    "title": "Snow Peak Nylon Tussah 2Way Shorts",
+    "originalPrice": "$120.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/nylon-tussah-2way-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowpeakNylonShortsGrey-1.jpg?v=1741300259"
+  },
+  {
+    "productId": 7524825301057,
+    "productType": "Shorts",
+    "title": "Snow Peak Nylon Tussah 2Way Shorts",
+    "originalPrice": "$120.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/nylon-tussah-2way-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-6-25-SnowpeakNylonShortsBlack-1.jpg?v=1741300169"
+  },
+  {
+    "productId": 7524818911297,
+    "productType": "Outerwear",
+    "title": "New Balance Numeric Coaches Twill Jacket",
+    "originalPrice": "$160.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/coaches-twill-jacke",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericcoachestwilljacketnewspruce.jpg?v=1741183120"
+  },
+  {
+    "productId": 7524816650305,
+    "productType": "Outerwear",
+    "title": "New Balance Numeric Woven Full Zip Jacket",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/woven-full-zip-jacket-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericwovenfullzipjacketaridstone.jpg?v=1741183594"
+  },
+  {
+    "productId": 7524786569281,
+    "productType": "Pants",
+    "title": "New Balance Numeric Standard Pant - 30\" Inseam",
+    "originalPrice": "$90.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/standard-pant-30-inseam-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericstandardpantblack_6861e9e7-7903-4632-a776-704a6c19cf00.jpg?v=1741117902"
+  },
+  {
+    "productId": 7523259940929,
+    "productType": "Shorts",
+    "title": "Polar 44! Shorts",
+    "originalPrice": "$120.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/44-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-28-25-Polar44ShortGreen-1.jpg?v=1740776091"
+  },
+  {
+    "productId": 7523256500289,
+    "productType": "Shorts",
+    "title": "Polar Big Boy Shorts",
+    "originalPrice": "$125.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/big-boy-shorts-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-8-24-PolarBigBoyShortBlue-1_8b922419-054b-4371-b470-fea8242a85fb.jpg?v=1711065245"
+  },
+  {
+    "productId": 7521364607041,
+    "productType": "Shorts",
+    "title": "Dime Classic Denim Shorts",
+    "originalPrice": "$110.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/classic-denim-shorts-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeBaggyDenimShortBlack-1.jpg?v=1740595435"
+  },
+  {
+    "productId": 7521364410433,
+    "productType": "Shorts",
+    "title": "Dime Classic Denim Shorts",
+    "originalPrice": "$110.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/classic-denim-shorts-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeBaggyDenimShortClay-1.jpg?v=1740598090"
+  },
+  {
+    "productId": 7521361657921,
+    "productType": "Shorts",
+    "title": "Dime Carpenter Denim Shorts",
+    "originalPrice": "$115.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/carpenter-denim-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeDoubleKneeShortBlack-1CarpenterDenimShorts-Faded.jpg?v=1740596206"
+  },
+  {
+    "productId": 7521354383425,
+    "productType": "Shorts",
+    "title": "Dime Cyclone French Terry Shorts",
+    "originalPrice": "$110.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/cyclone-french-terry-shorts",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-26-DimeSweatshortsGreen-1CycloneFrenchTerryShortsEvergreenSnowWashed.jpg?v=1740594104"
+  },
+  {
+    "productId": 7521353072705,
+    "productType": "Jeans",
+    "title": "Dime Classic Baggy Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$104.00",
+    "link": "https://thepremierstore.com/products/classic-baggy-denim-pants-sp25-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeGradientBaggyJeanBrown-1DippedSandblasted.jpg?v=1740600947"
+  },
+  {
+    "productId": 7521352253505,
+    "productType": "Jeans",
+    "title": "Dime Classic Baggy Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$104.00",
+    "link": "https://thepremierstore.com/products/classic-baggy-denim-pants-sp25",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeGradientBaggyJean-1DippedSandblastedBlue.jpg?v=1740602420"
+  },
+  {
+    "productId": 7521352024129,
+    "productType": "Jeans",
+    "title": "Dime Classic Relaxed Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/classic-relaxed-denim-pants-sp25",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeRelaxedJeanBlue-1.jpg?v=1740602517"
+  },
+  {
+    "productId": 7521351204929,
+    "productType": "Jeans",
+    "title": "Dime Classic Relaxed Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$104.00",
+    "link": "https://thepremierstore.com/products/classic-relaxed-denim-pants-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeRelaxedJeanDippedGrey-1.jpg?v=1740601921"
+  },
+  {
+    "productId": 7521351106625,
+    "productType": "Jeans",
+    "title": "Dime Classic Relaxed Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$104.00",
+    "link": "https://thepremierstore.com/products/classic-relaxed-denim-pants-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimeGradientBaggyJean-1DippedSandblastedBurgundy.jpg?v=1740603518"
+  },
+  {
+    "productId": 7521337409601,
+    "productType": "Pants",
+    "title": "Dime Pleated Twill Pants",
+    "originalPrice": "$140.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/pleated-twill-pants-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimePleatedPant-1TwillPantsCharcoalBlue.jpg?v=1740599260"
+  },
+  {
+    "productId": 7521337180225,
+    "productType": "Pants",
+    "title": "Dime Pleated Twill Pants",
+    "originalPrice": "$140.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/pleated-twill-pants-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-25-DimePleatedPantKhaki-1TwillPantsCamel.jpg?v=1740598635"
+  },
+  {
+    "productId": 7521327611969,
+    "productType": "Sweaters-Fleece",
+    "title": "Dime Wave Rugby",
+    "originalPrice": "$130.00",
+    "salePrice": "$98.00",
+    "link": "https://thepremierstore.com/products/wave-rugby",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-27-25-DimeWavyPoloLS-Blue-1Rugby.jpg?v=1740667004"
+  },
+  {
+    "productId": 7521325449281,
+    "productType": "T Shirts",
+    "title": "Dime Baby Fresh T-Shirt",
+    "originalPrice": "$45.00",
+    "salePrice": "$32.00",
+    "link": "https://thepremierstore.com/products/baby-fresh-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-26-DimeLogoTeeBrown-1.jpg?v=1740593468"
+  },
+  {
+    "productId": 7521321844801,
+    "productType": "Hats",
+    "title": "Dime Supermesh Low Pro Cap",
+    "originalPrice": "$42.00",
+    "salePrice": "$29.00",
+    "link": "https://thepremierstore.com/products/supermesh-low-pro-cap",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-27-25-DimeMeshCapBlue-1.jpg?v=1740673016"
+  },
+  {
+    "productId": 7521319059521,
+    "productType": "Beanies",
+    "title": "Dime Chopper Fold Beanie",
+    "originalPrice": "$42.00",
+    "salePrice": "$29.00",
+    "link": "https://thepremierstore.com/products/chopper-fold-beanie-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-27-25-DimeCuffBeanie-Purple-1.jpg?v=1740669075"
+  },
+  {
+    "productId": 7521007697985,
+    "productType": "T Shirts",
+    "title": "Carhartt WIP Women's Nelson A-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$32.00",
+    "link": "https://thepremierstore.com/products/womens-nelson-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-25-25-CarharttWIPTankTopBlack-1Women_sNelsonAShirtGraphite.jpg?v=1740503079"
+  },
+  {
+    "productId": 7521005011009,
+    "productType": "T Shirts",
+    "title": "Carhartt WIP Women's Chester T-Shirt",
+    "originalPrice": "$45.00",
+    "salePrice": "$32.00",
+    "link": "https://thepremierstore.com/products/womens-chester-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-25-25-CarharttWIPWomensChaseTeeGreen-1ChesterT-ShirtPark.jpg?v=1740503121"
+  },
+  {
+    "productId": 7520987709505,
+    "productType": "Outerwear",
+    "title": "Carhartt WIP OG Double Front Jacket - (Maitland Denim)",
+    "originalPrice": "$288.00",
+    "salePrice": "$199.00",
+    "link": "https://thepremierstore.com/products/og-double-front-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carharttWIPOGdoublefrontjacketmaitlinddenimbluestonewash.jpg?v=1740670606"
+  },
+  {
+    "productId": 7519605915713,
+    "productType": "Shirts",
+    "title": "Carhartt WIP Madison L/S Shirt",
+    "originalPrice": "$105.00",
+    "salePrice": "$76.00",
+    "link": "https://thepremierstore.com/products/madison-l-s-shirt-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carharttWIPmadisonLSshirtyosemitewhite.jpg?v=1740668323"
+  },
+  {
+    "productId": 7518184177729,
+    "productType": "Footwear",
+    "title": "Nike SB Zoom Janoski OG+",
+    "originalPrice": "$95.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/zoom-janoski-og-14",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-20-25-NikeSBJanoskiOGUniversityBlue-1.jpg?v=1740081133"
+  },
+  {
+    "productId": 7517855187009,
+    "productType": "Footwear",
+    "title": "Norda 003",
+    "originalPrice": "$295.00",
+    "salePrice": "$235.00",
+    "link": "https://thepremierstore.com/products/003-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/norda003ash.jpg?v=1739910827"
+  },
+  {
+    "productId": 7517823598657,
+    "productType": "Footwear",
+    "title": "Clarks Originals Godney Lace - Leather",
+    "originalPrice": "$150.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/godney-lace-leather",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-18-25-ClarksWallabeeLowBrown-1GodneyLaceLeather.jpg?v=1739902633"
+  },
+  {
+    "productId": 7517821763649,
+    "productType": "Footwear",
+    "title": "Clarks Originals Godney Mocc - Leather",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/godney-mocc-leather",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-18-25-ClarksBoatShoeChesnut-1GodneyMocc-BritishTan-Leather.jpg?v=1739901206"
+  },
+  {
+    "productId": 7516571271233,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 480",
+    "originalPrice": "$100.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/480-13",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumeric480workwearblack.jpg?v=1739895287"
+  },
+  {
+    "productId": 7516570648641,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 480",
+    "originalPrice": "$100.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/480-12",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumeric480blackgrey.jpg?v=1739895223"
+  },
+  {
+    "productId": 7516568944705,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 600",
+    "originalPrice": "$95.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/600-10",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericknox600incenseblack.jpg?v=1739895161"
+  },
+  {
+    "productId": 7516568420417,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 600",
+    "originalPrice": "$95.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/600-9",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericknox600whiteblack.jpg?v=1739895093"
+  },
+  {
+    "productId": 7516566814785,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 306",
+    "originalPrice": "$90.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/306-48",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericfoy306whiteblack.jpg?v=1739895055"
+  },
+  {
+    "productId": 7515927707713,
+    "productType": "Shorts",
+    "title": "Grand Cotton Short",
+    "originalPrice": "$110.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/cotton-short-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/grandshortblack.jpg?v=1739821234"
+  },
+  {
+    "productId": 7515817967681,
+    "productType": "Shorts",
+    "title": "Butter Goods Work Short",
+    "originalPrice": "$85.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/work-short-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-14-25-ButtergoodsWorkgearShortBrown-1.jpg?v=1739564425"
+  },
+  {
+    "productId": 7513493471297,
+    "productType": "Footwear",
+    "title": "Nike Women's Field General",
+    "originalPrice": "$110.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/womens-field-general",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikewomensfieldgeneralstadiumgreenlightening.jpg?v=1739391651"
+  },
+  {
+    "productId": 7513022300225,
+    "productType": "T Shirts",
+    "title": "Noah Football Top",
+    "originalPrice": "$78.00",
+    "salePrice": "$49.00",
+    "link": "https://thepremierstore.com/products/football-top",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-21-25-NoahFootballTopBrown-1.jpg?v=1740177502"
+  },
+  {
+    "productId": 7513018728513,
+    "productType": "T Shirts",
+    "title": "Noah Core Logo Pocket T-Shirt",
+    "originalPrice": "$58.00",
+    "salePrice": "$38.00",
+    "link": "https://thepremierstore.com/products/core-logo-pocket-t-shirt-14",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-21-25-NoahLogoPocketTeeWhite-1G.jpg?v=1740177474"
+  },
+  {
+    "productId": 7512921669697,
+    "productType": "Socks",
+    "title": "Rototo Old School Ribbed Ankle Sock",
+    "originalPrice": "$38.00",
+    "salePrice": "$28.00",
+    "link": "https://thepremierstore.com/products/old-school-ribbed-ankle-sock-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/rototooldschoolribbedanklesockswhitenavy.jpg?v=1739293218"
+  },
+  {
+    "productId": 7512919310401,
+    "productType": "Socks",
+    "title": "Rototo Old School Ribbed Ankle Sock",
+    "originalPrice": "$38.00",
+    "salePrice": "$28.00",
+    "link": "https://thepremierstore.com/products/old-school-ribbed-ankle-sock",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/rototooldschoolribbedanklesockswhiteblackgrayge.jpg?v=1739293432"
+  },
+  {
+    "productId": 7510905290817,
+    "productType": "Beanies",
+    "title": "Vans Vans x AA Beanie",
+    "originalPrice": "$30.00",
+    "salePrice": "$22.00",
+    "link": "https://thepremierstore.com/products/vans-x-aa-beanie-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/vansandrewallenbeanie.jpg?v=1738862051"
+  },
+  {
+    "productId": 7510394077249,
+    "productType": "Footwear",
+    "title": "Salomon XT-Whisper",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/xt-whisper",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-31-25-SalomonXTWhisperPurple-1.jpg?v=1738599639"
+  },
+  {
     "productId": 7506858475585,
     "productType": "Footwear",
     "title": "Nike SB FC Classic",
     "originalPrice": "$70.00",
-    "salePrice": "$49.00",
+    "salePrice": "$39.00",
     "link": "https://thepremierstore.com/products/fc-classic-8",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-29-25-NikeSBFCClassicTan-1.jpg?v=1738187900"
+  },
+  {
+    "productId": 7506001854529,
+    "productType": "Sweaters-Fleece",
+    "title": "Stingwater Tribal Zip-Up Hoodie",
+    "originalPrice": "$250.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/tribal-zip-up-hoodie-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-29-25-StingwaterTribalJacketLightBlue-1.jpg?v=1738173085"
+  },
+  {
+    "productId": 7506000511041,
+    "productType": "Jeans",
+    "title": "Stingwater Big Groe Jeans",
+    "originalPrice": "$210.00",
+    "salePrice": "$129.00",
+    "link": "https://thepremierstore.com/products/big-groe-jeans-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-29-25-StingwaterTribalJeanBlack-1BigGroeJeansAcidBlack.jpg?v=1738172837"
+  },
+  {
+    "productId": 7505373003841,
+    "productType": "Footwear",
+    "title": "Nike Air Zoom Spiridon SP",
+    "originalPrice": "$160.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/air-zoom-spiridon-sp-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-7-25-NikeSpiridonBlack--1.jpg?v=1737760628"
+  },
+  {
+    "productId": 7505371824193,
+    "productType": "Footwear",
+    "title": "Salomon X-ALP Suede",
+    "originalPrice": "$190.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/x-alp-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-24-25-SalomonSuede-Pink-1X-Alp-Suede-EthereaRussetHyma.jpg?v=1737998695"
+  },
+  {
+    "productId": 7499219632193,
+    "productType": "Footwear",
+    "title": "Adidas Campus ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/campus-adv-6",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-20-25-AdidasCampusADVBlue-1.jpg?v=1737393805"
+  },
+  {
+    "productId": 7499218944065,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/tyshawn-ii-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-20-25-AdidasTyshawnGrey-1.jpg?v=1737399685"
+  },
+  {
+    "productId": 7499212750913,
+    "productType": "Footwear",
+    "title": "Adidas Nora",
+    "originalPrice": "$80.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/nora-11",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-20-25-AdidasNora-White-Blue-1.jpg?v=1737399741"
+  },
+  {
+    "productId": 7499164188737,
+    "productType": "Outerwear",
+    "title": "Nike SB Full Zip Woven Jacket",
+    "originalPrice": "$110.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/full-zip-woven-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-22-25-NikeSBJacketGreen-1.jpg?v=1737582951"
+  },
+  {
+    "productId": 7499161174081,
+    "productType": "Shorts",
+    "title": "Nike SB Kearny Cargo Short",
+    "originalPrice": "$75.00",
+    "salePrice": "$38.00",
+    "link": "https://thepremierstore.com/products/kearny-cargo-short-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-22-25-NikeSBCargoShortWhite-1G.jpg?v=1738097579"
+  },
+  {
+    "productId": 7499160846401,
+    "productType": "Shorts",
+    "title": "Nike SB Kearny Cargo Short",
+    "originalPrice": "$75.00",
+    "salePrice": "$38.00",
+    "link": "https://thepremierstore.com/products/kearny-cargo-short",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-22-25-NikeSBCargoShortBlack-1.jpg?v=1737566841"
+  },
+  {
+    "productId": 7496237645889,
+    "productType": "Footwear",
+    "title": "Nike SB PS8",
+    "originalPrice": "$120.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/ps8-3",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBPS8blackwhite.jpg?v=1737050562"
+  },
+  {
+    "productId": 7495793442881,
+    "productType": "Footwear",
+    "title": "Adidas Gazelle ADV",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/gazelle-adv-7",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-24-24-AdidasGazelleGreen-1.jpg?v=1735055731"
+  },
+  {
+    "productId": 7495737737281,
+    "productType": "Footwear",
+    "title": "Adidas Tyshawn II",
+    "originalPrice": "$100.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/tyshawn-ii-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidastyshawnIIcoreblacksummitwhite.jpg?v=1736884549"
   },
   {
     "productId": 7495737573441,
@@ -18,58 +1197,49 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidaspuigcoreblacksemisolargreen.jpg?v=1736882443"
   },
   {
-    "productId": 7494268846145,
-    "productType": "Outerwear",
-    "title": "Nike SB Essentials Anorak Jacket",
+    "productId": 7495730135105,
+    "productType": "Footwear",
+    "title": "Asics Skyhand OG",
     "originalPrice": "$100.00",
     "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/essentials-anorak-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-9-25-NikeSBAnorakBlack-1Essentials.jpg?v=1736439224"
+    "link": "https://thepremierstore.com/products/skyhand-og-6",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsOGskyhandwaterfalllemonspark.jpg?v=1736797623"
   },
   {
-    "productId": 7494268485697,
-    "productType": "Outerwear",
-    "title": "Nike SB Full Zip Woven Jacket",
-    "originalPrice": "$110.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/full-zip-woven-jacket-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-014-25-NikeSBWindbreakerJacketBlue-1.jpg?v=1736888313"
+    "productId": 7494941278273,
+    "productType": "Footwear",
+    "title": "Salomon XT-6",
+    "originalPrice": "$180.00",
+    "salePrice": "$139.00",
+    "link": "https://thepremierstore.com/products/xt-8",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-10-25-SalomonXT6-White-Creme-1.jpg?v=1736792584"
   },
   {
-    "productId": 7494264193089,
+    "productId": 7494268518465,
+    "productType": "Pants",
+    "title": "Nike SB Kearny Cargo Pant",
+    "originalPrice": "$90.00",
+    "salePrice": "$59.00",
+    "link": "https://thepremierstore.com/products/kearny-cargo-pant-12",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-13-25-NikeSBCargoPantKearny-Khaki-1.jpg?v=1736792261"
+  },
+  {
+    "productId": 7494264127553,
     "productType": "Footwear",
     "title": "Nike SB Malor",
     "originalPrice": "$75.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/malor",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBMalorBrown-1.jpg?v=1736436713"
+    "salePrice": "$45.00",
+    "link": "https://thepremierstore.com/products/malor-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbmalorblackwhite.jpg?v=1721417442"
   },
   {
-    "productId": 7494259900481,
+    "productId": 7494262194241,
     "productType": "Footwear",
-    "title": "Nike SB Air Max Ishod",
-    "originalPrice": "$110.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/air-max-ishod-7",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBAirMaxIshodBlack-Purple-1.jpg?v=1736436655"
-  },
-  {
-    "productId": 7494258917441,
-    "productType": "Footwear",
-    "title": "Nike SB Force 58",
-    "originalPrice": "$80.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/force-82",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBForce58GreenBlack-1_cb96ad74-de18-4e5e-9c38-706daac77a37.jpg?v=1736436503"
-  },
-  {
-    "productId": 7494249381953,
-    "productType": "Footwear",
-    "title": "Nike SB Force 58",
-    "originalPrice": "$80.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/force-81",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbfor58blackcosmicclay.jpg?v=1736540252"
+    "title": "Nike SB Janoski+ Slip",
+    "originalPrice": "$85.00",
+    "salePrice": "$55.00",
+    "link": "https://thepremierstore.com/products/janoski-slip-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBJanoskiSlipGrey-1.jpg?v=1736436581"
   },
   {
     "productId": 7493252710465,
@@ -85,25 +1255,16 @@
     "productType": "Footwear",
     "title": "Nike SB Zoom Janoski OG+",
     "originalPrice": "$95.00",
-    "salePrice": "$65.00",
+    "salePrice": "$52.00",
     "link": "https://thepremierstore.com/products/zoom-janoski-og-13",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBJanoskiOGSand-1Sanddrift.jpg?v=1736368278"
-  },
-  {
-    "productId": 7493249957953,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Blazer Mid",
-    "originalPrice": "$90.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/zoom-blazer-mid-45",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBBlazerMidPurple-1.jpg?v=1736367227"
   },
   {
     "productId": 7493249630273,
     "productType": "Footwear",
     "title": "Nike SB React Leo",
     "originalPrice": "$95.00",
-    "salePrice": "$69.00",
+    "salePrice": "$49.00",
     "link": "https://thepremierstore.com/products/react-leo-7",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBReactLeoBlueBlack-1.jpg?v=1736368298"
   },
@@ -112,27 +1273,81 @@
     "productType": "Footwear",
     "title": "Nike SB Zoom Janoski OG+",
     "originalPrice": "$95.00",
-    "salePrice": "$69.00",
+    "salePrice": "$49.00",
     "link": "https://thepremierstore.com/products/zoom-janoski-og-12",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-8-25-NikeSBJanoskiBlackRed-1_a8ee06c2-7cb5-468f-b457-722c62fb6abc.jpg?v=1736352414"
+  },
+  {
+    "productId": 7490132672577,
+    "productType": "Footwear",
+    "title": "Keen Uneek",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/uneek-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-26-24-KeenRopeSandalBrown-1UneekTimberwolfPlazaTaupe.jpg?v=1735848126"
+  },
+  {
+    "productId": 7490130673729,
+    "productType": "Footwear",
+    "title": "Keen Uneek",
+    "originalPrice": "$140.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/uneek",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-26-24-KeenRopeSandalBlack-1Uneek.jpg?v=1735848202"
+  },
+  {
+    "productId": 7490129723457,
+    "productType": "Footwear",
+    "title": "Keen Shanti Clog",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/shanti-clog-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-26-24-Keen-Sandal-Brown-1Shanti-ClogCanteenPlazaTaupe.jpg?v=1735847989"
+  },
+  {
+    "productId": 7490128019521,
+    "productType": "Footwear",
+    "title": "Keen Shanti Clog",
+    "originalPrice": "$85.00",
+    "salePrice": "$65.00",
+    "link": "https://thepremierstore.com/products/shanti-clog",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-26-24-Keen-Sandal-Black-1Shanti-ClogDawnBlue.jpg?v=1735847933"
+  },
+  {
+    "productId": 7490122514497,
+    "productType": "Outerwear",
+    "title": "The North Face Packable LT Rain Parka",
+    "originalPrice": "$330.00",
+    "salePrice": "$199.00",
+    "link": "https://thepremierstore.com/products/packable-lt-rain-parka",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-7-25-NorthFaceParkaWindbreakerBlack-1PackableLTRainParka.jpg?v=1736278611"
+  },
+  {
+    "productId": 7490121695297,
+    "productType": "Outerwear",
+    "title": "The North Face North Dome Wind Jacket",
+    "originalPrice": "$160.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/north-dome-wind-jacket-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-7-25-NorthFaceNorthDomeWindJacketGreen-1.jpg?v=1736278415"
+  },
+  {
+    "productId": 7490119761985,
+    "productType": "Outerwear",
+    "title": "The North Face North Dome Wind Jacket",
+    "originalPrice": "$160.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/north-dome-wind-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-7-25-NorthFaceNorthDomeWindJacketTan-1.jpg?v=1736278515"
   },
   {
     "productId": 7488201392193,
     "productType": "Outerwear",
     "title": "Nike SB Corduroy Zip-Up Jacket",
     "originalPrice": "$170.00",
-    "salePrice": "$119.00",
+    "salePrice": "$89.00",
     "link": "https://thepremierstore.com/products/corduroy-zip-up-jacket",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-30-24-NikeSBCordJacket-Brown-1G.jpg?v=1735580800"
-  },
-  {
-    "productId": 7486306320449,
-    "productType": "Footwear",
-    "title": "Adidas Puig",
-    "originalPrice": "$90.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/puig-14",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-24-24-AdidasPuigGreyBlue-1.jpg?v=1735055910"
   },
   {
     "productId": 7486305861697,
@@ -153,76 +1368,148 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-24-24-AdidasSambaSage-1SilverGreen.jpg?v=1735055623"
   },
   {
-    "productId": 7482639384641,
-    "productType": "Sweaters-Fleece",
-    "title": "Museum Of Peace & Quiet Spiritual Experience Crewneck",
-    "originalPrice": "$140.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/spiritual-experience-crewneck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQExperienceCrewNatural-1.jpg?v=1734542659"
-  },
-  {
     "productId": 7482635976769,
     "productType": "Sweaters-Fleece",
     "title": "Museum Of Peace & Quiet Signature Rib Knit Sweater",
     "originalPrice": "$180.00",
-    "salePrice": "$119.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/signature-rib-knit-sweater",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQKnitSweaterTan-1.jpg?v=1734542614"
-  },
-  {
-    "productId": 7482632536129,
-    "productType": "Sweaters-Fleece",
-    "title": "Museum Of Peace & Quiet Signature Rib Knit Sweater",
-    "originalPrice": "$180.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/signature-knit-sweater",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQKnitSweaterGreen-1.jpg?v=1734542576"
   },
   {
     "productId": 7482628276289,
     "productType": "Sweaters-Fleece",
     "title": "Museum Of Peace & Quiet Naturalist Hoodie",
     "originalPrice": "$150.00",
-    "salePrice": "$99.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/naturalist-hoodie",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQNaturalistHoodTan-1.jpg?v=1734542545"
-  },
-  {
-    "productId": 7482531807297,
-    "productType": "Sweaters-Fleece",
-    "title": "Museum Of Peace & Quiet Wordmark Pigment Dyed Hoodie",
-    "originalPrice": "$150.00",
-    "salePrice": "$118.00",
-    "link": "https://thepremierstore.com/products/wordmark-pigment-dyed-hoodie-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQLogoHoodGreen-1.jpg?v=1734542522"
   },
   {
     "productId": 7482502447169,
     "productType": "Sweaters-Fleece",
     "title": "Museum Of Peace & Quiet Wordmark Pigment Dyed Hoodie",
     "originalPrice": "$150.00",
-    "salePrice": "$118.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/wordmark-pigment-dyed-hoodie",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQLogoHoodTan-1.jpg?v=1734542492"
   },
   {
-    "productId": 7482454638657,
-    "productType": "Hats",
-    "title": "Nike SB Logo Hat",
-    "originalPrice": "$30.00",
-    "salePrice": "$18.00",
-    "link": "https://thepremierstore.com/products/logo-hat-4",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-20-24-NikeSBClubCapNavy-1.jpg?v=1734730315"
+    "productId": 7482496843841,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Infinite T-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$32.00",
+    "link": "https://thepremierstore.com/products/infinite-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQSwirlLogoTeeTan-1.jpg?v=1734542418"
   },
   {
-    "productId": 7476065239105,
+    "productId": 7482493993025,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark T-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$32.00",
+    "link": "https://thepremierstore.com/products/wordmark-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQBackLogoTeeGreen-1.jpg?v=1734542340"
+  },
+  {
+    "productId": 7482491863105,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark Pigment Dyed T-Shirt",
+    "originalPrice": "$55.00",
+    "salePrice": "$35.00",
+    "link": "https://thepremierstore.com/products/wordmark-pigment-dyed-t-shirt-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQEmbroideryTeeCaramel-1.jpg?v=1734542121"
+  },
+  {
+    "productId": 7482491371585,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark Pigment Dyed T-Shirt",
+    "originalPrice": "$55.00",
+    "salePrice": "$35.00",
+    "link": "https://thepremierstore.com/products/wordmark-pigment-dyed-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQEmbroideryTeeTan-1.jpg?v=1734542096"
+  },
+  {
+    "productId": 7482490191937,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark Pigment Dyed T-Shirt",
+    "originalPrice": "$55.00",
+    "salePrice": "$35.00",
+    "link": "https://thepremierstore.com/products/wordmark-pigment-dyed-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-18-24-MOPQEmbroideryTeeGreen-1.jpg?v=1734542034"
+  },
+  {
+    "productId": 7482242629697,
     "productType": "Footwear",
-    "title": "Adidas Gazelle ADV x Dime",
+    "title": "Nike Air Zoom Spiridon SP",
+    "originalPrice": "$160.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/air-zoom-spiridon-sp",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-16-24-NikeSpiridon-1B.jpg?v=1734383492"
+  },
+  {
+    "productId": 7481149489217,
+    "productType": "Outerwear",
+    "title": "Carhartt WIP Detroit Jacket - PU Leather",
+    "originalPrice": "$388.00",
+    "salePrice": "$269.00",
+    "link": "https://thepremierstore.com/products/detroit-jacket-pu-leather",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-12-24-CarharttWIPLeatherJacketBlack-1.jpg?v=1734381924"
+  },
+  {
+    "productId": 7481092440129,
+    "productType": "Outerwear",
+    "title": "Carhartt WIP OG Active Jacket - Unlined Dearborn Canvas",
+    "originalPrice": "$288.00",
+    "salePrice": "$198.00",
+    "link": "https://thepremierstore.com/products/og-active-jacket-jacket-unlined-dearborn-canvas",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-12-24-CarharttWIPActiveHoodedJacketHamiltonBrown-1.jpg?v=1734381788"
+  },
+  {
+    "productId": 7479097196609,
+    "productType": "Footwear",
+    "title": "Asics Skateboarding Japan Pro",
+    "originalPrice": "$105.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/japan-pro-8",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-10-24-AsicsJapanProBlackGold-1.jpg?v=1733860519"
+  },
+  {
+    "productId": 7474846924865,
+    "productType": "Footwear",
+    "title": "New Balance Numeric 480 x 8FIVE2",
     "originalPrice": "$110.00",
     "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/gazelle-adv-x-dime",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-24-25-DimeAdidasGazelleBlack-1.jpg?v=1740428601"
+    "link": "https://thepremierstore.com/products/480-x-8five2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-5-24-NewBalance4808five2Green-1.jpg?v=1733422603"
+  },
+  {
+    "productId": 7470028095553,
+    "productType": "Footwear",
+    "title": "Asics Skateboarding Gel-Vickka Pro",
+    "originalPrice": "$90.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/gel-vickka-pro-7",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-22-24-AsicsGelVickkaBlue-1_9ee91057-af29-4114-bc2b-8168275ddb6d.jpg?v=1732308222"
+  },
+  {
+    "productId": 7469233504321,
+    "productType": "Footwear",
+    "title": "Clarks Originals Torhill Hi x PLEASURES",
+    "originalPrice": "$140.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/torhill-x-pleasures",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-ClarksPleasuresHiBlack-1.jpg?v=1732223134"
+  },
+  {
+    "productId": 7469230686273,
+    "productType": "Footwear",
+    "title": "Clarks Originals Torhill Lo x PLEASURES",
+    "originalPrice": "$130.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/torhill-lo-x-pleasures",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-ClarksPleasuresLoGreen-1.jpg?v=1732223086"
   },
   {
     "productId": 7469183860801,
@@ -234,49 +1521,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-20-24-AdidasGazelleRed-1.jpg?v=1732139370"
   },
   {
-    "productId": 7467943690305,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Blazer Mid x Antihero",
-    "originalPrice": "$110.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/zoom-blazer-mid-x-antihero",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-12-24-NikeSBAntiHeroBlazer-Green-1.jpg?v=1731705105"
-  },
-  {
-    "productId": 7467941953601,
-    "productType": "Footwear",
-    "title": "Nike SB Dunk High x Antihero",
-    "originalPrice": "$145.00",
+    "productId": 7467645829185,
+    "productType": "Outerwear",
+    "title": "Dime Zip Jacket",
+    "originalPrice": "$180.00",
     "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/dunk-high-x-antihero",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-12-24-NikeSBDunkHighAntiHeroWhite-1.jpg?v=1731705087"
+    "link": "https://thepremierstore.com/products/zip-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-14-24-DIMEZipJacketBlue-1.jpg?v=1731634028"
   },
   {
-    "productId": 7467667914817,
-    "productType": "Pants",
-    "title": "Adidas Kader Pant",
-    "originalPrice": "$90.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/kader-pant",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-18-24-AdidasKaderPantBrown-1.jpg?v=1731947010"
-  },
-  {
-    "productId": 7467666407489,
-    "productType": "Footwear",
-    "title": "Nike Zoom Vomero 5",
-    "originalPrice": "$160.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/zoom-vomero-18",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24nikezoomvomero5blue1.jpg?v=1731711885"
-  },
-  {
-    "productId": 7467114954817,
-    "productType": "Sweaters-Fleece",
-    "title": "Dime Classic Small Logo Hoodie",
-    "originalPrice": "$118.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/classic-small-logo-hoodie-18",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-14-24-DimeSmallLogoHoodYellow-1.jpg?v=1731617375"
+    "productId": 7467608932417,
+    "productType": "Jeans",
+    "title": "Dime Classic Relaxed Denim Pants",
+    "originalPrice": "$130.00",
+    "salePrice": "$92.00",
+    "link": "https://thepremierstore.com/products/classic-relaxed-denim-pant-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-14-24-DimeRelaxedJeanBrown-1.jpg?v=1731635144"
   },
   {
     "productId": 7466782392385,
@@ -288,15 +1548,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarStripeJacketBrown-1.jpg?v=1731686723"
   },
   {
-    "productId": 7466740514881,
-    "productType": "Jeans",
-    "title": "Polar '93! Work Denim",
-    "originalPrice": "$170.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/93-work-pants-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarStripeDoubleKneeBrown-1.jpg?v=1731686838"
-  },
-  {
     "productId": 7466722590785,
     "productType": "Pants",
     "title": "Polar Big Boy Cords",
@@ -304,15 +1555,6 @@
     "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/big-boy-cords-2",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarBigboycordGrey-1.jpg?v=1731686919"
-  },
-  {
-    "productId": 7466535223361,
-    "productType": "Sweaters-Fleece",
-    "title": "Polar Ed Zip Hoodie",
-    "originalPrice": "$180.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/ed-zip-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarZipHoodBlack-1.jpg?v=1731687293"
   },
   {
     "productId": 7466534895681,
@@ -324,15 +1566,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-23-23-Polar-Logo-Hood-BrownDefault-1Default-Hoodie.jpg?v=1731689816"
   },
   {
-    "productId": 7466532831297,
-    "productType": "Sweaters-Fleece",
-    "title": "Polar George Sweater",
-    "originalPrice": "$195.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/george-sweater-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarGeorgeSweaterMulti-1.jpg?v=1731687358"
-  },
-  {
     "productId": 7466532339777,
     "productType": "Shirts",
     "title": "Polar Tony L/S Flannel Shirt",
@@ -342,47 +1575,20 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarFlannelGrey-1.jpg?v=1731687433"
   },
   {
-    "productId": 7466531160129,
+    "productId": 7464359657537,
     "productType": "Shirts",
-    "title": "Polar Tim Shirt",
-    "originalPrice": "$120.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/tim-shirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-15-24-PolarSIlkShirtBlue-1.jpg?v=1731689430"
-  },
-  {
-    "productId": 7464312373313,
-    "productType": "Sweaters-Fleece",
-    "title": "Noah Heavyweight Hoodie",
-    "originalPrice": "$198.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/heavyweight-hoodie-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahHeavyweightHoodGrey-1.jpg?v=1731035753"
-  },
-  {
-    "productId": 7464308179009,
-    "productType": "Sweaters-Fleece",
-    "title": "Noah Heavyweight Hoodie",
-    "originalPrice": "$198.00",
-    "salePrice": "$88.00",
-    "link": "https://thepremierstore.com/products/heavyweight-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahHeavyweightHoodGreen-1.jpg?v=1731035719"
-  },
-  {
-    "productId": 7464288419905,
-    "productType": "Pants",
-    "title": "Noah Fatigue Sweatpants",
-    "originalPrice": "$198.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/fatigue-sweatpants",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahSweatsBrown-FatigueSweatpants-1.jpg?v=1731035468"
+    "title": "Noah Heavyweight Zip-Up Flannel",
+    "originalPrice": "$298.00",
+    "salePrice": "$169.00",
+    "link": "https://thepremierstore.com/products/heavyweight-zip-up-flannel",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahZipFlannel-Blue-1Heavyweight.jpg?v=1731035947"
   },
   {
     "productId": 7464286650433,
     "productType": "Pants",
     "title": "Noah Pleated Fatigue Pants",
     "originalPrice": "$298.00",
-    "salePrice": "$149.00",
+    "salePrice": "$129.00",
     "link": "https://thepremierstore.com/products/pleated-fatigue-pants-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahWorkPantTan-1Pleated-Fatigue.jpg?v=1731035397"
   },
@@ -391,27 +1597,9 @@
     "productType": "Pants",
     "title": "Noah Pleated Fatigue Pants",
     "originalPrice": "$298.00",
-    "salePrice": "$149.00",
+    "salePrice": "$129.00",
     "link": "https://thepremierstore.com/products/pleated-fatigue-pants",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-24-NoahWorkPantGreem-1Pleated-Fatigue.jpg?v=1731035363"
-  },
-  {
-    "productId": 7463861059649,
-    "productType": "Footwear",
-    "title": "Nike Air Force 1 '07 LV8",
-    "originalPrice": "$125.00",
-    "salePrice": "$85.00",
-    "link": "https://thepremierstore.com/products/air-force-1-07-lv8-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-12-24-NikeAirForce1Orange-1.jpg?v=1731426559"
-  },
-  {
-    "productId": 7462856196161,
-    "productType": "Sweaters-Fleece",
-    "title": "Nike SB Essentials Logo Hooded Zip-Up Sweatshirt",
-    "originalPrice": "$80.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/essentials-logo-hooded-zip-up-sweatshirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeSBessentialslogozipupsweatshirtkhakiwhite.jpg?v=1730833872"
   },
   {
     "productId": 7462079299649,
@@ -423,24 +1611,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/studentscardigangreen_b633edfc-f2bf-4d1b-89fe-a781fe45a311.jpg?v=1730816047"
   },
   {
-    "productId": 7462078906433,
-    "productType": "Shirts",
-    "title": "Students Theos S/S Polo Sweater",
-    "originalPrice": "$110.00",
-    "salePrice": "$68.00",
-    "link": "https://thepremierstore.com/products/theos-s-s-polo-sweater-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/studentsknitpolobrown.jpg?v=1730486462"
-  },
-  {
-    "productId": 7462077857857,
-    "productType": "Outerwear",
-    "title": "Snow Peak 2L Lightweight Down Jacket",
-    "originalPrice": "$430.00",
-    "salePrice": "$229.00",
-    "link": "https://thepremierstore.com/products/2l-lightweight-down-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/snowpeak2Ljacketorange.jpg?v=1730489641"
-  },
-  {
     "productId": 7462073303105,
     "productType": "Sweaters-Fleece",
     "title": "Snow Peak TAKIBI Cardigan",
@@ -448,24 +1618,6 @@
     "salePrice": "$65.00",
     "link": "https://thepremierstore.com/products/takibi-cardigan",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/snowpeaktakibicardiganolive.jpg?v=1730488376"
-  },
-  {
-    "productId": 7462072647745,
-    "productType": "Shirts",
-    "title": "Snow Peak Hybrid Wool Shirt",
-    "originalPrice": "$230.00",
-    "salePrice": "$149.00",
-    "link": "https://thepremierstore.com/products/hybrid-wool-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/snowpeakhybridwoolshirtblack.jpg?v=1730488831"
-  },
-  {
-    "productId": 7461837176897,
-    "productType": "Sweaters-Fleece",
-    "title": "Stussy Roll V-Neck Fairisle Sweater",
-    "originalPrice": "$150.00",
-    "salePrice": "$75.00",
-    "link": "https://thepremierstore.com/products/roll-v-neck-fairisle-sweater-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-4-24-StussyPatternSweaterOrange-1.jpg?v=1730823653"
   },
   {
     "productId": 7461723766849,
@@ -477,51 +1629,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbzoomstefanjanoskiOLblack.jpg?v=1730385131"
   },
   {
-    "productId": 7461159501889,
-    "productType": "Outerwear",
-    "title": "Pilgrim Mendal Ventile Welder's Jacket",
-    "originalPrice": "$295.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/mendal-ventile-welders-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimmendalventileweldersjacketkhaki.jpg?v=1730229794"
-  },
-  {
-    "productId": 7461159075905,
-    "productType": "Outerwear",
-    "title": "Pilgrim Leon Coaches Jacket",
-    "originalPrice": "$265.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/leon-coaches-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimshirtjacbrown.jpg?v=1730229710"
-  },
-  {
-    "productId": 7461158813761,
-    "productType": "Outerwear",
-    "title": "Pilgrim Baynard Down Vest",
-    "originalPrice": "$350.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/baynard-down-vest",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimvestgrey.jpg?v=1730229560"
-  },
-  {
-    "productId": 7461157470273,
-    "productType": "Jeans",
-    "title": "Pilgrim Robson Jean",
-    "originalPrice": "$185.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/robson-jean",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimrobsonjeanonewash.jpg?v=1730229377"
-  },
-  {
-    "productId": 7461151637569,
-    "productType": "Sweaters-Fleece",
-    "title": "Pilgrim Antonio Wool Zip-Up",
-    "originalPrice": "$265.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/antonio-wool-zip-up-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimfleeceziporange.jpg?v=1730229073"
-  },
-  {
     "productId": 7461151047745,
     "productType": "Sweaters-Fleece",
     "title": "Pilgrim Shore Gradation Cardigan",
@@ -529,15 +1636,6 @@
     "salePrice": "$139.00",
     "link": "https://thepremierstore.com/products/shore-gradation-cardigan",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimwoolcardiganbrown.jpg?v=1730228841"
-  },
-  {
-    "productId": 7461150883905,
-    "productType": "Sweaters-Fleece",
-    "title": "Pilgrim Martin Jacquard Check Knit",
-    "originalPrice": "$295.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/martin-jacquard-check-knit",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimknitsweaterkhaki.jpg?v=1730228755"
   },
   {
     "productId": 7461150392385,
@@ -549,24 +1647,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimhawkinsonstripedcrewsagestripe.jpg?v=1730228679"
   },
   {
-    "productId": 7461150130241,
-    "productType": "Shirts",
-    "title": "Pilgrim Hawkinson L/S Crew Shirt",
-    "originalPrice": "$135.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/hawkinson-l-s-crew-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimhawkinsonstripedcrewbrownstripe.jpg?v=1730228560"
-  },
-  {
-    "productId": 7461150031937,
-    "productType": "Shirts",
-    "title": "Pilgrim Vincent L/S Shirt",
-    "originalPrice": "$240.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/vincent-l-s-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/pilgrimvincentshirtmustard.jpg?v=1730228430"
-  },
-  {
     "productId": 7461121491009,
     "productType": "Footwear",
     "title": "Adidas Superstar x Vitoria",
@@ -576,67 +1656,40 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-28-24-AdidasSuperstarVitoria-White-1.jpg?v=1730294057"
   },
   {
-    "productId": 7461120147521,
+    "productId": 7461118541889,
     "productType": "Footwear",
-    "title": "Adidas Pro Shell x Niels Bennett",
-    "originalPrice": "$120.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/pro-shell-x-niels-bennett",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-28-24-AdidasSuperstarMidNielsBennett-1.jpg?v=1730293902"
-  },
-  {
-    "productId": 7461106221121,
-    "productType": "Footwear",
-    "title": "Nike SB PS8",
-    "originalPrice": "$120.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/ps8-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-28-24-NikeSBPS8Blue-1.jpg?v=1730220491"
-  },
-  {
-    "productId": 7461092294721,
-    "productType": "Footwear",
-    "title": "Nike ACG Cygnal",
-    "originalPrice": "$180.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/acg-cygnal",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeACGsygnalbaroquebrownblack.jpg?v=1730381598"
-  },
-  {
-    "productId": 7457748811841,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Janoski OG+",
-    "originalPrice": "$95.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/zoom-janoski-og-10",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbstefanjanoskiOG_burgundycrushblacksail.jpg?v=1729709990"
-  },
-  {
-    "productId": 7457738719297,
-    "productType": "Footwear",
-    "title": "Nike Dunk Low Retro",
-    "originalPrice": "$120.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/dunk-low-retro-31",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikedunklowphantomblackvintagecoralpaleivory.jpg?v=1729712158"
-  },
-  {
-    "productId": 7457731674177,
-    "productType": "Footwear",
-    "title": "Nike SB Air Max Ishod",
-    "originalPrice": "$110.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/air-max-ishod-5",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbairmaxishodflaxwheatsafetyorange.jpg?v=1729710075"
-  },
-  {
-    "productId": 7456671924289,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
+    "title": "Asics Skateboarding Gel-Vickka Pro",
     "originalPrice": "$90.00",
-    "salePrice": "$64.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-8",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/converseAS-1greypurpleorange.jpg?v=1730207690"
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/gel-vickka-pro",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-29-24-AsicsGelVickkaPurple-1.jpg?v=1730230188"
+  },
+  {
+    "productId": 7461100945473,
+    "productType": "Footwear",
+    "title": "Nike Zoom Vomero 5",
+    "originalPrice": "$160.00",
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/zoom-vomero-17",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikezoomvomerowolfgreywhitemetallicsilver.jpg?v=1730390791"
+  },
+  {
+    "productId": 7457884176449,
+    "productType": "Outerwear",
+    "title": "Snow Peak Recycled Cotton Denim Jacket",
+    "originalPrice": "$310.00",
+    "salePrice": "$189.00",
+    "link": "https://thepremierstore.com/products/recycled-cotton-denim-jacket",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/snowpeakrecycledcottondenimjacketindigo.jpg?v=1730140996"
+  },
+  {
+    "productId": 7456727990337,
+    "productType": "Footwear",
+    "title": "Converse One Star Pro Ox GTX x IRAK",
+    "originalPrice": "$110.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/one-star-pro-ox-gtx-x-irak-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-18-24-IrakConsOnestarTan-1b.jpg?v=1729528539"
   },
   {
     "productId": 7456187187265,
@@ -652,7 +1705,7 @@
     "productType": "Pants",
     "title": "Museum Of Peace & Quiet Surplus Knit Pant",
     "originalPrice": "$180.00",
-    "salePrice": "$119.00",
+    "salePrice": "$89.00",
     "link": "https://thepremierstore.com/products/surplus-knit-pant",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-MuseumofpeaceandquietThermalPantTan-1.jpg?v=1729257650"
   },
@@ -661,72 +1714,72 @@
     "productType": "Pants",
     "title": "Museum Of Peace & Quiet Wordmark Sweatpants",
     "originalPrice": "$160.00",
-    "salePrice": "$98.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/wordmark-sweatpants",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-MuseumofpeaceandquietSweatpantGreen-1.jpg?v=1729257688"
-  },
-  {
-    "productId": 7456186073153,
-    "productType": "Sweaters-Fleece",
-    "title": "Museum Of Peace & Quiet Wordmark Crewneck",
-    "originalPrice": "$140.00",
-    "salePrice": "$98.00",
-    "link": "https://thepremierstore.com/products/wordmark-crewneck-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MuseumofpeaceandquietcrewneckTan-1.jpg?v=1729257729"
-  },
-  {
-    "productId": 7456185843777,
-    "productType": "Sweaters-Fleece",
-    "title": "Museum Of Peace & Quiet Warped Crewneck",
-    "originalPrice": "$140.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/warped-crewneck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MuseumofpeaceandquietBiglogoCrewGreen-1.jpg?v=1729257801"
   },
   {
     "productId": 7456185286721,
     "productType": "Shirts",
     "title": "Museum Of Peace & Quiet Vacation L/S Button Up Shirt",
     "originalPrice": "$180.00",
-    "salePrice": "$119.00",
+    "salePrice": "$89.00",
     "link": "https://thepremierstore.com/products/vacation-l-s-button-up-shirt",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-ReceptionPJShirt-Multi-1.jpg?v=1729257951"
-  },
-  {
-    "productId": 7455858884673,
-    "productType": "Shirts",
-    "title": "Museum Of Peace & Quiet Surplus L/S Shirt",
-    "originalPrice": "$65.00",
-    "salePrice": "$48.00",
-    "link": "https://thepremierstore.com/products/surplus-l-s-shirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-MuseumofpeaceandquietThermalGreen-1.jpg?v=1729257994"
   },
   {
     "productId": 7455857705025,
     "productType": "Shirts",
     "title": "Museum Of Peace & Quiet Surplus L/S Shirt",
     "originalPrice": "$65.00",
-    "salePrice": "$48.00",
+    "salePrice": "$38.00",
     "link": "https://thepremierstore.com/products/surplus-l-s-shirt",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-MuseumofpeaceandquietThermalGreen-3.jpg?v=1729258032"
   },
   {
-    "productId": 7455040307265,
-    "productType": "Outerwear",
-    "title": "Pop Trading Company Quilted Reversible Jacket",
-    "originalPrice": "$306.00",
-    "salePrice": "$149.00",
-    "link": "https://thepremierstore.com/products/quilted-reversible-jacket-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-18-24-PopTradingCoReversibleJacketBlack-1.jpg?v=1729257526"
+    "productId": 7455853871169,
+    "productType": "Shirts",
+    "title": "Museum Of Peace & Quiet Circle Of Life L/S Shirt",
+    "originalPrice": "$65.00",
+    "salePrice": "$39.00",
+    "link": "https://thepremierstore.com/products/circle-of-life-l-s-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-MuseumofpeaceandquietRadiusLSCreme-1CircleOflife.jpg?v=1729189009"
   },
   {
-    "productId": 7455039127617,
-    "productType": "Outerwear",
-    "title": "Pop Trading Company Quilted Reversible Vest",
-    "originalPrice": "$200.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/quilted-reversible-vest",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-18-24-PopTradingCoReversibleVestGreen-1.jpg?v=1729257441"
+    "productId": 7455845711937,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet General Store T-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$34.00",
+    "link": "https://thepremierstore.com/products/general-store-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MuseumofpeaceandquietGeneralStoreTeeTan-1.jpg?v=1729188945"
+  },
+  {
+    "productId": 7455845449793,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark T-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$34.00",
+    "link": "https://thepremierstore.com/products/wordmark-t-shirt-6",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MuseumofpeaceandquietTshirt-Green-1.jpg?v=1729189070"
+  },
+  {
+    "productId": 7455845122113,
+    "productType": "T Shirts",
+    "title": "Museum Of Peace & Quiet Wordmark T-Shirt",
+    "originalPrice": "$48.00",
+    "salePrice": "$34.00",
+    "link": "https://thepremierstore.com/products/wordmark-t-shirt-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MuseumofpeaceandquietTshirt-GreenArmy-1.jpg?v=1729189106"
+  },
+  {
+    "productId": 7455017992257,
+    "productType": "Sweaters-Fleece",
+    "title": "Pop Trading Company Puffed Logo Hooded Sweatshirt",
+    "originalPrice": "$167.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/puffed-logo-hooded-sweatshirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-PopTradingCoLogoHoodBlack-1.jpg?v=1729257313"
   },
   {
     "productId": 7454694539329,
@@ -738,15 +1791,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-17-24-PopTradingCoStripeButtonBlue-1.jpg?v=1729257067"
   },
   {
-    "productId": 7454629068865,
-    "productType": "Footwear",
-    "title": "Nike Air Max 1 '86 OG",
-    "originalPrice": "$150.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/air-max-1-86-og-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-15-24-NikeAirMax186Orange-1.jpg?v=1729027175"
-  },
-  {
     "productId": 7454046027841,
     "productType": "Footwear",
     "title": "New Balance Numeric 480",
@@ -756,20 +1800,20 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericNM480SWGwhitegum.jpg?v=1717609622"
   },
   {
-    "productId": 7453743185985,
+    "productId": 7453744955457,
     "productType": "Footwear",
-    "title": "Clarks Originals Women's Desert Nomad Speckled Hair-On",
-    "originalPrice": "$180.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/womens-desert-nomad-speckled-hair-on",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-14-24-ClarksWallabeeNomadWheat-1.jpg?v=1728926389"
+    "title": "Clarks Originals Women's Wallabee Deep Red Suede",
+    "originalPrice": "$150.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/womens-wallabee-deep-red-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-14-24-ClarksWallabeeSuedeBurgundy-1.jpg?v=1728926331"
   },
   {
     "productId": 7453742268481,
     "productType": "Footwear",
     "title": "Clarks Originals Women's Desert Nomad Black Suede",
     "originalPrice": "$170.00",
-    "salePrice": "$119.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/womens-desert-nomad-black-suede",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-14-24-ClarksWallabeeNomadBlack-1.jpg?v=1728926410"
   },
@@ -778,18 +1822,9 @@
     "productType": "Footwear",
     "title": "Clarks Originals Women's Walla Chelsea Mole Grey Suede",
     "originalPrice": "$200.00",
-    "salePrice": "$139.00",
+    "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/walla-chelsea",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-14-24-ClarksBootGreenWallaChelsea-Mole-Grey-1.jpg?v=1728926453"
-  },
-  {
-    "productId": 7453726474305,
-    "productType": "Sweaters-Fleece",
-    "title": "Reception Ryo Club Merino Jacket",
-    "originalPrice": "$360.00",
-    "salePrice": "$180.00",
-    "link": "https://thepremierstore.com/products/ryo-club-merino-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-ReceptionEmbroideryJacketBlue-1.jpg?v=1729122746"
   },
   {
     "productId": 7453717135425,
@@ -801,103 +1836,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-ReceptionFleeceTopLightBlue-1Interlock-Polo-Sweat-IceBlue.jpg?v=1729122836"
   },
   {
-    "productId": 7453694623809,
+    "productId": 7453411770433,
     "productType": "Sweaters-Fleece",
-    "title": "Reception BF Hooded Sweatshirt",
-    "originalPrice": "$170.00",
-    "salePrice": "$89.00",
-    "link": "https://thepremierstore.com/products/bf-hooded-sweatshirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-ReceptionEmbroideryHoodNavy-1.jpg?v=1729122973"
-  },
-  {
-    "productId": 7453645209665,
-    "productType": "Decks",
-    "title": "Carpet Company Tourist Deck 8.5\"",
-    "originalPrice": "$98.00",
-    "salePrice": "$78.00",
-    "link": "https://thepremierstore.com/products/tourist-deck-8-39",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carpettouristdeckgreen.jpg?v=1728917608"
-  },
-  {
-    "productId": 7453637083201,
-    "productType": "Decks",
-    "title": "Carpet Company Tourist Deck 8.25\"",
-    "originalPrice": "$98.00",
-    "salePrice": "$78.00",
-    "link": "https://thepremierstore.com/products/tourist-deck-8-25",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carpettouristdeckblack.jpg?v=1728917472"
-  },
-  {
-    "productId": 7451094974529,
-    "productType": "Misc Accessories",
-    "title": "Carpet Company Whoopie Cushion",
-    "originalPrice": "$10.00",
-    "salePrice": "$7.00",
-    "link": "https://thepremierstore.com/products/whoopie-cushion",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/carpetwhoopiecushionred.jpg?v=1728482454"
-  },
-  {
-    "productId": 7450096107585,
-    "productType": "Shirts",
-    "title": "Dancer Danssoni Shirt",
-    "originalPrice": "$180.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/danssoni-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/dancerdanssonishirtgreen.jpg?v=1728070457"
-  },
-  {
-    "productId": 7449785499713,
-    "productType": "Footwear",
-    "title": "Salomon Snowclog Mid",
-    "originalPrice": "$130.00",
-    "salePrice": "$89.00",
-    "link": "https://thepremierstore.com/products/snowclog-mid",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonsnowclogmidblack.jpg?v=1728069493"
-  },
-  {
-    "productId": 7449783140417,
-    "productType": "Footwear",
-    "title": "Salomon Snowclog",
-    "originalPrice": "$110.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/snowclog",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonsnowclogdeeplichengreenblack.jpg?v=1728069435"
+    "title": "Metalwood Club 74 Zip Hooded Sweatshirt",
+    "originalPrice": "$158.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/club-74-zip-hooded-sweatshirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-16-24-MetalwoodZipUpBlue-1Club74-Zip-Hooded-Steel.jpg?v=1729123758"
   },
   {
     "productId": 7449749618753,
     "productType": "Footwear",
     "title": "Salomon ACS Pro",
     "originalPrice": "$200.00",
-    "salePrice": "$149.00",
+    "salePrice": "$119.00",
     "link": "https://thepremierstore.com/products/acs-pro",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonACSproportabellablack.jpg?v=1728564588"
-  },
-  {
-    "productId": 7449748308033,
-    "productType": "Footwear",
-    "title": "Salomon XT-4 OG",
-    "originalPrice": "$220.00",
-    "salePrice": "$159.00",
-    "link": "https://thepremierstore.com/products/xt-4-og-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonXT4OGolivenightblackaloe.jpg?v=1728565640"
-  },
-  {
-    "productId": 7449739853889,
-    "productType": "Footwear",
-    "title": "Salomon XT-6 Gore-Tex",
-    "originalPrice": "$220.00",
-    "salePrice": "$169.00",
-    "link": "https://thepremierstore.com/products/xt-6-gore-tex-4",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonXT6antelopeicicleportabella.jpg?v=1728069135"
-  },
-  {
-    "productId": 7449734479937,
-    "productType": "Footwear",
-    "title": "Nike SB PS8",
-    "originalPrice": "$120.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/ps8-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbPS8coolgreymetallicsilveranthracite.jpg?v=1727983399"
   },
   {
     "productId": 7449689817153,
@@ -909,220 +1863,49 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeACGmountainfly2lowgoretexvelvetbrownblackburgundycrushhemp.jpg?v=1728013968"
   },
   {
-    "productId": 7449688670273,
-    "productType": "Footwear",
-    "title": "Nike ACG Mountain Fly 2 Low Gore-Tex",
-    "originalPrice": "$180.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/acg-mountain-fly-2-low-gore-tex-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeACGmountainfly2lowblackgrey.jpg?v=1719510149"
-  },
-  {
     "productId": 7449275826241,
     "productType": "Outerwear",
     "title": "Gramicci Gramicci x And Wander Women's Down Vest",
     "originalPrice": "$340.00",
-    "salePrice": "$169.00",
+    "salePrice": "$139.00",
     "link": "https://thepremierstore.com/products/gramicci-x-and-wander-womens-down-vest",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-19-24-GramicciVestCamo-1.jpg?v=1727888980"
-  },
-  {
-    "productId": 7449274941505,
-    "productType": "Outerwear",
-    "title": "Gramicci Gramicci x And Wander Women's JQ Tape Fleece Jacket",
-    "originalPrice": "$250.00",
-    "salePrice": "$125.00",
-    "link": "https://thepremierstore.com/products/gramicci-x-and-wander-womens-jq-tape-fleece-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-19-24-GramicciWomensFleeceWhite-1.jpg?v=1727888912"
   },
   {
     "productId": 7449223168065,
     "productType": "Outerwear",
     "title": "Gramicci Gramicci x And Wander Women's JQ Tape Fleece Dress",
     "originalPrice": "$210.00",
-    "salePrice": "$98.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/gramicci-x-and-wander-womens-fleece-dress-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-19-24-GramicciFleeceDressWhite-1.jpg?v=1727887349"
-  },
-  {
-    "productId": 7449216024641,
-    "productType": "Pants",
-    "title": "Gramicci Gramicci x And Wander Women's JQ Tape Corduroy Gadget Pants",
-    "originalPrice": "$190.00",
-    "salePrice": "$98.00",
-    "link": "https://thepremierstore.com/products/gramicci-x-and-wander-womens-gadget-pants",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-20-24-GramicciWanderGadgetWhite-1.jpg?v=1727888089"
   },
   {
     "productId": 7449212289089,
     "productType": "Pants",
     "title": "Gramicci Gramicci x And Wander Women's Ripstop Voyager Pants",
     "originalPrice": "$210.00",
-    "salePrice": "$98.00",
+    "salePrice": "$85.00",
     "link": "https://thepremierstore.com/products/gramicci-x-and-wander-womens-ripstop-voyager-pants",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-20-24-GramicciWanderNylonPantOrange-1_4045a4a4-d95c-4c79-8507-c6cb490e8f96.jpg?v=1727888210"
-  },
-  {
-    "productId": 7448962564161,
-    "productType": "Outerwear",
-    "title": "Nanamica 2L Gore-Tex Coach Jacket",
-    "originalPrice": "$570.00",
-    "salePrice": "$399.00",
-    "link": "https://thepremierstore.com/products/2l-gore-tex-coach-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamica2Lgoretexjacketnavy.jpg?v=1728323420"
-  },
-  {
-    "productId": 7448958271553,
-    "productType": "Outerwear",
-    "title": "Nanamica Women's 2L Gore-Tex Coach Jacket",
-    "originalPrice": "$570.00",
-    "salePrice": "$399.00",
-    "link": "https://thepremierstore.com/products/womens-2l-gore-tex-coach-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicawomens2Lgoretexjacketsunrise.jpg?v=1728324639"
-  },
-  {
-    "productId": 7448946999361,
-    "productType": "Outerwear",
-    "title": "Nanamica Women's Reversible Down Coat",
-    "originalPrice": "$410.00",
-    "salePrice": "$199.00",
-    "link": "https://thepremierstore.com/products/womens-reversible-down-coat",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicawomensreversibledowncoat.jpg?v=1728327269"
-  },
-  {
-    "productId": 7448889720897,
-    "productType": "Outerwear",
-    "title": "Nanamica Women's Brushed Denim Shirt Jacket",
-    "originalPrice": "$440.00",
-    "salePrice": "$308.00",
-    "link": "https://thepremierstore.com/products/womens-brushed-denim-shirt-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicawomensbrusheddenimshirtjacketnavy.jpg?v=1728332412"
-  },
-  {
-    "productId": 7448880087105,
-    "productType": "Pants",
-    "title": "Nanamica Women's Cotton Wool Gurkha Skirt",
-    "originalPrice": "$380.00",
-    "salePrice": "$266.00",
-    "link": "https://thepremierstore.com/products/womens-cotton-wool-gurkha-skirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicawomenscottongurkhaskirtnavy.jpg?v=1728335553"
   },
   {
     "productId": 7448877891649,
     "productType": "Pants",
     "title": "Nanamica Women's Cotton Wool Gurkha Pants",
     "originalPrice": "$440.00",
-    "salePrice": "$308.00",
+    "salePrice": "$199.00",
     "link": "https://thepremierstore.com/products/womens-cotton-wool-gurkha-pants",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicawomenscottongurkhapantsheathergrey.jpg?v=1728339986"
   },
   {
-    "productId": 7448749342785,
-    "productType": "Outerwear",
-    "title": "Nanamica Reversible Down Cardigan",
-    "originalPrice": "$380.00",
-    "salePrice": "$256.00",
-    "link": "https://thepremierstore.com/products/reversible-down-cardigan",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicareversibledowncardigankhakibeige.jpg?v=1728349342"
-  },
-  {
-    "productId": 7448723095617,
-    "productType": "Outerwear",
-    "title": "Nanamica Reversible Wind Jacket",
-    "originalPrice": "$440.00",
-    "salePrice": "$308.00",
-    "link": "https://thepremierstore.com/products/reversible-wind-jacket-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicareversiblewindjacketnavy.jpg?v=1728350385"
-  },
-  {
-    "productId": 7448717983809,
-    "productType": "Outerwear",
-    "title": "Nanamica Reversible Wind Jacket",
-    "originalPrice": "$440.00",
-    "salePrice": "$308.00",
-    "link": "https://thepremierstore.com/products/reversible-wind-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicareversiblewindjacketbeige.jpg?v=1728351271"
-  },
-  {
-    "productId": 7448713527361,
-    "productType": "Outerwear",
-    "title": "Nanamica Cotton Wool Mariner Jacket",
-    "originalPrice": "$500.00",
-    "salePrice": "$350.00",
-    "link": "https://thepremierstore.com/products/cotton-wool-mariner-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicacottonwoolmarinerpantsheathergey.jpg?v=1728352411"
-  },
-  {
-    "productId": 7448709857345,
-    "productType": "Outerwear",
-    "title": "Nanamica Hooded Jacket",
-    "originalPrice": "$430.00",
-    "salePrice": "$298.00",
-    "link": "https://thepremierstore.com/products/hooded-jacket",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicahoodedjacketolive.jpg?v=1728355009"
-  },
-  {
-    "productId": 7448454430785,
-    "productType": "Pants",
-    "title": "Nanamica Insulation Pants",
-    "originalPrice": "$420.00",
-    "salePrice": "$199.00",
-    "link": "https://thepremierstore.com/products/insulation-pants",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nanamicainsulationpantsblack.jpg?v=1728404976"
-  },
-  {
-    "productId": 7447611113537,
-    "productType": "Outerwear",
-    "title": "Stussy Insulated Field Jacket",
-    "originalPrice": "$285.00",
-    "salePrice": "$189.00",
-    "link": "https://thepremierstore.com/products/insulated-field-jacket-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyM65JacketBlue-1.jpg?v=1727713885"
-  },
-  {
-    "productId": 7447129063489,
-    "productType": "Outerwear",
-    "title": "Stussy Short Military Parka",
-    "originalPrice": "$300.00",
-    "salePrice": "$210.00",
-    "link": "https://thepremierstore.com/products/short-military-parka-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyJacketTan-1.jpg?v=1727714193"
-  },
-  {
-    "productId": 7447128211521,
-    "productType": "Outerwear",
-    "title": "Stussy Short Military Parka",
-    "originalPrice": "$300.00",
-    "salePrice": "$210.00",
-    "link": "https://thepremierstore.com/products/short-military-parka-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyJacketGreen-1.jpg?v=1727714306"
-  },
-  {
-    "productId": 7447125688385,
-    "productType": "Outerwear",
-    "title": "Stussy Short Military Parka",
-    "originalPrice": "$300.00",
-    "salePrice": "$210.00",
-    "link": "https://thepremierstore.com/products/short-military-parka",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyJacketBlack-1.jpg?v=1727714361"
-  },
-  {
-    "productId": 7447094788161,
-    "productType": "Shirts",
-    "title": "Stussy Classic L/S Bleached Shirt",
+    "productId": 7448286527553,
+    "productType": "Footwear",
+    "title": "Clarks Originals Wallabee Camel Wool",
     "originalPrice": "$160.00",
-    "salePrice": "$112.00",
-    "link": "https://thepremierstore.com/products/classic-l-s-bleached-shirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyDressShirtTan-1.jpg?v=1727714813"
-  },
-  {
-    "productId": 7447022534721,
-    "productType": "Beanies",
-    "title": "Stussy Cuff Beanie Crown",
-    "originalPrice": "$40.00",
-    "salePrice": "$28.00",
-    "link": "https://thepremierstore.com/products/cuff-beanie-crown-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-StussyCrownBeanieRed-1.jpg?v=1727715538"
+    "salePrice": "$119.00",
+    "link": "https://thepremierstore.com/products/wallabee-camel-wool",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkshainsworthwalabeewoolcamelbrown.jpg?v=1727718901"
   },
   {
     "productId": 7446516236353,
@@ -1138,63 +1921,18 @@
     "productType": "Footwear",
     "title": "Asics Gel-Terrain GTX",
     "originalPrice": "$200.00",
-    "salePrice": "$149.00",
+    "salePrice": "$119.00",
     "link": "https://thepremierstore.com/products/gel-terrain-gtx-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsgelterrainGTXgraphitegreygunmetal.jpg?v=1727456483"
-  },
-  {
-    "productId": 7446380773441,
-    "productType": "Footwear",
-    "title": "Asics Gel-Terrain GTX",
-    "originalPrice": "$200.00",
-    "salePrice": "$149.00",
-    "link": "https://thepremierstore.com/products/gel-terrain-gtx",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsgelterrainGTXpureplatinumsilver.jpg?v=1727456610"
   },
   {
     "productId": 7446378446913,
     "productType": "Footwear",
     "title": "Asics GT-2160 x Above The Clouds",
     "originalPrice": "$150.00",
-    "salePrice": "$115.00",
+    "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/gt-2160-x-above-the-clouds-2",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsxabovethecloudsGT2160pureplatinumsilver.jpg?v=1727367325"
-  },
-  {
-    "productId": 7446364356673,
-    "productType": "Footwear",
-    "title": "New Balance Numeric 480 x Kawhi",
-    "originalPrice": "$110.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/480-16",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/newbalancenumericxkawhi480.jpg?v=1727363960"
-  },
-  {
-    "productId": 7443803308097,
-    "productType": "Footwear",
-    "title": "Adidas Nora",
-    "originalPrice": "$80.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/nora-10",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-24-24-AdidasNoraBlue-1.jpg?v=1727198316"
-  },
-  {
-    "productId": 7443803177025,
-    "productType": "Footwear",
-    "title": "Adidas Puig Samba",
-    "originalPrice": "$100.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/puig-samba-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-24-24-AdidasSambaPuigBlack-1.jpg?v=1727198292"
-  },
-  {
-    "productId": 7443802816577,
-    "productType": "Footwear",
-    "title": "Adidas Puig Samba",
-    "originalPrice": "$100.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/puig-samba",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-24-24-AdidasSambaPuigWhite-1.jpg?v=1727198269"
   },
   {
     "productId": 7443802226753,
@@ -1213,15 +1951,6 @@
     "salePrice": "$69.00",
     "link": "https://thepremierstore.com/products/tyshawn-ii",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-24-24-AdidasTyshawnWhite-1.jpg?v=1727198188"
-  },
-  {
-    "productId": 7443797246017,
-    "productType": "Footwear",
-    "title": "Adidas Tyshawn II",
-    "originalPrice": "$100.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/tyshawn-ii-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-21-24-AdidasTyshawn2White-1.jpg?v=1717183401"
   },
   {
     "productId": 7443520847937,
@@ -1278,24 +2007,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/lastresortVM006mocksuedeblack.jpg?v=1726799198"
   },
   {
-    "productId": 7440744284225,
-    "productType": "Sweaters-Fleece",
-    "title": "Limosine Cat Hoodie",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://thepremierstore.com/products/cat-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/limocathoodiesafari.jpg?v=1726627904"
-  },
-  {
-    "productId": 7440687136833,
-    "productType": "Pants",
-    "title": "Gramicci Women's Winter Twill Voyager Pant",
-    "originalPrice": "$120.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/womens-winter-twill-voyager-pant-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-19-24-GramicciWomensVoyagerPantKhakiTan-1.jpg?v=1726800029"
-  },
-  {
     "productId": 7439855353921,
     "productType": "Footwear",
     "title": "Adidas Tyshawn II",
@@ -1303,24 +2014,6 @@
     "salePrice": "$69.00",
     "link": "https://thepremierstore.com/products/tyshawn-ii-2",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-20-24-AdidasTyshawnII-Multi-1b.jpg?v=1726846520"
-  },
-  {
-    "productId": 7438646640705,
-    "productType": "Footwear",
-    "title": "Adidas Gazelle ADV x The MNUFC \"Familia\"",
-    "originalPrice": "$110.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/gazelle-adv-x-the-mnufc-familia",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasxtheMNUFCxfamiliagazelleadvlightbluecrystalwhite.jpg?v=1726584851"
-  },
-  {
-    "productId": 7438491844673,
-    "productType": "Pants",
-    "title": "Dime Resort Trouser",
-    "originalPrice": "$130.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/resort-trouser-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeLinenPantBlue-1ResortTrouser.jpg?v=1726319350"
   },
   {
     "productId": 7438491091009,
@@ -1332,15 +2025,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeLinenPantKhaki-1ResortTrouser.jpg?v=1726319384"
   },
   {
-    "productId": 7438490599489,
-    "productType": "Jeans",
-    "title": "Dime Classic Baggy Denim Pants",
-    "originalPrice": "$130.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/classic-baggy-denim-pants-7",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeBaggyJeanBlack-1.jpg?v=1726319413"
-  },
-  {
     "productId": 7438489124929,
     "productType": "Jeans",
     "title": "Dime Classic Relaxed Denim Pants",
@@ -1350,29 +2034,11 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeRelaxJeanBlue-1.jpg?v=1726319525"
   },
   {
-    "productId": 7438487224385,
-    "productType": "Outerwear",
-    "title": "Dime Reversible Insulated Jacket",
-    "originalPrice": "$170.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/reversible-insulated-jacket-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeReversibleJacketGreen-1.jpg?v=1726315594"
-  },
-  {
-    "productId": 7438378696769,
-    "productType": "Sweaters-Fleece",
-    "title": "Dime Genie Crewneck",
-    "originalPrice": "$110.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/genie-crewneck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-14-24-DimeEmperorCrewneckBlack-1.jpg?v=1726316677"
-  },
-  {
     "productId": 7438229176385,
     "productType": "Footwear",
     "title": "Nike SB Janoski (GS)",
     "originalPrice": "$75.00",
-    "salePrice": "$49.00",
+    "salePrice": "$35.00",
     "link": "https://thepremierstore.com/products/janoski-gs",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbjanoskiGS.jpg?v=1726596084"
   },
@@ -1395,42 +2061,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/aprilEMBsnapbackwhiteonblack.jpg?v=1726168813"
   },
   {
-    "productId": 7434389684289,
-    "productType": "Jeans",
-    "title": "Carpet Company C-Star Selvedge Denim Jeans",
-    "originalPrice": "$248.00",
-    "salePrice": "$198.00",
-    "link": "https://thepremierstore.com/products/c-star-selvedge-denim-jeans",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-11-24-CarpetSelvedgeJeanBlue-1.jpg?v=1726076358"
-  },
-  {
-    "productId": 7434376642625,
-    "productType": "Misc Accessories",
-    "title": "Carpet Company Leather Wallet",
-    "originalPrice": "$88.00",
-    "salePrice": "$68.00",
-    "link": "https://thepremierstore.com/products/leather-wallet",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-11-24-CarpetCStarWalletWhite-1.jpg?v=1726076319"
-  },
-  {
-    "productId": 7434282500161,
-    "productType": "Footwear",
-    "title": "Nike SB Janoski+ Slip",
-    "originalPrice": "$85.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/janoski-slip-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbjanoskislipdenimturqcacaowow.jpg?v=1726624913"
-  },
-  {
-    "productId": 7432363180097,
-    "productType": "Shirts",
-    "title": "Butter Goods Mohair Button-Up Knitted Shirt",
-    "originalPrice": "$120.00",
-    "salePrice": "$96.00",
-    "link": "https://thepremierstore.com/products/mohair-button-up-knitted-shirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-10-24-ButtergoodsMohairCardiganTan-1.jpg?v=1725999278"
-  },
-  {
     "productId": 7432362262593,
     "productType": "Shirts",
     "title": "Butter Goods Mohair Button-Up Knitted Shirt",
@@ -1444,7 +2074,7 @@
     "productType": "Footwear",
     "title": "Clarks Originals Women's Wallabee GTX Khaki/Green Suede",
     "originalPrice": "$230.00",
-    "salePrice": "$179.00",
+    "salePrice": "$119.00",
     "link": "https://thepremierstore.com/products/womens-wallabee-gtx-khaki-green-suede",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeegtxkhakigreensuede_f9da0d5d-1e78-492e-a1c8-8080351ef817.jpg?v=1725722210"
   },
@@ -1453,7 +2083,7 @@
     "productType": "Footwear",
     "title": "Clarks Originals Women's Wallabee Boot Black Crocodile Distress",
     "originalPrice": "$190.00",
-    "salePrice": "$139.00",
+    "salePrice": "$89.00",
     "link": "https://thepremierstore.com/products/womens-wallabee-boot-black-crocodile-distress",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeebootcrocodiledistressed_e6cbdc9a-3c53-4a19-aa1e-a5a509afc8a0.jpg?v=1725722104"
   },
@@ -1462,7 +2092,7 @@
     "productType": "Footwear",
     "title": "Clarks Originals Women's Wallabee Loafer Grey Snake Leather",
     "originalPrice": "$200.00",
-    "salePrice": "$139.00",
+    "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/womens-wallabee-loafer-grey-snake-leather",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeeloafergreysnakeskinleather.jpg?v=1725721965"
   },
@@ -1471,99 +2101,72 @@
     "productType": "Footwear",
     "title": "Clarks Originals Women's Wallabee Loafer Black Smooth Leather",
     "originalPrice": "$170.00",
-    "salePrice": "$119.00",
+    "salePrice": "$89.00",
     "link": "https://thepremierstore.com/products/womens-wallabee-loafer-black-smooth-leather",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeeloafersmoothblackleather.jpg?v=1725721862"
-  },
-  {
-    "productId": 7429331681345,
-    "productType": "Footwear",
-    "title": "Clarks Originals Wallabee Boot Black Crocodile Distress",
-    "originalPrice": "$190.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/wallabee-boot-black-crocodile-distress",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeebootcrocodiledistressed.jpg?v=1725650416"
-  },
-  {
-    "productId": 7429331058753,
-    "productType": "Footwear",
-    "title": "Clarks Originals Desert Rock Lo Black Leather",
-    "originalPrice": "$150.00",
-    "salePrice": "$109.00",
-    "link": "https://thepremierstore.com/products/desert-rock-lo-black-leather",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarksdesertrockloblackleather.jpg?v=1725650543"
-  },
-  {
-    "productId": 7429329518657,
-    "productType": "Footwear",
-    "title": "Clarks Originals Wallabee Eden Dark Sand Suede",
-    "originalPrice": "$260.00",
-    "salePrice": "$129.00",
-    "link": "https://thepremierstore.com/products/wallabee-eden-dark-sand-suede",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeeedendarksandsuede.jpg?v=1725650865"
-  },
-  {
-    "productId": 7429329125441,
-    "productType": "Footwear",
-    "title": "Clarks Originals Wallabee GTX Oakmoss Nubuck",
-    "originalPrice": "$230.00",
-    "salePrice": "$179.00",
-    "link": "https://thepremierstore.com/products/wallabee-gtx-oakmoss-nubuck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeegtxoakmossnubuck.jpg?v=1725651047"
   },
   {
     "productId": 7429322342465,
     "productType": "Footwear",
     "title": "Clarks Originals Wallabee Loafer Black Crocodile",
     "originalPrice": "$200.00",
-    "salePrice": "$139.00",
+    "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/wallabee-loafer-black-crocodile",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeeloaferblackcrocodile.jpg?v=1725651216"
   },
   {
-    "productId": 7429322113089,
+    "productId": 7429321293889,
     "productType": "Footwear",
-    "title": "Clarks Originals Wallabee Forest Green Leather",
-    "originalPrice": "$160.00",
-    "salePrice": "$114.00",
-    "link": "https://thepremierstore.com/products/wallabee-forest-green-leather",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeeforestgreenleather.jpg?v=1725651317"
+    "title": "Clarks Originals Wallabee Oakmoss Suede",
+    "originalPrice": "$150.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/wallabee-oakmoss-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswalabeeoakmosssuede.jpg?v=1727201004"
   },
   {
-    "productId": 7429321719873,
+    "productId": 7429320867905,
     "productType": "Footwear",
-    "title": "Clarks Originals Wallabee Deep Red Leather",
-    "originalPrice": "$160.00",
-    "salePrice": "$114.00",
-    "link": "https://thepremierstore.com/products/wallabee-deep-red-leather",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswallabeedeepredleather.jpg?v=1725651397"
+    "title": "Clarks Originals Wallabee Brown Slate Suede",
+    "originalPrice": "$150.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/wallabee-brown-slate-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/clarkswalabeebrownslate.jpg?v=1725651529"
   },
   {
-    "productId": 7421856776257,
-    "productType": "Decks",
-    "title": "Girl Bennett - Pac-Man Deck 8.25\" & 8.5\"",
-    "originalPrice": "$74.00",
-    "salePrice": "$60.00",
-    "link": "https://thepremierstore.com/products/bennett-pac-man-deck-8-25-8-5",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-4-24-GirlPacmanDeckBennet-1.jpg?v=1725465523"
-  },
-  {
-    "productId": 7421804314689,
-    "productType": "Decks",
-    "title": "Girl Bannerot - Pac-Man Deck 8.25\" & 8.5\"",
-    "originalPrice": "$74.00",
-    "salePrice": "$60.00",
-    "link": "https://thepremierstore.com/products/bannerot-pac-man-deck-8-25-8-5",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-4-24-GirlPacmanBanerotDeck-1.jpg?v=1725465498"
-  },
-  {
-    "productId": 7421467721793,
+    "productId": 7427498278977,
     "productType": "Hats",
-    "title": "Polar Vilde Flap Cap",
+    "title": "Rassvet 6-Panel Cap",
+    "originalPrice": "$106.00",
+    "salePrice": "$75.00",
+    "link": "https://thepremierstore.com/products/6-panel-cap",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/rassvetangelhatplum.jpg?v=1725651626"
+  },
+  {
+    "productId": 7427495362625,
+    "productType": "T Shirts",
+    "title": "Rassvet Flower L/S T-Shirt",
+    "originalPrice": "$135.00",
+    "salePrice": "$99.00",
+    "link": "https://thepremierstore.com/products/flower-l-s-t-shirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/rassveLSteepink.jpg?v=1725651688"
+  },
+  {
+    "productId": 7427494805569,
+    "productType": "T Shirts",
+    "title": "Rassvet Gate T-Shirt",
     "originalPrice": "$80.00",
-    "salePrice": "$39.00",
-    "link": "https://thepremierstore.com/products/vilde-flap-cap",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-30-24-PolarFlapcapGreen-1.jpg?v=1725033349"
+    "salePrice": "$62.00",
+    "link": "https://thepremierstore.com/products/gate-t-shirt-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/rassvetteeteal.jpg?v=1725651741"
+  },
+  {
+    "productId": 7421787177025,
+    "productType": "Decks",
+    "title": "Chocolate Perez - Loteria Deck 8.375\" & 8.4\"",
+    "originalPrice": "$75.00",
+    "salePrice": "$60.00",
+    "link": "https://thepremierstore.com/products/perez-loteria-deck-8-375-8-4",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-3-24-ChocolatePerezDeck-1.jpg?v=1725389797"
   },
   {
     "productId": 7421455237185,
@@ -1593,49 +2196,58 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-29-24-PolarDenimJacketBlack-1.jpg?v=1725030268"
   },
   {
-    "productId": 7420495134785,
-    "productType": "Shirts",
-    "title": "Polar Tim Shirt",
-    "originalPrice": "$120.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/tim-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-29-24-PolarSilkyButtonGold-1.jpg?v=1725030574"
-  },
-  {
-    "productId": 7420258418753,
-    "productType": "Footwear",
-    "title": "Salomon XT-4 OG",
-    "originalPrice": "$220.00",
-    "salePrice": "$149.00",
-    "link": "https://thepremierstore.com/products/xt-4",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonXT4OGvanillaicecitronliberty.jpg?v=1724957352"
-  },
-  {
-    "productId": 7420246425665,
-    "productType": "Footwear",
-    "title": "Salomon XT-6",
-    "originalPrice": "$200.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/xt-6",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonXT6olivenightblacksulfur.jpg?v=1724957167"
-  },
-  {
-    "productId": 7420242165825,
-    "productType": "Footwear",
-    "title": "Salomon XT-6 Gore-Tex",
-    "originalPrice": "$220.00",
-    "salePrice": "$169.00",
-    "link": "https://thepremierstore.com/products/xt-6-gore-tex-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/salomonXT6goretexalmondmilkfeathergreypalemauve.jpg?v=1724955257"
-  },
-  {
     "productId": 7416374362177,
     "productType": "Footwear",
     "title": "Nike Air Max 1 '86 Premium",
     "originalPrice": "$150.00",
-    "salePrice": "$85.00",
+    "salePrice": "$69.00",
     "link": "https://thepremierstore.com/products/air-max-1-86-premium-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-30-24-NikeAirMax1Green-1.jpg?v=1727727991"
+  },
+  {
+    "productId": 7416359813185,
+    "productType": "Footwear",
+    "title": "Norda Women's 003",
+    "originalPrice": "$295.00",
+    "salePrice": "$235.00",
+    "link": "https://thepremierstore.com/products/womens-003",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-26-24-Norda003Tan-1_114aca60-232c-4785-892b-c54691779577.jpg?v=1724697383"
+  },
+  {
+    "productId": 7416358305857,
+    "productType": "Footwear",
+    "title": "Norda Women's 001",
+    "originalPrice": "$285.00",
+    "salePrice": "$230.00",
+    "link": "https://thepremierstore.com/products/womens-001",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-26-24-Norda001White-1_c6e162b1-dce2-4b18-9b09-0464dea361ff.jpg?v=1724697359"
+  },
+  {
+    "productId": 7416355717185,
+    "productType": "Footwear",
+    "title": "Norda 003",
+    "originalPrice": "$295.00",
+    "salePrice": "$235.00",
+    "link": "https://thepremierstore.com/products/003-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-26-24-Norda003Black-1.jpg?v=1724697313"
+  },
+  {
+    "productId": 7416352931905,
+    "productType": "Footwear",
+    "title": "Norda 003",
+    "originalPrice": "$295.00",
+    "salePrice": "$235.00",
+    "link": "https://thepremierstore.com/products/003",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-26-24-Norda003Tan-1.jpg?v=1724697299"
+  },
+  {
+    "productId": 7416347230273,
+    "productType": "Footwear",
+    "title": "Norda 001",
+    "originalPrice": "$295.00",
+    "salePrice": "$235.00",
+    "link": "https://thepremierstore.com/products/001-2",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-26-24-Norda001Black-1.jpg?v=1724697243"
   },
   {
     "productId": 7413975023681,
@@ -1665,69 +2277,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-20-24-FrogPenquinHoodBlack-1.jpg?v=1724186173"
   },
   {
-    "productId": 7408212181057,
-    "productType": "Footwear",
-    "title": "Nike SB Malor",
-    "originalPrice": "$75.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/malor-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbmalorplatinumtintfurwolfgrey.jpg?v=1724181877"
-  },
-  {
-    "productId": 7406477901889,
-    "productType": "Sweaters-Fleece",
-    "title": "Carhartt WIP Hooded Chase Jacket",
-    "originalPrice": "$118.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/hooded-chase-jacket-7",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-16-24-CarharttWIPChaseZipBlue-1.jpg?v=1723838160"
-  },
-  {
-    "productId": 7405701136449,
-    "productType": "Bags",
-    "title": "Nike ACG Aysen Backpack (32L)",
-    "originalPrice": "$200.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/acg-aysen-backpack-32l",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-20-24-ACGAysenBackpack-Multi-1.jpg?v=1724161798"
-  },
-  {
-    "productId": 7394004074561,
-    "productType": "T Shirts",
-    "title": "Noah Core Logo Pocket T-Shirt",
-    "originalPrice": "$58.00",
-    "salePrice": "$38.00",
-    "link": "https://thepremierstore.com/products/core-logo-pocket-t-shirt-12",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-8-24-NoahPocketTeeOrange-1.jpg?v=1723130617"
-  },
-  {
-    "productId": 7393993392193,
-    "productType": "T Shirts",
-    "title": "Noah Core Logo Pocket T-Shirt",
-    "originalPrice": "$58.00",
-    "salePrice": "$38.00",
-    "link": "https://thepremierstore.com/products/core-logo-pocket-t-shirt-11",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-8-24-NoahPocketTeeGreen-1.jpg?v=1723130566"
-  },
-  {
-    "productId": 7392658096193,
-    "productType": "Footwear",
-    "title": "Nike SB PS8",
-    "originalPrice": "$120.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/ps8",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbPS8black.jpg?v=1722877248"
-  },
-  {
-    "productId": 7376800874561,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
-    "originalPrice": "$90.00",
-    "salePrice": "$64.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-6",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-26-24-ConverseAS1PurpleWheat-1F.jpg?v=1722021917"
-  },
-  {
     "productId": 7376800251969,
     "productType": "Footwear",
     "title": "Converse Fastbreak Pro Mid",
@@ -1741,45 +2290,18 @@
     "productType": "Footwear",
     "title": "Nike Field General '82",
     "originalPrice": "$100.00",
-    "salePrice": "$69.00",
+    "salePrice": "$55.00",
     "link": "https://thepremierstore.com/products/field-general-83",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-24-24-NikeFieldGeneralWhiteGum-1.jpg?v=1721831840"
-  },
-  {
-    "productId": 7373912244289,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Blazer Mid Olympic",
-    "originalPrice": "$100.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/zoom-blazer-mid-olympic",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-19-24-NikeSBBlazerMidWhiteBlack-1.jpg?v=1721414292"
-  },
-  {
-    "productId": 7368138719297,
-    "productType": "Footwear",
-    "title": "New Balance Numeric 480",
-    "originalPrice": "$100.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/480-14",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-17-24-NewBalanceNumeric480ReynoldsTanGum-1.jpg?v=1721251038"
   },
   {
     "productId": 7368127119425,
     "productType": "Decks",
     "title": "Chico Stix Tobin Yelland x Chico Stix - 1995 Photo Deck 8.25\" & 8.5\"",
     "originalPrice": "$100.00",
-    "salePrice": "$74.00",
+    "salePrice": "$62.00",
     "link": "https://thepremierstore.com/products/tobin-yelland-x-chico-stix-1995-photo-deck-8-25-8-5",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-17-24-ChicoStixChicoDeck-1.jpg?v=1721249751"
-  },
-  {
-    "productId": 7368123449409,
-    "productType": "Decks",
-    "title": "Chico Stix Tim Gavin - Signed Guest Deck 8.375\"",
-    "originalPrice": "$79.00",
-    "salePrice": "$68.00",
-    "link": "https://thepremierstore.com/products/time-gavin-signed-guest-deck-8-375",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-17-24-ChicoStixGavinDeck-1.jpg?v=1721249676"
   },
   {
     "productId": 7368047165505,
@@ -1809,51 +2331,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-12-24-AdidasCentennialWhiteSilver--1.jpg?v=1720813289"
   },
   {
-    "productId": 7367828897857,
-    "productType": "Footwear",
-    "title": "Nike SB Zoom Blazer Low Pro GT",
-    "originalPrice": "$85.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/zoom-blazer-low-pro-gt-22",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-12-24-NikeSBBlazerLow-White-1.jpg?v=1720813261"
-  },
-  {
-    "productId": 7366936199233,
-    "productType": "Footwear",
-    "title": "Last Resort AB VM001 Canvas Lo x Julian Smith",
-    "originalPrice": "$85.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/vm001-canvas-lo-x-julian-smith-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-10-24-LastResortVM001Yellow-1.jpg?v=1720724280"
-  },
-  {
-    "productId": 7366930956353,
-    "productType": "Footwear",
-    "title": "Last Resort AB VM001 Canvas Lo x Julian Smith",
-    "originalPrice": "$85.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/vm001-canvas-lo-x-julian-smith-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-10-24-LastResortVM001Green-1.jpg?v=1720724140"
-  },
-  {
-    "productId": 7366927548481,
-    "productType": "Footwear",
-    "title": "Last Resort AB VM001 Canvas Lo x Julian Smith",
-    "originalPrice": "$85.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/vm001-canvas-lo-x-julian-smith",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-10-24-LastResortVM001Purple-1Plum-DirtyBlue-Julian-Smith.jpg?v=1720724096"
-  },
-  {
-    "productId": 7363445719105,
-    "productType": "Footwear",
-    "title": "Asics Gel-Terrain x Up There",
-    "originalPrice": "$180.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/gel-terrain-x-up-there",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-8-24-AsicsUpThereGelTerrainPurple-1.jpg?v=1720455395"
-  },
-  {
     "productId": 7356585443393,
     "productType": "Footwear",
     "title": "The North Face Base Camp Mule",
@@ -1861,42 +2338,6 @@
     "salePrice": "$67.00",
     "link": "https://thepremierstore.com/products/base-camp-mule",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-3-24-NorthFaceBaseCampCircularMuleBlack-1.jpg?v=1720022554"
-  },
-  {
-    "productId": 7353394200641,
-    "productType": "Footwear",
-    "title": "Adidas Stan Smith x Dime",
-    "originalPrice": "$120.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/stan-smith-x-dime",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-28-24-DimeAdidasWhite-StanSmith--1.jpg?v=1719591802"
-  },
-  {
-    "productId": 7352914706497,
-    "productType": "Sweaters-Fleece",
-    "title": "Carhartt WIP Hooded Chase Sweatshirt",
-    "originalPrice": "$108.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/hooded-chase-sweatshirt-25",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-27-24-CarharttWIPChaseHoodREd-1.jpg?v=1719579999"
-  },
-  {
-    "productId": 7352867848257,
-    "productType": "Hats",
-    "title": "Carhartt WIP Suede Cap",
-    "originalPrice": "$78.00",
-    "salePrice": "$39.00",
-    "link": "https://thepremierstore.com/products/suede-cap",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-27-24-CarharttWIPFauxCapHamiltonBrown-1.jpg?v=1719518471"
-  },
-  {
-    "productId": 7350860218433,
-    "productType": "Footwear",
-    "title": "Nike Air Max 1",
-    "originalPrice": "$150.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/air-max-31",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeairmax1obsidianmetallicgoldwhite.jpg?v=1719427585"
   },
   {
     "productId": 7346289836097,
@@ -1908,47 +2349,11 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/converseAS1oxalexissablonegrey.jpg?v=1718993262"
   },
   {
-    "productId": 7346288689217,
-    "productType": "Footwear",
-    "title": "Converse Fastbreak Pro Mid",
-    "originalPrice": "$85.00",
-    "salePrice": "$62.00",
-    "link": "https://thepremierstore.com/products/fastbreak-pro-mid-14",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/conversefastbreakmidblackgum.jpg?v=1718993328"
-  },
-  {
-    "productId": 7344372056129,
-    "productType": "Footwear",
-    "title": "Nike Air Pegasus 2K5",
-    "originalPrice": "$160.00",
-    "salePrice": "$89.00",
-    "link": "https://thepremierstore.com/products/air-pegasus-2k5",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeairpegasus2K5sailgreenfrostcoconutmilk.jpg?v=1718911856"
-  },
-  {
-    "productId": 7344207233089,
-    "productType": "Footwear",
-    "title": "Adidas Tyshawn II",
-    "originalPrice": "$100.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/tyshawn-ii-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidastyshawnIIcoreblack.jpg?v=1718913469"
-  },
-  {
-    "productId": 7341466353729,
-    "productType": "Footwear",
-    "title": "Asics Gel-Kayano 14 x 8ON8",
-    "originalPrice": "$190.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/gel-kayano-14-x-8on8-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-23-24-Asics8on8Blue-1.jpg?v=1718821800"
-  },
-  {
     "productId": 7341183139905,
     "productType": "Sweaters-Fleece",
     "title": "Stussy Loose Knit Cross Cable Sweater",
     "originalPrice": "$150.00",
-    "salePrice": "$79.00",
+    "salePrice": "$49.00",
     "link": "https://thepremierstore.com/products/loose-knit-cross-cable-sweater-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-19-24-SheerSweaterStussyTeal-1.jpg?v=1718912177"
   },
@@ -1957,9 +2362,36 @@
     "productType": "Sweaters-Fleece",
     "title": "Stussy Loose Knit Cross Cable Sweater",
     "originalPrice": "$150.00",
-    "salePrice": "$79.00",
+    "salePrice": "$49.00",
     "link": "https://thepremierstore.com/products/loose-knit-cross-cable-sweater",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-19-24-SheerSweaterStussyTan-1.jpg?v=1718912202"
+  },
+  {
+    "productId": 7335293452353,
+    "productType": "Footwear",
+    "title": "Asics Skateboarding Gel-Splyte",
+    "originalPrice": "$120.00",
+    "salePrice": "$89.00",
+    "link": "https://thepremierstore.com/products/gel-splyte",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsgelsplyteblackgraphitegrey.jpg?v=1718390009"
+  },
+  {
+    "productId": 7335292895297,
+    "productType": "Footwear",
+    "title": "Asics Skateboarding Japan Pro",
+    "originalPrice": "$105.00",
+    "salePrice": "$79.00",
+    "link": "https://thepremierstore.com/products/japan-pro-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsjapanprocoldgreyclassicred.jpg?v=1718389884"
+  },
+  {
+    "productId": 7335292698689,
+    "productType": "Footwear",
+    "title": "Asics Skateboarding Gel-Vickka Pro",
+    "originalPrice": "$90.00",
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/gel-vickka-pro-nbsp",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/asicsgelvickkaprussianbluepuresilver.jpg?v=1718389718"
   },
   {
     "productId": 7335248330817,
@@ -1975,36 +2407,9 @@
     "productType": "Footwear",
     "title": "Last Resort AB VM004 Milic Lo",
     "originalPrice": "$100.00",
-    "salePrice": "$69.00",
+    "salePrice": "$49.00",
     "link": "https://thepremierstore.com/products/vm004-milic-lo-2",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-14-24-LastResortMilicBrown-1.jpg?v=1718390120"
-  },
-  {
-    "productId": 7332476190785,
-    "productType": "Footwear",
-    "title": "Vans Ave 2.0",
-    "originalPrice": "$120.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/ave-2-0",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-11-24-VansAve2Grey-1.jpg?v=1718130746"
-  },
-  {
-    "productId": 7319516250177,
-    "productType": "Footwear",
-    "title": "Asics Gel-Terrain",
-    "originalPrice": "$140.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/gel-terrain-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/6-3-24-AsicsGelTerrainGreen-1.jpg?v=1717505781"
-  },
-  {
-    "productId": 7312371646529,
-    "productType": "Footwear",
-    "title": "Nike Women's Zoom Vomero 5",
-    "originalPrice": "$160.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/womens-zoom-vomero-6",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-30-24-NikeVomeroGreenBlack-1.jpg?v=1717087012"
   },
   {
     "productId": 7287775363137,
@@ -2025,76 +2430,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-21-24-Adidas-Nora-Black-Green-1.jpg?v=1716318379"
   },
   {
-    "productId": 7278273396801,
-    "productType": "Decks",
-    "title": "Frog Milic - Broken Glasses Deck 8.38\"",
-    "originalPrice": "$72.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/milic-broken-glasses-deck-8-38",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-17-24-FrogMilic8BitDeck01.jpg?v=1715966503"
+    "productId": 7251118063681,
+    "productType": "Footwear",
+    "title": "Clarks Originals Wallabee x Civilist",
+    "originalPrice": "$170.00",
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/wallabee-x-civilist",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-29-24-CivilistClarks-1.jpg?v=1714573524"
   },
   {
     "productId": 7247715008577,
     "productType": "Pants",
     "title": "Noah Classic Double-Pleat Herringbone Pants",
     "originalPrice": "$248.00",
-    "salePrice": "$149.00",
+    "salePrice": "$129.00",
     "link": "https://thepremierstore.com/products/classic-double-pleat-herringbone-pants-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-18-23-Noah-Herringbone-Pants-Green-1_81586cab-f9e6-4455-af22-e54500ab5c63.jpg?v=1714440428"
-  },
-  {
-    "productId": 7247714910273,
-    "productType": "Pants",
-    "title": "Noah Classic Double-Pleat Herringbone Pants",
-    "originalPrice": "$248.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/classic-double-pleat-herringbone-pants",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-18-23-Noah-Herringbone-Pants-Blue-1_c4a9cfb4-2c72-44b8-a4c5-616535d157f1.jpg?v=1714440303"
-  },
-  {
-    "productId": 7247713927233,
-    "productType": "Pants",
-    "title": "Noah Twill Double-Pleat Pants",
-    "originalPrice": "$228.00",
-    "salePrice": "$139.00",
-    "link": "https://thepremierstore.com/products/twill-double-pleated-pants-6",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-5-23-Noah-Pleated-Pant-Black-1.jpg?v=1714439743"
-  },
-  {
-    "productId": 7247713828929,
-    "productType": "Sweaters-Fleece",
-    "title": "Noah Chest Pocket Crewneck",
-    "originalPrice": "$168.00",
-    "salePrice": "$89.00",
-    "link": "https://thepremierstore.com/products/chest-pocket-crewneck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-29-24-NoahCrewneckGrey-1.jpg?v=1714509902"
-  },
-  {
-    "productId": 7247611592769,
-    "productType": "Footwear",
-    "title": "Nike Attack Premium",
-    "originalPrice": "$135.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/attack-premium",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-29-24-NikeAttackVintage-1.jpg?v=1714508773"
-  },
-  {
-    "productId": 7240812429377,
-    "productType": "Hardware",
-    "title": "Limosine Paymaster Wax",
-    "originalPrice": "$14.00",
-    "salePrice": "$10.00",
-    "link": "https://thepremierstore.com/products/paymaster-wax",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/limopaymasterwax.jpg?v=1715026512"
-  },
-  {
-    "productId": 7237941264449,
-    "productType": "Footwear",
-    "title": "DC Truth OG",
-    "originalPrice": "$140.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/truth-og",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-26-24-DCTruthBlack-1b.jpg?v=1714161619"
   },
   {
     "productId": 7203590176833,
@@ -2115,58 +2466,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-19-24-ConverseAS1White-1.jpg?v=1713553821"
   },
   {
-    "productId": 7198688870465,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
-    "originalPrice": "$80.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-19-24-ConverseAS-1-Green-1.jpg?v=1713553749"
-  },
-  {
-    "productId": 7189344714817,
-    "productType": "Footwear",
-    "title": "Asics Skateboarding Gel-Flexkee Pro 2.0",
-    "originalPrice": "$135.00",
-    "salePrice": "$98.00",
-    "link": "https://thepremierstore.com/products/gel-flexkee-pro-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-17-24AsicsGelFlexkee2-Black-1.jpg?v=1713530984"
-  },
-  {
     "productId": 7189340389441,
     "productType": "Footwear",
     "title": "Asics Skateboarding Japan Pro",
     "originalPrice": "$105.00",
-    "salePrice": "$79.00",
+    "salePrice": "$69.00",
     "link": "https://thepremierstore.com/products/japan-pro-4",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-17-24AsicsJapanProTanGreen-1.jpg?v=1713531034"
   },
   {
-    "productId": 7189267841089,
+    "productId": 7189336391745,
     "productType": "Footwear",
-    "title": "New Balance Numeric 480",
-    "originalPrice": "$100.00",
+    "title": "Asics Skateboarding Gel-Vickka Pro",
+    "originalPrice": "$90.00",
     "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/480-10",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-19-24-NewBalance-Numeric-480-Rivals-Green-White-1b.jpg?v=1713531667"
-  },
-  {
-    "productId": 7185809866817,
-    "productType": "Footwear",
-    "title": "Nike Field General '82",
-    "originalPrice": "$100.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/field-general-82",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-8-24-NikeFieldGeneral-Black-1b.jpg?v=1713387616"
-  },
-  {
-    "productId": 7185786568769,
-    "productType": "Footwear",
-    "title": "Adidas Nora",
-    "originalPrice": "$80.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/nora-8",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-16-24-AdidasNora-Black-1.jpg?v=1713297428"
+    "link": "https://thepremierstore.com/products/gel-vickka-pro-5",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-17-24-AsicsGelVickkaTanGum-1.jpg?v=1713531137"
   },
   {
     "productId": 7123108692033,
@@ -2178,15 +2493,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-28-24-ParraSweaterVestTan--1G.jpg?v=1711720998"
   },
   {
-    "productId": 7120219799617,
-    "productType": "Footwear",
-    "title": "Nike Air Max 1 SC",
-    "originalPrice": "$150.00",
-    "salePrice": "$115.00",
-    "link": "https://thepremierstore.com/products/air-max-1-sc-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeairmax1summitwhite.jpg?v=1711653828"
-  },
-  {
     "productId": 7114963320897,
     "productType": "Sweaters-Fleece",
     "title": "Pop Trading Company Logo Hooded Sweatshirt",
@@ -2194,24 +2500,6 @@
     "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/logo-hooded-sweatshirt-2",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-27-24-PopTradingLogoHoodBlack-1.jpg?v=1711578369"
-  },
-  {
-    "productId": 7114951131201,
-    "productType": "T Shirts",
-    "title": "Pop Trading Company Logo L/S T-Shirt",
-    "originalPrice": "$83.00",
-    "salePrice": "$45.00",
-    "link": "https://thepremierstore.com/products/logo-l-s-t-shirt-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-27-24-PopTradingCoLogoLS-Tan-1.jpg?v=1711578495"
-  },
-  {
-    "productId": 7114948509761,
-    "productType": "T Shirts",
-    "title": "Pop Trading Company Mees Letters Logo T-Shirt",
-    "originalPrice": "$72.00",
-    "salePrice": "$35.00",
-    "link": "https://thepremierstore.com/products/mees-letters-logo-t-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-27-24-PopTradingLogoTeeGrey-1.jpg?v=1711578570"
   },
   {
     "productId": 7111820738625,
@@ -2241,40 +2529,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/conversefastbreakmidwhiteblue.jpg?v=1711120517"
   },
   {
-    "productId": 7111621214273,
+    "productId": 7111630749761,
     "productType": "Footwear",
     "title": "Last Resort AB CM001 Lo - Suede",
     "originalPrice": "$95.00",
-    "salePrice": "$65.00",
-    "link": "https://thepremierstore.com/products/cm001-lo-suede",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-19-24-LastResortCM-Black-1.jpg?v=1711114531"
-  },
-  {
-    "productId": 7110487834689,
-    "productType": "Footwear",
-    "title": "Nike Killshot 2",
-    "originalPrice": "$90.00",
     "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/killshot-4",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikekillshot2blacksailgum.jpg?v=1711041159"
-  },
-  {
-    "productId": 7105548255297,
-    "productType": "Footwear",
-    "title": "Vans Rowan 2",
-    "originalPrice": "$110.00",
-    "salePrice": "$75.00",
-    "link": "https://thepremierstore.com/products/rowan-4",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-15-24-VansRowan2WhiteRed-1.jpg?v=1710536435"
-  },
-  {
-    "productId": 7094037643329,
-    "productType": "Sweaters-Fleece",
-    "title": "Stussy Laguna Icon Sweater",
-    "originalPrice": "$170.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/laguna-icon-sweater",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-7-24-StussySweater-Orange-1.jpg?v=1709904709"
+    "link": "https://thepremierstore.com/products/cm001-lo-suede-1",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-19-24-LastResortCM-White-1.jpg?v=1711114963"
   },
   {
     "productId": 7093900607553,
@@ -2286,15 +2547,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/conversexstussychuck70red.jpg?v=1709908098"
   },
   {
-    "productId": 7081608872001,
-    "productType": "Footwear",
-    "title": "Nike ACG Air Exploraid",
-    "originalPrice": "$140.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/acg-air-exploraid-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikeACGairexploraidorewoodbrownsail.jpg?v=1709649363"
-  },
-  {
     "productId": 7081461186625,
     "productType": "Footwear",
     "title": "Converse One Star Pro Ox x Quartersnacks",
@@ -2304,65 +2556,56 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-28-24-ConverseQuartersnacksOneStarBrown-1.jpg?v=1709221127"
   },
   {
-    "productId": 7080805400641,
+    "productId": 7080614625345,
     "productType": "Sweaters-Fleece",
-    "title": "Reception Polo Sweat",
-    "originalPrice": "$180.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/polo-sweat",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-26-24-ReceptionLS-Polo-Blue-1.jpg?v=1708977394"
+    "title": "Thunder Boxed Bolt Crewneck Sweatshirt",
+    "originalPrice": "$55.00",
+    "salePrice": "$42.00",
+    "link": "https://thepremierstore.com/products/boxed-bolt-crewneck-sweatshirt",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/thunderlogocrewneckashgrey.jpg?v=1708708092"
   },
   {
-    "productId": 7080598339649,
-    "productType": "Sweaters-Fleece",
-    "title": "Anti Hero Eagle Hooded Sweatshirt",
-    "originalPrice": "$65.00",
-    "salePrice": "$48.00",
-    "link": "https://thepremierstore.com/products/eagle-hooded-sweatshirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/antiheroeaglehoodcream.jpg?v=1708707707"
-  },
-  {
-    "productId": 7078133170241,
-    "productType": "Footwear",
-    "title": "Adidas Aloha Super",
-    "originalPrice": "$90.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/aloha-super-12",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/adidasalohasupercrystalwhitecloudwhiteblue.jpg?v=1708458342"
+    "productId": 7080055111745,
+    "productType": "Beanies",
+    "title": "Thunder Charged Patch Beanie",
+    "originalPrice": "$20.00",
+    "salePrice": "$14.00",
+    "link": "https://thepremierstore.com/products/charged-patch-beanie",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/thundergreenlogopatchbeanie1.jpg?v=1708704476"
   },
   {
     "productId": 7076782342209,
     "productType": "Footwear",
     "title": "Clarks Originals Wallabee Boat Cola Suede",
     "originalPrice": "$200.00",
-    "salePrice": "$109.00",
+    "salePrice": "$79.00",
     "link": "https://thepremierstore.com/products/wallabee-boat-cola-suede",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabeeBoat-BrownSuede-1.jpg?v=1708114260"
   },
   {
-    "productId": 7076780212289,
+    "productId": 7076779229249,
     "productType": "Footwear",
-    "title": "Clarks Originals Wallabee Beeswax Leather",
+    "title": "Clarks Originals Wallabee Dark Grey Suede",
     "originalPrice": "$160.00",
-    "salePrice": "$119.00",
-    "link": "https://thepremierstore.com/products/wallabee-beeswax",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabeeBrownBeeswaxMens-1.jpg?v=1708115135"
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/wallabee-dark-grey-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabee-Grey-Suede-1.jpg?v=1708114973"
   },
   {
-    "productId": 7076771725377,
+    "productId": 7076778377281,
     "productType": "Footwear",
-    "title": "Clarks Originals Women's Wallabee Cola Suede",
+    "title": "Clarks Originals Wallabee Dark Brown Suede",
     "originalPrice": "$160.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/wallabee-cola-suede-womens",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabeeWomensColASuede-1.jpg?v=1708114957"
+    "salePrice": "$109.00",
+    "link": "https://thepremierstore.com/products/wallabee-dark-brown-suede",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabeeBrownSuede-1.jpg?v=1708115000"
   },
   {
     "productId": 7076769529921,
     "productType": "Footwear",
     "title": "Clarks Originals Women's Wallabee Beeswax Leather",
     "originalPrice": "$160.00",
-    "salePrice": "$89.00",
+    "salePrice": "$69.00",
     "link": "https://thepremierstore.com/products/wallabee-beeswax-womens",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-16-24-ClarksWallabeeBrownBeeswax-1.jpg?v=1708115116"
   },
@@ -2380,18 +2623,9 @@
     "productType": "Footwear",
     "title": "Asics Skateboarding Japan Pro",
     "originalPrice": "$105.00",
-    "salePrice": "$79.00",
+    "salePrice": "$59.00",
     "link": "https://thepremierstore.com/products/japan-pro-3",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-12-24-AsicsJapanPro-Orange-1.jpg?v=1707945344"
-  },
-  {
-    "productId": 7074551234625,
-    "productType": "Jeans",
-    "title": "Noah Pleated Jeans",
-    "originalPrice": "$228.00",
-    "salePrice": "$149.00",
-    "link": "https://thepremierstore.com/products/pleated-jeans-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-13-24-Noah-Pleated-Jean-DarkBlue-1.jpg?v=1707945593"
   },
   {
     "productId": 7072877215809,
@@ -2412,15 +2646,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/2-5-24-Noah-Pleated-Pant-Pink-1.jpg?v=1707399474"
   },
   {
-    "productId": 7072872628289,
-    "productType": "T Shirts",
-    "title": "Noah Core Logo Pocket T-Shirt",
-    "originalPrice": "$58.00",
-    "salePrice": "$26.00",
-    "link": "https://thepremierstore.com/products/core-logo-pocket-t-shirt-7",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/4-5-23-Noah-Logo-Pocket-Tee-Teal-1_86c9fbe0-634d-4922-a04f-4c088bcd8be9.jpg?v=1707246598"
-  },
-  {
     "productId": 7072116441153,
     "productType": "Pants",
     "title": "Carhartt WIP Double Knee Pant - Dearborn Canvas (Rinsed)",
@@ -2428,24 +2653,6 @@
     "salePrice": "$99.00",
     "link": "https://thepremierstore.com/products/double-knee-pant-19",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-26-22-Carhartt-WIP-Double-Knee-Hamilton-Brown-1_7a814375-4bde-4e6b-a0eb-9a6ec5256569.jpg?v=1707158871"
-  },
-  {
-    "productId": 7069848109121,
-    "productType": "Pants",
-    "title": "Carhartt WIP Double Knee Pant - Dearborn Canvas (Rinsed)",
-    "originalPrice": "$148.00",
-    "salePrice": "$99.00",
-    "link": "https://thepremierstore.com/products/double-knee-pant-22",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/3-5-22-Carhartt-WIP-DOuble-Knee-Pant-Black-1_29d9358e-a0d5-410b-a015-6e5c41f7a872.jpg?v=1706913473"
-  },
-  {
-    "productId": 7064040276033,
-    "productType": "Footwear",
-    "title": "Converse Chuck 70 x Turnstile",
-    "originalPrice": "$95.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/chuck-70-x-turnstile",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-24-24-ConverseCons-Turnstile-BlackChuckTaylor-5.jpg?v=1706118610"
   },
   {
     "productId": 7064039718977,
@@ -2457,13 +2664,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-24-24-ConverseCons-Turnstile-OneStarWhite-1.jpg?v=1706118543"
   },
   {
-    "productId": 7059812384833,
+    "productId": 7049465299009,
     "productType": "Footwear",
-    "title": "Adidas Busenitz x Dan Mancina",
+    "title": "Nike Killshot 2",
     "originalPrice": "$90.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/busenitz-x-dan-mancina",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-18-24-DanMancina-Busenitz-Adidas-Green-1b.jpg?v=1705594248"
+    "salePrice": "$69.00",
+    "link": "https://thepremierstore.com/products/killshot-6",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/1-16-20KillShotWhtGrn1b_930f15b4-fa9f-47e2-8e25-084648758b78.jpg?v=1703082540"
   },
   {
     "productId": 7049183002689,
@@ -2475,67 +2682,13 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/12-22-23-Adidas-Nora-White-1.jpg?v=1703270017"
   },
   {
-    "productId": 7027071483969,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
-    "originalPrice": "$85.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-21-23-Converse-AS1-Tan-1.jpg?v=1700584956"
-  },
-  {
-    "productId": 7022806728769,
-    "productType": "Sweaters-Fleece",
-    "title": "Stussy S Loose Knit Sweater",
-    "originalPrice": "$150.00",
-    "salePrice": "$79.00",
-    "link": "https://thepremierstore.com/products/s-loose-knit-sweater",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-10-23-Stussy-Yarn-Sweater-Black-1Loose-Knit.jpg?v=1699652999"
-  },
-  {
-    "productId": 7022578794561,
-    "productType": "Sweaters-Fleece",
-    "title": "Jacuzzi Flavor Hoodie",
-    "originalPrice": "$80.00",
-    "salePrice": "$56.00",
-    "link": "https://thepremierstore.com/products/flavor-hoodie",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/jacuzziflavorhoodie1.jpg?v=1699648576"
-  },
-  {
-    "productId": 7022577385537,
-    "productType": "Decks",
-    "title": "Jacuzzi Caswell - Bear Deck 8.25\"",
-    "originalPrice": "$70.00",
-    "salePrice": "$56.00",
-    "link": "https://thepremierstore.com/products/caswell-bear-deck-8-25",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/jacuzzicaswellbeardeck1_d9d58cf8-8951-4f10-8ea0-5c6bfd883797.jpg?v=1699646700"
-  },
-  {
-    "productId": 7022499987521,
-    "productType": "Footwear",
-    "title": "Vans Skate Slip-On",
-    "originalPrice": "$70.00",
-    "salePrice": "$52.00",
-    "link": "https://thepremierstore.com/products/skate-slip-on-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/11-7-23-Vans-Slip-On-Yellow-1.jpg?v=1699629715"
-  },
-  {
     "productId": 7021352255553,
     "productType": "Footwear",
     "title": "Last Resort AB VM004 Milic Lo",
     "originalPrice": "$95.00",
-    "salePrice": "$65.00",
+    "salePrice": "$55.00",
     "link": "https://thepremierstore.com/products/vm004-milic-lo-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/lastresortvm004blackcream.jpg?v=1699374556"
-  },
-  {
-    "productId": 7021351534657,
-    "productType": "Footwear",
-    "title": "Last Resort AB VM004 Milic Lo",
-    "originalPrice": "$95.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/vm004-milic-lo",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/lastresortvm004blackgraphite.jpg?v=1699374602"
   },
   {
     "productId": 7010785755201,
@@ -2547,24 +2700,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/ace22polishedhollow1_1100x_3b3ca020-d322-42cc-bbba-16ff8deb2202.jpg?v=1734452397"
   },
   {
-    "productId": 7000551194689,
-    "productType": "Footwear",
-    "title": "New Balance Numeric 600",
-    "originalPrice": "$95.00",
-    "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/600",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-25-23-NB_KnoxBlack-1.jpg?v=1698263096"
-  },
-  {
-    "productId": 6995254739009,
-    "productType": "Footwear",
-    "title": "Converse Fastbreak Pro Mid",
-    "originalPrice": "$80.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/fastbreak-pro-mid-7",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/10-20-23-Converse-Fastbreak-White-1.jpg?v=1697831527"
-  },
-  {
     "productId": 6986739220545,
     "productType": "Footwear",
     "title": "Converse One Star Pro Ox",
@@ -2572,15 +2707,6 @@
     "salePrice": "$55.00",
     "link": "https://thepremierstore.com/products/one-star-pro-ox-27",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-26-23-Converse-One-Star-White-1.jpg?v=1696429845"
-  },
-  {
-    "productId": 6982052446273,
-    "productType": "Footwear",
-    "title": "Last Resort AB VM002 Suede Lo",
-    "originalPrice": "$90.00",
-    "salePrice": "$66.00",
-    "link": "https://thepremierstore.com/products/vm002-suede-lo-10",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-22-23-VM002-Suede-Lo-Last-Resort-Navy-Gum-1.jpg?v=1695398724"
   },
   {
     "productId": 6982008045633,
@@ -2592,121 +2718,22 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/nikesbblazermidanthraciteblack.jpg?v=1695403224"
   },
   {
-    "productId": 6981682233409,
-    "productType": "Footwear",
-    "title": "Converse CTAS Pro Mid",
-    "originalPrice": "$75.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/ctas-pro-mid-8",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/9-26-23-Converse-Chuck-Blue-1.jpg?v=1695760592"
-  },
-  {
-    "productId": 6975808700481,
-    "productType": "T Shirts",
-    "title": "Noah Core Logo Pocket T-Shirt",
-    "originalPrice": "$58.00",
-    "salePrice": "$26.00",
-    "link": "https://thepremierstore.com/products/core-logo-pocket-t-shirt-6",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-18-23-Noah-Pocket-Tee-Purple-1.jpg?v=1692376070"
-  },
-  {
-    "productId": 6975807062081,
-    "productType": "Sweaters-Fleece",
-    "title": "Noah Fleece Classic Crewneck",
-    "originalPrice": "$148.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/fleece-classic-crewneck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-18-23-Noah-Logo-Crew-Black-1.jpg?v=1692392604"
-  },
-  {
-    "productId": 6975558058049,
-    "productType": "T Shirts",
-    "title": "Noah Classic L/S Pocket T-Shirt",
-    "originalPrice": "$62.00",
-    "salePrice": "$26.00",
-    "link": "https://thepremierstore.com/products/classic-l-s-pocket-t-shirt-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-18-23-Noah-Pocket-Blue-1.jpg?v=1692392795"
-  },
-  {
     "productId": 6975518638145,
     "productType": "Footwear",
     "title": "Asics Skateboarding Gel-Vickka Pro",
     "originalPrice": "$90.00",
-    "salePrice": "$69.00",
+    "salePrice": "$59.00",
     "link": "https://thepremierstore.com/products/gel-vickka-pro-1",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-15-23-SAsics-Skate-Gel-Vickka-Ironclad-1.jpg?v=1692198236"
   },
   {
-    "productId": 6972019572801,
+    "productId": 6968320852033,
     "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
-    "originalPrice": "$80.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-4-23-Converse-AS-1-Blue-White-1.jpg?v=1691179119"
-  },
-  {
-    "productId": 6972017934401,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox",
-    "originalPrice": "$80.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-alexis-sablone-1",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-4-23-Converse-AS-1-White-Blue-1.jpg?v=1691179152"
-  },
-  {
-    "productId": 6970472890433,
-    "productType": "Decks",
-    "title": "Deathwish Pedro - Seven Trumpets Deck 8.125\"",
-    "originalPrice": "$72.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/pedro-seven-trumpets-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/8-1-23-Deathwish-Delfino-Deck-1.jpg?v=1690910324"
-  },
-  {
-    "productId": 6968319934529,
-    "productType": "Footwear",
-    "title": "Asics Skateboarding Gel-Flexkee Pro",
-    "originalPrice": "$135.00",
-    "salePrice": "$98.00",
-    "link": "https://thepremierstore.com/products/gel-flexkee-pro",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-6-23-Asics-Flexpro-Black-Birch-1.jpg?v=1688670607"
-  },
-  {
-    "productId": 6963996557377,
-    "productType": "T Shirts",
-    "title": "Bronze Polka Dot Logo T-Shirt",
-    "originalPrice": "$36.00",
-    "salePrice": "$26.00",
-    "link": "https://thepremierstore.com/products/polka-dot-logo-t-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/bronze56kpolkadotlogotshirtgrey.jpg?v=1686318520"
-  },
-  {
-    "productId": 6962732105793,
-    "productType": "Footwear",
-    "title": "Converse AS-1 Pro Ox (Alexis Sablone)",
-    "originalPrice": "$80.00",
-    "salePrice": "$58.00",
-    "link": "https://thepremierstore.com/products/as-1-pro-ox-alexis-sablone-3",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-31-23-Converse-As-1-White-1b.jpg?v=1685548165"
-  },
-  {
-    "productId": 6962002067521,
-    "productType": "Footwear",
-    "title": "Adidas Busenitz Vulc II",
-    "originalPrice": "$75.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/busenitz-vulc-ii-8",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-25-23-Adidas-Busenitz-Vulc-Sand-1.jpg?v=1685044483"
-  },
-  {
-    "productId": 6961652269121,
-    "productType": "Decks",
-    "title": "StrangeLove Max Murphy - Snake Deck 8.5\"",
-    "originalPrice": "$80.00",
+    "title": "Asics Skateboarding Aaron Pro",
+    "originalPrice": "$90.00",
     "salePrice": "$59.00",
-    "link": "https://thepremierstore.com/products/max-murphy-snake-deck",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/5-23-23-Strangelove-Rocker-Deck-1.jpg?v=1684860115"
+    "link": "https://thepremierstore.com/products/aaron-pro",
+    "image": "https://cdn.shopify.com/s/files/1/0563/1361/files/7-6-23-Asics-AAron-Blackout-1.jpg?v=1688670411"
   },
   {
     "productId": 6954906026049,
@@ -2716,60 +2743,6 @@
     "salePrice": "$74.00",
     "link": "https://thepremierstore.com/products/superstar-adv-3",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/adidassuperstarADVcloudwhite.jpg?v=1681409887"
-  },
-  {
-    "productId": 6953006923841,
-    "productType": "Sweaters-Fleece",
-    "title": "Noah Classic Hoodie",
-    "originalPrice": "$168.00",
-    "salePrice": "$88.00",
-    "link": "https://thepremierstore.com/products/classic-hoodie-9",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/4-5-23-Noah-Pullover-Grey-1.jpg?v=1680731247"
-  },
-  {
-    "productId": 6951729758273,
-    "productType": "Toys",
-    "title": "Super7 Powell Peralta Reaction Figure Wave 1 - Steve Steadham",
-    "originalPrice": "$20.00",
-    "salePrice": "$10.00",
-    "link": "https://thepremierstore.com/products/powell-peralta-reaction-figure-wave-1-steve-steadham",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-24-23-Super7-RE-Powell_W1b_SteveSteadman_Card_2048.jpg?v=1679676468"
-  },
-  {
-    "productId": 6950193463361,
-    "productType": "Footwear",
-    "title": "Converse One Star Pro Ox",
-    "originalPrice": "$75.00",
-    "salePrice": "$45.00",
-    "link": "https://thepremierstore.com/products/one-star-pro-ox-21",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-15-23-Cons-One-Star-Tan-1.jpg?v=1678893765"
-  },
-  {
-    "productId": 6950189006913,
-    "productType": "Footwear",
-    "title": "Converse Chuck 70 Hi",
-    "originalPrice": "$90.00",
-    "salePrice": "$49.00",
-    "link": "https://thepremierstore.com/products/chuck-70-hi-20",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-15-23-Converse-Chuck-70-Blue-1.jpg?v=1678894021"
-  },
-  {
-    "productId": 6939448508481,
-    "productType": "Bags",
-    "title": "Stingwater Logo Shoulder Bag",
-    "originalPrice": "$132.00",
-    "salePrice": "$69.00",
-    "link": "https://thepremierstore.com/products/logo-shoulder-bag",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/1-23-23-Stingwater-Large-pouch-Camo-1.jpg?v=1674584117"
-  },
-  {
-    "productId": 6939075018817,
-    "productType": "Footwear",
-    "title": "Converse One Star Pro Ox",
-    "originalPrice": "$75.00",
-    "salePrice": "$39.00",
-    "link": "https://thepremierstore.com/products/one-star-pro-ox-19",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/1-18-23-Converse-One-Star-Brown--1.jpg?v=1674248723"
   },
   {
     "productId": 6939073871937,
@@ -2817,15 +2790,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/11-3-22classicgripdiecutgrip.jpg?v=1667500034"
   },
   {
-    "productId": 6881296023617,
-    "productType": "T Shirts",
-    "title": "Anti Hero Basic Eagle S/S T-Shirt",
-    "originalPrice": "$27.00",
-    "salePrice": "$20.00",
-    "link": "https://thepremierstore.com/products/basic-eagle-s-s-t-shirt",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/9-8-22-Anti-Hero-Eagle-Tee-Green-1.jpg?v=1662732133"
-  },
-  {
     "productId": 6856372846657,
     "productType": "Footwear",
     "title": "Converse Fastbreak Pro Mid",
@@ -2862,15 +2826,6 @@
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-28-22tyshawnblack_5290439c-99e9-4458-9589-4cf96769fea4.jpg?v=1651515051"
   },
   {
-    "productId": 6775036739649,
-    "productType": "Footwear",
-    "title": "Converse One Star Pro Ox (Converse x Carhartt WIP)",
-    "originalPrice": "$100.00",
-    "salePrice": "$55.00",
-    "link": "https://thepremierstore.com/products/one-star-pro-ox-converse-x-carhartt-wip",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-25-22-Cons-Carhartt-WIP-One-Star-White-1.jpg?v=1648681619"
-  },
-  {
     "productId": 6766390575169,
     "productType": "Footwear",
     "title": "Last Resort AB VM002 Suede Lo",
@@ -2878,51 +2833,6 @@
     "salePrice": "$62.00",
     "link": "https://thepremierstore.com/products/vm002-suede-lo-4",
     "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-17-22-Last-Resort-002-Suede-Lo-Navy-1.jpg?v=1647609120"
-  },
-  {
-    "productId": 6553621135425,
-    "productType": "Trucks",
-    "title": "Ace AF1 Black Truck (Set of 2)",
-    "originalPrice": "$65.00",
-    "salePrice": "$39.00",
-    "link": "https://thepremierstore.com/products/af1-black-truck-set-of-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/5-3-21ACEtruckBLACK-1.jpg?v=1620056353"
-  },
-  {
-    "productId": 6546335039553,
-    "productType": "Trucks",
-    "title": "Ace AF1 Gold Truck (Set of 2)",
-    "originalPrice": "$65.00",
-    "salePrice": "$35.00",
-    "link": "https://thepremierstore.com/products/af1-gold-truck-set-of-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/4-9-21-ACE-44-GOLD.jpg?v=1618617190"
-  },
-  {
-    "productId": 6543355674689,
-    "productType": "Trucks",
-    "title": "Thunder Hollow Night II Truck (Set of 2)",
-    "originalPrice": "$65.00",
-    "salePrice": "$45.00",
-    "link": "https://thepremierstore.com/products/hollow-night-ii-truck-set-of-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/3-24-21thundertruckblack-1.jpg?v=1616611808"
-  },
-  {
-    "productId": 4660753727553,
-    "productType": "Trucks",
-    "title": "Thunder Sonora Truck - Black (Set of 2)",
-    "originalPrice": "$52.00",
-    "salePrice": "$32.00",
-    "link": "https://thepremierstore.com/products/sonora-truck-black-set-of-2",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/2-19-21Thunder148Black1.jpg?v=1613768940"
-  },
-  {
-    "productId": 4649085206593,
-    "productType": "Trucks",
-    "title": "Ace Classic Truck - Matte Black (Set of 2)",
-    "originalPrice": "$55.00",
-    "salePrice": "$29.00",
-    "link": "https://thepremierstore.com/products/classic-truck-matte-black",
-    "image": "https://cdn.shopify.com/s/files/1/0563/1361/products/1-25-21ACEtruck44black1.jpg?v=1611669059"
   },
   {
     "productId": 4637596909633,
