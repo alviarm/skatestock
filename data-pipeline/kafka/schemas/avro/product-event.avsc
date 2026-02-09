@@ -1,0 +1,183 @@
+{
+  "type": "record",
+  "name": "ProductEvent",
+  "namespace": "com.skatestock.events",
+  "doc": "Product event schema for SkateStock data pipeline. Supports 5,000+ daily products from 5+ e-commerce sources.",
+  "fields": [
+    {
+      "name": "eventId",
+      "type": "string",
+      "doc": "Unique event UUID for idempotency"
+    },
+    {
+      "name": "eventType",
+      "type": {
+        "type": "enum",
+        "name": "EventType",
+        "symbols": [
+          "PRODUCT_CREATED",
+          "PRODUCT_UPDATED",
+          "PRODUCT_DELETED",
+          "PRICE_CHANGED",
+          "STOCK_CHANGED"
+        ]
+      },
+      "doc": "Type of product event"
+    },
+    {
+      "name": "timestamp",
+      "type": "long",
+      "logicalType": "timestamp-millis",
+      "doc": "Event timestamp in milliseconds since epoch"
+    },
+    {
+      "name": "source",
+      "type": "string",
+      "doc": "Source system (shop name)"
+    },
+    {
+      "name": "shopId",
+      "type": "int",
+      "doc": "Internal shop identifier"
+    },
+    {
+      "name": "product",
+      "type": {
+        "type": "record",
+        "name": "Product",
+        "fields": [
+          {
+            "name": "externalId",
+            "type": "string",
+            "doc": "External product ID from source"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "doc": "Product title/name"
+          },
+          {
+            "name": "description",
+            "type": ["null", "string"],
+            "default": null
+          },
+          {
+            "name": "brand",
+            "type": ["null", "string"],
+            "default": null
+          },
+          {
+            "name": "category",
+            "type": ["null", "string"],
+            "default": null
+          },
+          {
+            "name": "originalPrice",
+            "type": [
+              "null",
+              {
+                "type": "bytes",
+                "logicalType": "decimal",
+                "precision": 10,
+                "scale": 2
+              }
+            ],
+            "default": null
+          },
+          {
+            "name": "salePrice",
+            "type": [
+              "null",
+              {
+                "type": "bytes",
+                "logicalType": "decimal",
+                "precision": 10,
+                "scale": 2
+              }
+            ],
+            "default": null
+          },
+          {
+            "name": "currency",
+            "type": "string",
+            "default": "USD"
+          },
+          {
+            "name": "sku",
+            "type": ["null", "string"],
+            "default": null
+          },
+          {
+            "name": "imageUrl",
+            "type": ["null", "string"],
+            "default": null
+          },
+          {
+            "name": "productUrl",
+            "type": "string"
+          },
+          {
+            "name": "availabilityStatus",
+            "type": {
+              "type": "enum",
+              "name": "AvailabilityStatus",
+              "symbols": [
+                "IN_STOCK",
+                "OUT_OF_STOCK",
+                "PRE_ORDER",
+                "BACK_ORDER",
+                "UNKNOWN"
+              ],
+              "default": "UNKNOWN"
+            }
+          },
+          {
+            "name": "stockQuantity",
+            "type": ["null", "int"],
+            "default": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "metadata",
+      "type": {
+        "type": "record",
+        "name": "EventMetadata",
+        "fields": [
+          {
+            "name": "scraperVersion",
+            "type": "string",
+            "doc": "Version of the scraper that produced this event"
+          },
+          {
+            "name": "scrapeTimestamp",
+            "type": "long",
+            "logicalType": "timestamp-millis"
+          },
+          {
+            "name": "processingLatencyMs",
+            "type": "int",
+            "doc": "Time between scrape and Kafka publish in milliseconds"
+          },
+          {
+            "name": "correlationId",
+            "type": ["null", "string"],
+            "default": null,
+            "doc": "Trace correlation ID for distributed tracing"
+          },
+          {
+            "name": "retryCount",
+            "type": "int",
+            "default": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "fingerprint",
+      "type": "string",
+      "doc": "SHA-256 fingerprint for deduplication"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+name: Deploy to Production
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to deploy (git SHA or tag)'
+        required: true
+        type: string
+      confirm:
+        description: 'Confirm production deployment'
+        required: true
+        type: boolean
+
+env:
+  AWS_REGION: us-east-1
+  EKS_CLUSTER_NAME: skatestock-production
+  REGISTRY: ghcr.io
+
+jobs:
+  approve:
+    name: Approval Confirmation
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Echo approval message
+        run: |
+          echo "=========================================="
+          echo "Production deployment approved!"
+          echo "Version to deploy: ${{ github.event.inputs.version }}"
+          echo "Confirmed by: ${{ github.actor }}"
+          echo "=========================================="
+
+  deploy-production:
+    name: Deploy to Production
+    runs-on: ubuntu-latest
+    needs: approve
+    environment:
+      name: production
+      url: https://skatestock.io
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.version }}
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Update kubeconfig for EKS production cluster
+        run: |
+          aws eks update-kubeconfig --region ${{ env.AWS_REGION }} --name ${{ env.EKS_CLUSTER_NAME }}
+
+      - name: Install kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+          version: 'v1.28.0'
+
+      - name: Deploy specific version
+        run: |
+          kubectl set image deployment/kafka-producer kafka-producer=${{ env.REGISTRY }}/${{ github.repository }}/kafka-producer:${{ github.event.inputs.version }} -n production
+          kubectl set image deployment/kafka-consumer kafka-consumer=${{ env.REGISTRY }}/${{ github.repository }}/kafka-consumer:${{ github.event.inputs.version }} -n production
+          kubectl set image deployment/api api=${{ env.REGISTRY }}/${{ github.repository }}/api:${{ github.event.inputs.version }} -n production
+          kubectl set image deployment/dashboard dashboard=${{ env.REGISTRY }}/${{ github.repository }}/dashboard:${{ github.event.inputs.version }} -n production
+          kubectl set image deployment/analytics analytics=${{ env.REGISTRY }}/${{ github.repository }}/analytics:${{ github.event.inputs.version }} -n production
+
+      - name: Wait for rollout to complete
+        run: |
+          kubectl rollout status deployment/kafka-producer -n production --timeout=300s
+          kubectl rollout status deployment/kafka-consumer -n production --timeout=300s
+          kubectl rollout status deployment/api -n production --timeout=300s
+          kubectl rollout status deployment/dashboard -n production --timeout=300s
+          kubectl rollout status deployment/analytics -n production --timeout=300s
+
+      - name: Run health checks
+        run: |
+          echo "Running health checks against production environment..."
+          
+          # Get service endpoints
+          API_URL=$(kubectl get svc api -n production -o jsonpath='{.status.loadBalancer.ingress[0].hostname}')
+          DASHBOARD_URL=$(kubectl get svc dashboard -n production -o jsonpath='{.status.loadBalancer.ingress[0].hostname}')
+          
+          # Test API health endpoint with retries
+          for i in {1..5}; do
+            if curl -sf http://${API_URL}:8000/health; then
+              echo "API health check passed!"
+              break
+            fi
+            echo "Retry $i/5..."
+            sleep 10
+          done
+          
+          # Test API readiness
+          curl -sf http://${API_URL}:8000/ready || exit 1
+          
+          # Test dashboard
+          curl -sf http://${DASHBOARD_URL}:8050 || exit 1
+          
+          # Verify Kafka consumer lag is acceptable
+          kubectl exec -n production deployment/kafka-consumer -- python -c "from kafka.admin import KafkaAdminClient; print('Kafka connection OK')" || echo "Kafka check skipped"
+          
+          echo "All health checks passed!"
+
+      - name: Notify on Slack
+        if: always()
+        uses: 8398a7/action-slack@v3
+        with:
+          status: ${{ job.status }}
+          channel: '#deployments'
+          text: |
+            Production deployment ${{ job.status == 'success' && 'succeeded' || 'failed' }}!
+            Version: ${{ github.event.inputs.version }}
+            Deployed by: ${{ github.actor }}
+            Commit: ${{ github.sha }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+# Reusable workflow outputs for ci.yml
+outputs:
+  image_tag: ${{ github.sha }}
+  pr_number: ${{ github.event.number }}

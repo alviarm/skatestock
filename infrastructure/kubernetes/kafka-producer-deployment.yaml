@@ -1,0 +1,113 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kafka-producer
+  namespace: skatestock
+  labels:
+    app.kubernetes.io/name: skatestock
+    app.kubernetes.io/component: kafka-producer
+    app.kubernetes.io/version: "1.0.0"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app.kubernetes.io/component: kafka-producer
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: skatestock
+        app.kubernetes.io/component: kafka-producer
+        app.kubernetes.io/version: "1.0.0"
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "8080"
+        prometheus.io/path: "/metrics"
+    spec:
+      containers:
+        - name: kafka-producer
+          image: skatestock/kafka-producer:latest
+          imagePullPolicy: Always
+          ports:
+            - name: http
+              containerPort: 8080
+              protocol: TCP
+          env:
+            - name: KAFKA_BROKERS
+              valueFrom:
+                configMapKeyRef:
+                  name: skatestock-config
+                  key: KAFKA_BROKERS
+            - name: SCHEMA_REGISTRY_URL
+              valueFrom:
+                configMapKeyRef:
+                  name: skatestock-config
+                  key: SCHEMA_REGISTRY_URL
+            - name: LOG_LEVEL
+              valueFrom:
+                configMapKeyRef:
+                  name: skatestock-config
+                  key: LOG_LEVEL
+            - name: SCRAPE_INTERVAL_MINUTES
+              valueFrom:
+                configMapKeyRef:
+                  name: skatestock-config
+                  key: SCRAPE_INTERVAL_MINUTES
+            - name: SCRAPER_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: skatestock-secrets
+                  key: SCRAPER_API_KEY
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
+          livenessProbe:
+            httpGet:
+              path: /health/live
+              port: http
+            initialDelaySeconds: 30
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /health/ready
+              port: http
+            initialDelaySeconds: 10
+            periodSeconds: 5
+            timeoutSeconds: 3
+            failureThreshold: 3
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - name: tmp
+              mountPath: /tmp
+      volumes:
+        - name: tmp
+          emptyDir: {}
+      restartPolicy: Always
+      terminationGracePeriodSeconds: 30
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: kafka-producer
+  namespace: skatestock
+  labels:
+    app.kubernetes.io/name: skatestock
+    app.kubernetes.io/component: kafka-producer
+spec:
+  type: ClusterIP
+  selector:
+    app.kubernetes.io/component: kafka-producer
+  ports:
+    - name: http
+      port: 8080
+      targetPort: http
+      protocol: TCP

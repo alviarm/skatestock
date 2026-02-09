@@ -1,0 +1,140 @@
+groups:
+  - name: skatestock_alerts
+    rules:
+      # High Error Rate Alert
+      - alert: HighErrorRate
+        expr: |
+          (
+            sum(rate(http_requests_total{job="skatestock-api",status=~"5.."}[5m]))
+            /
+            sum(rate(http_requests_total{job="skatestock-api"}[5m]))
+          ) > 0.01
+        for: 5m
+        labels:
+          severity: critical
+          service: api
+        annotations:
+          summary: "High error rate detected on SkateStock API"
+          description: "Error rate is above 1% (current value: {{ $value | humanizePercentage }}) for more than 5 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/high-error-rate"
+
+      # High Latency Alert
+      - alert: HighLatency
+        expr: |
+          histogram_quantile(0.95, 
+            sum(rate(http_request_duration_seconds_bucket{job="skatestock-api"}[5m])) by (le)
+          ) > 0.5
+        for: 5m
+        labels:
+          severity: warning
+          service: api
+        annotations:
+          summary: "High latency detected on SkateStock API"
+          description: "95th percentile latency is above 500ms (current value: {{ $value | humanizeDuration }}) for more than 5 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/high-latency"
+
+      # Kafka Consumer Lag Alert
+      - alert: KafkaConsumerLag
+        expr: |
+          sum(kafka_consumergroup_lag{job="kafka-exporter"}) > 10000
+        for: 10m
+        labels:
+          severity: warning
+          service: kafka
+        annotations:
+          summary: "High Kafka consumer lag detected"
+          description: "Total consumer lag is above 10,000 messages (current value: {{ $value | humanize }}) for more than 10 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/kafka-consumer-lag"
+
+      # Database Down Alert
+      - alert: DatabaseDown
+        expr: |
+          up{job="postgresql"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: database
+        annotations:
+          summary: "PostgreSQL database is down"
+          description: "PostgreSQL exporter has been down for more than 1 minute"
+          runbook_url: "https://wiki.skatestock.com/runbooks/database-down"
+
+      # Redis Down Alert
+      - alert: RedisDown
+        expr: |
+          up{job="redis"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: cache
+        annotations:
+          summary: "Redis cache is down"
+          description: "Redis exporter has been down for more than 1 minute"
+          runbook_url: "https://wiki.skatestock.com/runbooks/redis-down"
+
+      # API Down Alert
+      - alert: APIDown
+        expr: |
+          up{job="skatestock-api"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: api
+        annotations:
+          summary: "SkateStock API is down"
+          description: "SkateStock API has been down for more than 1 minute"
+          runbook_url: "https://wiki.skatestock.com/runbooks/api-down"
+
+      # Kafka Down Alert
+      - alert: KafkaDown
+        expr: |
+          up{job="kafka"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          service: kafka
+        annotations:
+          summary: "Kafka broker is down"
+          description: "Kafka broker has been down for more than 1 minute"
+          runbook_url: "https://wiki.skatestock.com/runbooks/kafka-down"
+
+      # High CPU Usage Alert
+      - alert: HighCPUUsage
+        expr: |
+          100 - (avg by (instance) (irate(node_cpu_seconds_total{mode="idle",job="node-exporter"}[5m])) * 100) > 80
+        for: 5m
+        labels:
+          severity: warning
+          service: infrastructure
+        annotations:
+          summary: "High CPU usage detected"
+          description: "CPU usage is above 80% (current value: {{ $value | humanizePercentage }}) for more than 5 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/high-cpu-usage"
+
+      # High Memory Usage Alert
+      - alert: HighMemoryUsage
+        expr: |
+          (node_memory_MemTotal_bytes{job="node-exporter"} - node_memory_MemAvailable_bytes{job="node-exporter"}) 
+          / node_memory_MemTotal_bytes{job="node-exporter"} * 100 > 85
+        for: 5m
+        labels:
+          severity: warning
+          service: infrastructure
+        annotations:
+          summary: "High memory usage detected"
+          description: "Memory usage is above 85% (current value: {{ $value | humanizePercentage }}) for more than 5 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/high-memory-usage"
+
+      # Disk Space Low Alert
+      - alert: DiskSpaceLow
+        expr: |
+          (node_filesystem_size_bytes{job="node-exporter",fstype!="tmpfs"} - node_filesystem_avail_bytes{job="node-exporter",fstype!="tmpfs"})
+          / node_filesystem_size_bytes{job="node-exporter",fstype!="tmpfs"} * 100 > 85
+        for: 5m
+        labels:
+          severity: warning
+          service: infrastructure
+        annotations:
+          summary: "Disk space is running low"
+          description: "Disk usage is above 85% (current value: {{ $value | humanizePercentage }}) for more than 5 minutes"
+          runbook_url: "https://wiki.skatestock.com/runbooks/disk-space-low"

@@ -1,0 +1,11 @@
+# SkateStock Plotly Dashboard Requirements
+dash==2.14.1
+dash-bootstrap-components==1.5.0
+plotly==5.17.0
+pandas==2.0.3
+numpy==1.24.3
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.20
+redis==5.0.0
+python-dotenv==1.0.0
+gunicorn==21.2.0

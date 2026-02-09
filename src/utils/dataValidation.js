@@ -1,131 +1,152 @@
-// Utility functions for data validation and normalization
+/**
+ * Data Validation Utilities for SkateStock
+ * Validates and normalizes scraped product data
+ */
 
-// Validate and normalize product data
+/**
+ * Validates a product object has required fields
+ */
 function validateProduct(product) {
-  // Check required fields
-  if (!product.title || typeof product.title !== "string") {
-    product.title = "Unknown Product";
+  if (!product) return false;
+  
+  // Required fields
+  if (!product.productId) return false;
+  if (!product.title || product.title.trim() === '') return false;
+  if (!product.link || product.link.trim() === '') return false;
+  
+  // Link must be a valid URL
+  try {
+    new URL(product.link);
+  } catch {
+    return false;
   }
-
-  if (!product.link || typeof product.link !== "string") {
-    product.link = "#";
-  }
-
-  if (!product.image || typeof product.image !== "string") {
-    product.image = "/placeholder-image.jpg";
-  }
-
-  // Validate product ID
-  if (!product.productId || product.productId === "No ID found") {
-    product.productId = Date.now() + Math.random(); // Generate temporary ID
-  }
-
-  // Validate product type
-  if (!product.productType || product.productType === "No type found") {
-    product.productType = "Unknown";
-  }
-
-  // Validate prices
-  if (product.salePrice && product.salePrice !== "No sale price found") {
-    // Ensure price is in correct format
-    if (!product.salePrice.startsWith("$")) {
-      product.salePrice = `$${product.salePrice}`;
-    }
-  } else {
-    product.salePrice = null;
-  }
-
-  if (
-    product.originalPrice &&
-    product.originalPrice !== "No original price found"
-  ) {
-    // Ensure price is in correct format
-    if (!product.originalPrice.startsWith("$")) {
-      product.originalPrice = `$${product.originalPrice}`;
-    }
-  } else {
-    product.originalPrice = null;
-  }
-
-  // Clean up title
-  product.title = product.title.trim();
-
-  // Clean up product type
-  product.productType = product.productType.trim();
-
-  return product;
+  
+  return true;
 }
 
-// Normalize product data across different shops
-function normalizeProduct(product, shopName) {
-  // Apply validation first
-  product = validateProduct(product);
+/**
+ * Normalizes price strings to consistent format
+ */
+function normalizePrice(price) {
+  if (!price || price === 'No sale price found' || price === 'No original price found') {
+    return undefined;
+  }
+  
+  // Extract numeric value from price string
+  const match = price.match(/[\d,]+\.?\d*/);
+  if (match) {
+    const numericValue = parseFloat(match[0].replace(/,/g, ''));
+    if (!isNaN(numericValue)) {
+      return `$${numericValue.toFixed(2)}`;
+    }
+  }
+  
+  return price;
+}
 
-  // Add shop identifier
-  product.shop = shopName;
+/**
+ * Normalizes image URLs
+ */
+function normalizeImageUrl(image) {
+  if (!image || image === 'No image found') {
+    return '/placeholder-product.jpg';
+  }
+  
+  // Ensure HTTPS
+  if (image.startsWith('//')) {
+    return `https:${image}`;
+  }
+  
+  return image;
+}
 
-  // Normalize product types
-  const typeMapping = {
-    "t-shirts": "T-Shirts",
-    "t-shirt": "T-Shirts",
-    shirts: "Shirts",
-    shirt: "Shirts",
-    sweatshirts: "Sweatshirts",
-    sweatshirt: "Sweatshirts",
-    hoodies: "Sweatshirts",
-    hoodie: "Sweatshirts",
-    jackets: "Jackets",
-    jacket: "Jackets",
-    shoes: "Shoes",
-    sneakers: "Shoes",
-    footwear: "Shoes",
-    pants: "Pants",
-    trousers: "Pants",
-    shorts: "Pants",
-    hats: "Hats",
-    hat: "Hats",
-    caps: "Hats",
-    cap: "Hats",
-    beanies: "Beanies",
-    beanie: "Beanies",
-    dvd: "DVDs",
-    dvds: "DVDs",
-    videos: "DVDs",
-    video: "DVDs",
-    misc: "Miscellaneous",
-    "misc.": "Miscellaneous",
+/**
+ * Normalizes product types to consistent categories
+ */
+function normalizeProductType(type) {
+  if (!type || type === 'No type found' || type === 'No product type found') {
+    return 'Other';
+  }
+  
+  const normalized = type.trim().toLowerCase();
+  
+  // Map common variations to standard types
+  const typeMap = {
+    't-shirts': 'T-Shirts',
+    'tshirt': 'T-Shirts',
+    't shirt': 'T-Shirts',
+    'shirts': 'Shirts',
+    'hoodies': 'Sweatshirts',
+    'sweatshirts': 'Sweatshirts',
+    'crewneck': 'Sweatshirts',
+    'shoes': 'Shoes',
+    'sneakers': 'Shoes',
+    'footwear': 'Shoes',
+    'decks': 'Decks',
+    'skateboards': 'Decks',
+    'trucks': 'Trucks',
+    'wheels': 'Wheels',
+    'bearings': 'Bearings',
+    'hats': 'Hats',
+    'caps': 'Hats',
+    'beanies': 'Beanies',
+    'pants': 'Pants',
+    'jeans': 'Pants',
+    'shorts': 'Shorts',
+    'videos': 'Videos',
+    'dvd': 'Videos',
+    'accessories': 'Accessories',
+    'socks': 'Accessories',
+    'backpacks': 'Accessories',
+    'bags': 'Accessories',
   };
-
-  const normalizedType = product.productType.toLowerCase();
-  if (typeMapping[normalizedType]) {
-    product.productType = typeMapping[normalizedType];
-  }
-
-  // Clean up image URLs
-  if (product.image.startsWith("//")) {
-    product.image = `https:${product.image}`;
-  }
-
-  return product;
+  
+  return typeMap[normalized] || type.charAt(0).toUpperCase() + type.slice(1);
 }
 
-// Deduplicate products based on title and price
+/**
+ * Normalizes product data from different sources
+ */
+function normalizeProduct(product, source) {
+  const normalized = {
+    productId: product.productId || `unknown-${Date.now()}`,
+    title: product.title?.trim() || 'Unknown Product',
+    salePrice: normalizePrice(product.salePrice),
+    originalPrice: normalizePrice(product.originalPrice),
+    link: product.link || '',
+    image: normalizeImageUrl(product.image),
+    productType: normalizeProductType(product.productType),
+  };
+  
+  return normalized;
+}
+
+/**
+ * Removes duplicate products based on productId
+ */
 function deduplicateProducts(products) {
-  const seen = new Map();
+  const seen = new Set();
   return products.filter((product) => {
-    const key = `${product.title.toLowerCase()}-${
-      product.salePrice || product.originalPrice
-    }`;
-    if (seen.has(key)) {
+    if (seen.has(product.productId)) {
       return false;
     }
-    seen.set(key, true);
+    seen.add(product.productId);
     return true;
   });
+}
+
+/**
+ * Filters out invalid products
+ */
+function filterValidProducts(products) {
+  return products
+    .filter((p) => validateProduct(p))
+    .map((p) => normalizeProduct(p, 'unknown'));
 }
 
 module.exports = {
   validateProduct,
   normalizeProduct,
   deduplicateProducts,
+  filterValidProducts,
 };

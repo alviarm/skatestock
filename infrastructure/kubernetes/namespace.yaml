@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: skatestock
+  labels:
+    name: skatestock
+    app.kubernetes.io/name: skatestock
+    app.kubernetes.io/component: infrastructure
+    environment: production

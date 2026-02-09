@@ -1,0 +1,66 @@
+groups:
+  - name: skatestock_recording_rules
+    interval: 15s
+    rules:
+      # API Requests per minute
+      - record: skatestock:api_requests_per_minute
+        expr: |
+          sum(rate(http_requests_total{job="skatestock-api"}[1m])) * 60
+
+      # API Latency p95
+      - record: skatestock:api_latency_p95
+        expr: |
+          histogram_quantile(0.95, 
+            sum(rate(http_request_duration_seconds_bucket{job="skatestock-api"}[5m])) by (le, route)
+          )
+
+      # API Latency p99
+      - record: skatestock:api_latency_p99
+        expr: |
+          histogram_quantile(0.99, 
+            sum(rate(http_request_duration_seconds_bucket{job="skatestock-api"}[5m])) by (le, route)
+          )
+
+      # Kafka Messages per second
+      - record: skatestock:kafka_messages_per_second
+        expr: |
+          sum(rate(kafka_topic_partition_current_offset[1m]))
+
+      # Error rate percentage
+      - record: skatestock:api_error_rate_percentage
+        expr: |
+          (
+            sum(rate(http_requests_total{job="skatestock-api",status=~"5.."}[5m]))
+            /
+            sum(rate(http_requests_total{job="skatestock-api"}[5m]))
+          ) * 100
+
+      # Average latency by endpoint
+      - record: skatestock:api_latency_average
+        expr: |
+          sum(rate(http_request_duration_seconds_sum{job="skatestock-api"}[5m])) 
+          / 
+          sum(rate(http_request_duration_seconds_count{job="skatestock-api"}[5m]))
+
+      # Total consumer lag across all partitions
+      - record: skatestock:kafka_total_consumer_lag
+        expr: |
+          sum(kafka_consumergroup_lag{job="kafka-exporter"})
+
+      # Database connections active
+      - record: skatestock:db_active_connections
+        expr: |
+          pg_stat_activity_count{job="postgresql"}
+
+      # Cache hit rate
+      - record: skatestock:redis_cache_hit_rate
+        expr: |
+          (
+            rate(redis_keyspace_hits_total{job="redis"}[5m])
+            /
+            (
+              rate(redis_keyspace_hits_total{job="redis"}[5m])
+              +
+              rate(redis_keyspace_misses_total{job="redis"}[5m])
+            )
+          ) * 100

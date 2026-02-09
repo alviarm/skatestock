@@ -1,0 +1,498 @@
+openapi: 3.0.3
+info:
+  title: SkateStock API
+  description: |
+    Production-Grade E-commerce Data Intelligence Platform API
+
+    Features:
+    - Real-time product data from 5+ skate shops
+    - Price trend analytics
+    - Discount pattern detection
+    - Availability forecasting
+  version: 1.0.0
+  contact:
+    name: SkateStock Support
+    email: support@skatestock.com
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+
+servers:
+  - url: http://localhost:3001
+    description: Local development
+  - url: https://api.skatestock.com/v1
+    description: Production
+
+security:
+  - BearerAuth: []
+  - ApiKeyAuth: []
+
+tags:
+  - name: Products
+    description: Product catalog operations
+  - name: Analytics
+    description: Analytics and trend data
+  - name: Alerts
+    description: Alert management
+  - name: Health
+    description: Health and status checks
+
+paths:
+  /products:
+    get:
+      summary: List products
+      description: Get paginated list of products with filtering options
+      tags:
+        - Products
+      parameters:
+        - name: page
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 20
+            maximum: 100
+        - name: shop
+          in: query
+          schema:
+            type: string
+          description: Filter by shop name
+        - name: category
+          in: query
+          schema:
+            type: string
+          description: Filter by product category
+        - name: brand
+          in: query
+          schema:
+            type: string
+          description: Filter by brand
+        - name: min_discount
+          in: query
+          schema:
+            type: number
+          description: Minimum discount percentage
+        - name: search
+          in: query
+          schema:
+            type: string
+          description: Search in product titles
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  products:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Product"
+                  pagination:
+                    $ref: "#/components/schemas/Pagination"
+        "429":
+          $ref: "#/components/responses/TooManyRequests"
+        "500":
+          $ref: "#/components/responses/InternalError"
+
+  /products/{id}:
+    get:
+      summary: Get product by ID
+      description: Get detailed information about a specific product
+      tags:
+        - Products
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Product found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Product"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /products/{id}/price-history:
+    get:
+      summary: Get price history
+      description: Get historical price data for a product
+      tags:
+        - Products
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: days
+          in: query
+          schema:
+            type: integer
+            default: 30
+      responses:
+        "200":
+          description: Price history data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/PriceHistory"
+
+  /analytics/trends:
+    get:
+      summary: Get price trends
+      description: Get aggregated price trends over time
+      tags:
+        - Analytics
+      parameters:
+        - name: days
+          in: query
+          schema:
+            type: integer
+            default: 30
+        - name: group_by
+          in: query
+          schema:
+            type: string
+            enum: [category, brand, shop]
+            default: category
+      responses:
+        "200":
+          description: Trend data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/PriceTrend"
+
+  /analytics/discount-patterns:
+    get:
+      summary: Get discount patterns
+      description: Get detected discount patterns (flash sales, gradual discounts)
+      tags:
+        - Analytics
+      parameters:
+        - name: pattern_type
+          in: query
+          schema:
+            type: string
+            enum: [flash_sale, gradual_discount, all]
+            default: all
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 50
+      responses:
+        "200":
+          description: Discount patterns
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/DiscountPattern"
+
+  /analytics/metrics:
+    get:
+      summary: Get pipeline metrics
+      description: Get performance and throughput metrics
+      tags:
+        - Analytics
+      parameters:
+        - name: metric_name
+          in: query
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Metrics data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Metric"
+
+  /alerts:
+    get:
+      summary: List alerts
+      description: Get recent alerts and notifications
+      tags:
+        - Alerts
+      parameters:
+        - name: unread_only
+          in: query
+          schema:
+            type: boolean
+            default: false
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 20
+      responses:
+        "200":
+          description: Alerts list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Alert"
+
+  /health:
+    get:
+      summary: Health check
+      description: Check API and dependencies health
+      tags:
+        - Health
+      security: [] # No auth required
+      responses:
+        "200":
+          description: System healthy
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+        "503":
+          description: Service unavailable
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthStatus"
+
+  /health/ready:
+    get:
+      summary: Readiness probe
+      description: Kubernetes readiness probe endpoint
+      tags:
+        - Health
+      security: []
+      responses:
+        "200":
+          description: Service ready
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
+
+  schemas:
+    Product:
+      type: object
+      properties:
+        id:
+          type: integer
+        external_id:
+          type: string
+        title:
+          type: string
+        brand:
+          type: string
+        category:
+          type: string
+        original_price:
+          type: number
+        sale_price:
+          type: number
+        discount_percentage:
+          type: number
+        currency:
+          type: string
+        image_url:
+          type: string
+        product_url:
+          type: string
+        availability_status:
+          type: string
+        shop_id:
+          type: integer
+        shop_name:
+          type: string
+        first_seen_at:
+          type: string
+          format: date-time
+        last_seen_at:
+          type: string
+          format: date-time
+
+    Pagination:
+      type: object
+      properties:
+        current_page:
+          type: integer
+        total_pages:
+          type: integer
+        total_items:
+          type: integer
+        has_next:
+          type: boolean
+        has_prev:
+          type: boolean
+
+    PriceHistory:
+      type: object
+      properties:
+        id:
+          type: integer
+        original_price:
+          type: number
+        sale_price:
+          type: number
+        availability_status:
+          type: string
+        recorded_at:
+          type: string
+          format: date-time
+
+    PriceTrend:
+      type: object
+      properties:
+        date:
+          type: string
+          format: date
+        category:
+          type: string
+        avg_original_price:
+          type: number
+        avg_sale_price:
+          type: number
+        avg_discount_percentage:
+          type: number
+        product_count:
+          type: integer
+
+    DiscountPattern:
+      type: object
+      properties:
+        id:
+          type: integer
+        product_id:
+          type: integer
+        product_title:
+          type: string
+        pattern_type:
+          type: string
+        confidence_score:
+          type: number
+        start_date:
+          type: string
+          format: date
+        end_date:
+          type: string
+          format: date
+        price_before:
+          type: number
+        price_after:
+          type: number
+
+    Metric:
+      type: object
+      properties:
+        metric_name:
+          type: string
+        metric_value:
+          type: number
+        metric_unit:
+          type: string
+        labels:
+          type: object
+        recorded_at:
+          type: string
+          format: date-time
+
+    Alert:
+      type: object
+      properties:
+        id:
+          type: integer
+        alert_type:
+          type: string
+        severity:
+          type: string
+        message:
+          type: string
+        product_title:
+          type: string
+        triggered_at:
+          type: string
+          format: date-time
+        is_read:
+          type: boolean
+
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+          enum: [healthy, unhealthy]
+        timestamp:
+          type: string
+          format: date-time
+        version:
+          type: string
+        dependencies:
+          type: object
+          properties:
+            database:
+              type: string
+            redis:
+              type: string
+            kafka:
+              type: string
+
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              error:
+                type: string
+              message:
+                type: string
+
+    TooManyRequests:
+      description: Rate limit exceeded
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              error:
+                type: string
+              retry_after:
+                type: integer
+
+    InternalError:
+      description: Internal server error
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              error:
+                type: string
+              message:
+                type: string

@@ -1,0 +1,68 @@
+{
+  "type": "record",
+  "name": "ErrorEvent",
+  "namespace": "com.skatestock.events",
+  "doc": "Error event schema for dead letter queue processing",
+  "fields": [
+    {
+      "name": "errorId",
+      "type": "string"
+    },
+    {
+      "name": "originalEvent",
+      "type": ["null", "string"],
+      "doc": "Serialized original event that failed"
+    },
+    {
+      "name": "errorType",
+      "type": {
+        "type": "enum",
+        "name": "ErrorType",
+        "symbols": [
+          "VALIDATION_ERROR",
+          "PROCESSING_ERROR",
+          "DATABASE_ERROR",
+          "TIMEOUT_ERROR",
+          "UNKNOWN_ERROR"
+        ]
+      }
+    },
+    {
+      "name": "errorMessage",
+      "type": "string"
+    },
+    {
+      "name": "errorStack",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "timestamp",
+      "type": "long",
+      "logicalType": "timestamp-millis"
+    },
+    {
+      "name": "retryCount",
+      "type": "int",
+      "default": 0
+    },
+    {
+      "name": "source",
+      "type": "string"
+    },
+    {
+      "name": "topic",
+      "type": "string"
+    },
+    {
+      "name": "partition",
+      "type": ["null", "int"],
+      "default": null
+    },
+    {
+      "name": "offset",
+      "type": ["null", "long"],
+      "default": null
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+# SkateStock - Interview Mode Docker Compose
+# Local-first development environment (zero cost)
+
+version: "3.8"
+
+services:
+  # ==========================================
+  # KAFKA INFRASTRUCTURE (Event Streaming)
+  # ==========================================
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.5.0
+    container_name: skatestock-zookeeper
+    ports:
+      - "2181:2181"
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+    volumes:
+      - zookeeper-data:/var/lib/zookeeper/data
+      - zookeeper-logs:/var/lib/zookeeper/log
+    networks:
+      - skatestock-network
+    healthcheck:
+      test: ["CMD", "bash", "-c", "echo 'ruok' | nc localhost 2181"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    container_name: skatestock-kafka
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      # Performance tuning for 5k+ products/day
+      KAFKA_NUM_PARTITIONS: 6
+      KAFKA_LOG_RETENTION_HOURS: 168
+      KAFKA_LOG_SEGMENT_BYTES: 1073741824
+    volumes:
+      - kafka-data:/var/lib/kafka/data
+    networks:
+      - skatestock-network
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "kafka-broker-api-versions",
+          "--bootstrap-server",
+          "localhost:9092",
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:latest
+    container_name: skatestock-kafka-ui
+    depends_on:
+      - kafka
+    ports:
+      - "8080:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: skatestock-cluster
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:29092
+      KAFKA_CLUSTERS_0_ZOOKEEPER: zookeeper:2181
+    networks:
+      - skatestock-network
+
+  # ==========================================
+  # DATA STORAGE
+  # ==========================================
+  postgres:
+    image: postgres:15-alpine
+    container_name: skatestock-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: skatestock
+      POSTGRES_PASSWORD: skatestock_dev_password
+      POSTGRES_DB: skatestock
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./infrastructure/postgres/init:/docker-entrypoint-initdb.d
+    networks:
+      - skatestock-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U skatestock"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: skatestock-redis
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis-data:/data
+    networks:
+      - skatestock-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  redis-insight:
+    image: redis/redisinsight:latest
+    container_name: skatestock-redis-insight
+    ports:
+      - "5540:5540"
+    volumes:
+      - redis-insight-data:/data
+    networks:
+      - skatestock-network
+
+  # ==========================================
+  # DATA PIPELINE
+  # ==========================================
+  kafka-producer:
+    build:
+      context: ./data-pipeline
+      dockerfile: Dockerfile.producer
+    container_name: skatestock-kafka-producer
+    depends_on:
+      kafka:
+        condition: service_healthy
+      schema-registry:
+        condition: service_started
+    environment:
+      KAFKA_BROKERS: kafka:29092
+      SCHEMA_REGISTRY_URL: http://schema-registry:8081
+      SCRAPE_INTERVAL_MINUTES: 30
+      LOG_LEVEL: INFO
+    volumes:
+      - ./data-pipeline:/app
+      - ./src/scrapers:/app/scrapers:ro
+    networks:
+      - skatestock-network
+    restart: unless-stopped
+
+  kafka-consumer:
+    build:
+      context: ./data-pipeline
+      dockerfile: Dockerfile.consumer
+    container_name: skatestock-kafka-consumer
+    depends_on:
+      kafka:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      KAFKA_BROKERS: kafka:29092
+      DATABASE_URL: postgresql://skatestock:skatestock_dev_password@postgres:5432/skatestock
+      REDIS_URL: redis://redis:6379/0
+      CONSUMER_GROUP: product-consumers
+      LOG_LEVEL: INFO
+    volumes:
+      - ./data-pipeline:/app
+    networks:
+      - skatestock-network
+    restart: unless-stopped
+
+  schema-registry:
+    image: confluentinc/cp-schema-registry:7.5.0
+    container_name: skatestock-schema-registry
+    depends_on:
+      - kafka
+    ports:
+      - "8081:8081"
+    environment:
+      SCHEMA_REGISTRY_HOST_NAME: schema-registry
+      SCHEMA_REGISTRY_KAFKASTORE_BOOTSTRAP_SERVERS: kafka:29092
+      SCHEMA_REGISTRY_LISTENERS: http://0.0.0.0:8081
+    networks:
+      - skatestock-network
+
+  # ==========================================
+  # API & DASHBOARD
+  # ==========================================
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: skatestock-api
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://skatestock:skatestock_dev_password@postgres:5432/skatestock
+      REDIS_URL: redis://redis:6379/0
+      KAFKA_BROKERS: kafka:29092
+      JWT_SECRET: skatestock_dev_secret_key_change_in_production
+      API_RATE_LIMIT: "100"
+    volumes:
+      - ./api:/app
+    networks:
+      - skatestock-network
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+  dashboard:
+    build:
+      context: ./dashboard
+      dockerfile: Dockerfile
+    container_name: skatestock-dashboard
+    ports:
+      - "8050:8050"
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      DATABASE_URL: postgresql://skatestock:skatestock_dev_password@postgres:5432/skatestock
+      REDIS_URL: redis://redis:6379/0
+      API_URL: http://api:8000
+    volumes:
+      - ./dashboard:/app
+    networks:
+      - skatestock-network
+    command: python app.py
+
+volumes:
+  zookeeper-data:
+  zookeeper-logs:
+  kafka-data:
+  postgres-data:
+  redis-data:
+  redis-insight-data:
+
+networks:
+  skatestock-network:
+    driver: bridge

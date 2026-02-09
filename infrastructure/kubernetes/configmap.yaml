@@ -1,0 +1,32 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: skatestock-config
+  namespace: skatestock
+  labels:
+    app.kubernetes.io/name: skatestock
+    app.kubernetes.io/component: config
+data:
+  # Logging Configuration
+  LOG_LEVEL: "INFO"
+  
+  # Scraper Configuration
+  SCRAPE_INTERVAL_MINUTES: "30"
+  
+  # Kafka Configuration
+  KAFKA_BROKERS: "kafka:29092"
+  SCHEMA_REGISTRY_URL: "http://schema-registry:8081"
+  
+  # Consumer Configuration
+  CONSUMER_GROUP: "product-consumers"
+  
+  # API Configuration
+  API_RATE_LIMIT: "100"
+  
+  # Redis Configuration
+  REDIS_URL: "redis://redis:6379/0"
+  
+  # Database Configuration (non-sensitive parts)
+  DATABASE_HOST: "postgres"
+  DATABASE_PORT: "5432"
+  DATABASE_NAME: "skatestock"
