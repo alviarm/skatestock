@@ -923,7 +923,7 @@ export class GenericHtmlAdapter extends ShopAdapter {
 
       product.title = extract(this.selectors.title) || "";
       product.price =
-        extract(this.selectors.salePrice) || extract(this.selectors.price) || "";
+        extract(this.selectors.salePrice || this.selectors.price || "") || "";
       product.originalPrice = extract(this.selectors.originalPrice || "") || "";
       product.image = extract(this.selectors.image) || "";
       product.link = extract(this.selectors.link) || "";
