@@ -2,23 +2,18 @@
 
 import { useState } from "react";
 
+interface SearchFilters {
+  brands: string[];
+  categories: string[];
+  shops: string[];
+  minPrice: string;
+  maxPrice: string;
+  onSaleOnly: boolean;
+}
+
 interface SearchFiltersProps {
-  filters: {
-    brands: string[];
-    categories: string[];
-    shops: string[];
-    minPrice: string;
-    maxPrice: string;
-    onSaleOnly: boolean;
-  };
-  onFilterChange: (filters: {
-    brands: string[];
-    categories: string[];
-    shops: string[];
-    minPrice: string;
-    maxPrice: string;
-    onSaleOnly: boolean;
-  }) => void;
+  filters: SearchFilters;
+  onFilterChange: (filters: SearchFilters) => void;
   brands: string[];
   categories: string[];
   shops: string[];
@@ -38,7 +33,7 @@ export default function SearchFilters({
     price: true,
   });
 
-  const toggleArrayFilter = (key: "brands" | "categories" | "shops", value: string) => {
+  const toggleArrayFilter = (key: keyof SearchFilters, value: string) => {
     const current = filters[key] as string[];
     const updated = current.includes(value)
       ? current.filter((v) => v !== value)

@@ -103,7 +103,7 @@ export default function SearchPage() {
           <div className="hidden lg:block">
             <SearchFilters
               filters={filters}
-              onFilterChange={setFilters}
+              onFilterChange={(partial) => setFilters((prev) => ({ ...prev, ...partial }))}
               brands={BRANDS}
               categories={CATEGORIES}
               shops={SHOPS}
