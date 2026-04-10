@@ -6,6 +6,7 @@ interface SearchFilters {
   brands: string[];
   categories: string[];
   shops: string[];
+  sizes: string[];
   minPrice: string;
   maxPrice: string;
   onSaleOnly: boolean;
@@ -17,7 +18,12 @@ interface SearchFiltersProps {
   brands: string[];
   categories: string[];
   shops: string[];
+  sizes?: string[];
 }
+
+const DECK_SIZES = ["7.5\"", "7.625\"", "7.75\"", "7.875\"", "8.0\"", "8.125\"", "8.25\"", "8.375\"", "8.5\"", "8.75\"", "9.0\""];
+const SHOE_SIZES_M = ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "12", "13"];
+const SHOE_SIZES_W = ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "12"];
 
 export default function SearchFilters({
   filters,
@@ -25,12 +31,14 @@ export default function SearchFilters({
   brands,
   categories,
   shops,
+  sizes = DECK_SIZES,
 }: SearchFiltersProps) {
   const [isExpanded, setIsExpanded] = useState({
     brands: true,
     categories: true,
     shops: true,
     price: true,
+    sizes: false,
   });
 
   const toggleArrayFilter = (key: keyof SearchFilters, value: string) => {
@@ -43,6 +51,18 @@ export default function SearchFilters({
 
   const toggleSection = (section: keyof typeof isExpanded) => {
     setIsExpanded((prev) => ({ ...prev, [section]: !prev[section] }));
+  };
+
+  const clearFilters = () => {
+    onFilterChange({
+      brands: [],
+      categories: [],
+      shops: [],
+      sizes: [],
+      minPrice: "",
+      maxPrice: "",
+      onSaleOnly: false,
+    });
   };
 
   return (
@@ -101,6 +121,84 @@ export default function SearchFilters({
                 onChange={(e) => onFilterChange({ ...filters, maxPrice: e.target.value })}
                 className="w-full rounded border border-white/10 bg-[rgb(var(--background-rgb))] py-2 pl-7 pr-2 text-sm text-white placeholder-[rgb(var(--muted-rgb))]"
               />
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Size Filter */}
+      <div className="rounded-lg border border-white/10 bg-[rgb(var(--surface-rgb))] p-4">
+        <button
+          onClick={() => toggleSection("sizes")}
+          className="mb-3 flex w-full items-center justify-between text-sm font-semibold text-white"
+        >
+          <span>
+            Size {filters.sizes.length > 0 && `(${filters.sizes.length})`}
+          </span>
+          <svg
+            className={`h-4 w-4 transition-transform ${isExpanded.sizes ? "rotate-180" : ""}`}
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+          </svg>
+        </button>
+
+        {isExpanded.sizes && (
+          <div>
+            {/* Deck Sizes */}
+            <p className="mb-2 text-xs font-medium text-[rgb(var(--muted-rgb))]">Deck Width (inches)</p>
+            <div className="mb-3 flex flex-wrap gap-1">
+              {DECK_SIZES.map((size) => (
+                <button
+                  key={size}
+                  onClick={() => toggleArrayFilter("sizes", size)}
+                  className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
+                    filters.sizes.includes(size)
+                      ? "bg-[rgb(var(--accent-rgb))] text-white"
+                      : "border border-white/10 text-white/70 hover:border-white/30 hover:text-white"
+                  }`}
+                >
+                  {size}
+                </button>
+              ))}
+            </div>
+
+            {/* Shoe Sizes - Men */}
+            <p className="mb-2 text-xs font-medium text-[rgb(var(--muted-rgb))]">Men&apos;s Shoe</p>
+            <div className="mb-3 flex flex-wrap gap-1">
+              {SHOE_SIZES_M.map((size) => (
+                <button
+                  key={`M${size}`}
+                  onClick={() => toggleArrayFilter("sizes", `M${size}`)}
+                  className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
+                    filters.sizes.includes(`M${size}`)
+                      ? "bg-[rgb(var(--accent-rgb))] text-white"
+                      : "border border-white/10 text-white/70 hover:border-white/30 hover:text-white"
+                  }`}
+                >
+                  {size}
+                </button>
+              ))}
+            </div>
+
+            {/* Shoe Sizes - Women */}
+            <p className="mb-2 text-xs font-medium text-[rgb(var(--muted-rgb))]">Women&apos;s Shoe</p>
+            <div className="mb-3 flex flex-wrap gap-1">
+              {SHOE_SIZES_W.map((size) => (
+                <button
+                  key={`W${size}`}
+                  onClick={() => toggleArrayFilter("sizes", `W${size}`)}
+                  className={`rounded px-2 py-1 text-xs font-medium transition-colors ${
+                    filters.sizes.includes(`W${size}`)
+                      ? "bg-[rgb(var(--accent-rgb))] text-white"
+                      : "border border-white/10 text-white/70 hover:border-white/30 hover:text-white"
+                  }`}
+                >
+                  {size}
+                </button>
+              ))}
             </div>
           </div>
         )}
@@ -185,7 +283,7 @@ export default function SearchFilters({
             className={`h-4 w-4 transition-transform ${isExpanded.brands ? "rotate-180" : ""}`}
             fill="none"
             viewBox="0 0 24 24"
-            stroke="currentColor"
+ stroke="currentColor"
           >
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
           </svg>
@@ -210,16 +308,7 @@ export default function SearchFilters({
 
       {/* Clear Filters */}
       <button
-        onClick={() =>
-          onFilterChange({
-            brands: [],
-            categories: [],
-            shops: [],
-            minPrice: "",
-            maxPrice: "",
-            onSaleOnly: false,
-          })
-        }
+        onClick={clearFilters}
         className="w-full rounded-lg border border-white/10 bg-transparent py-2 text-sm text-[rgb(var(--muted-rgb))] transition-colors hover:border-white/20 hover:text-white"
       >
         Clear All Filters

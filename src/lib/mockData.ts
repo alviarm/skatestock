@@ -23,6 +23,7 @@ export interface SearchFilters {
   brands: string[];
   categories: string[];
   shops: string[];
+  sizes: string[];
   minPrice: string;
   maxPrice: string;
   onSaleOnly: boolean;
@@ -297,6 +298,18 @@ export function filterProducts(products: Product[], filters: SearchFilters): Pro
   // Shop filter
   if (filters.shops.length > 0) {
     filtered = filtered.filter((p) => filters.shops.includes(p.shop));
+  }
+
+  // Size filter (will work once we scrape size data)
+  if (filters.sizes.length > 0) {
+    // Currently scraped data doesn't have sizes — this is a placeholder
+    // Once size data is scraped, products will have a 'sizes' array
+    filtered = filtered.filter((p) => {
+      if (!("sizes" in p) || !p.sizes || p.sizes.length === 0) {
+        return true; // No size data — show product but it won't match
+      }
+      return filters.sizes.some((s) => (p.sizes as string[]).includes(s));
+    });
   }
 
   // Price filter

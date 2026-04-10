@@ -40,6 +40,7 @@ const defaultFilters: Filters = {
   brands: [],
   categories: [],
   shops: [],
+  sizes: [],
   minPrice: "",
   maxPrice: "",
   onSaleOnly: false,
