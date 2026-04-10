@@ -7,12 +7,31 @@ import SearchFilters from "@/components/SearchFilters";
 import {
   Product,
   SearchFilters as Filters,
-  MOCK_PRODUCTS,
   filterProducts,
-  BRANDS,
-  CATEGORIES,
-  SHOPS,
 } from "@/lib/mockData";
+
+// Real scraped product data
+import scrapedProducts from "@/lib/scrapedProducts.json";
+
+const CATEGORIES = [
+  "Decks", "Trucks", "Wheels", "Bearings", "Shoes",
+  "T-Shirts", "Sweatshirts", "Pants", "Shorts", "Hats",
+  "Beanies", "Videos", "Accessories", "Jackets", "Shirts",
+];
+
+const SHOPS = [
+  "Seasons Skate Shop",
+  "Premier Store",
+  "Labor Skate Shop",
+  "NJ Skate Shop",
+  "Black Sheep Skate Shop",
+];
+
+const BRANDS = [
+  "Nike SB", "Vans", "Adidas", "Converse", "New Balance", "ASICS", "DC",
+  "Baker", "Thrasher", "Independent", "Spitfire", "Polar", "Dime", "Supreme",
+  "Primitive", "Toy Machine", "Real", "Flip", "Deathwish", "Creature",
+];
 
 const PRODUCTS_PER_PAGE = 24;
 
@@ -32,8 +51,8 @@ export default function SearchPage() {
   const [filters, setFilters] = useState<Filters>(defaultFilters);
   const [isLoading, setIsLoading] = useState(false);
 
-  // In production, this would fetch from API
-  const products = MOCK_PRODUCTS;
+  // Real scraped data
+  const products = scrapedProducts as Product[];
 
   const filteredProducts = useMemo(
     () => filterProducts(products, filters),
